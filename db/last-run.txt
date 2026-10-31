@@ -1,5 +1,11 @@
-Sat Oct 31 14:25:52 UTC 2026
+Sat Oct 31 14:26:33 UTC 2026
 DB-URL lengte: 142, begint met: postgresql, host: aws-1-eu-central-1.pooler.supabase.com
+psql:db/setup.sql:15: NOTICE:  relation "clients" already exists, skipping
+psql:db/setup.sql:27: NOTICE:  relation "sources" already exists, skipping
+psql:db/setup.sql:43: NOTICE:  relation "media" already exists, skipping
+psql:db/setup.sql:61: NOTICE:  relation "mentions" already exists, skipping
+psql:db/setup.sql:62: NOTICE:  relation "mentions_client_published" already exists, skipping
+psql:db/setup.sql:63: NOTICE:  relation "mentions_found_at" already exists, skipping
     table_name     
 -------------------
  clients
@@ -9,32 +15,4 @@ DB-URL lengte: 142, begint met: postgresql, host: aws-1-eu-central-1.pooler.supa
  sources
 (5 rows)
 
-Traceback (most recent call last):
-  File "/home/runner/work/prgoeroes-monitor-test/prgoeroes-monitor-test/db/seed.py", line 65, in <module>
-    main()
-  File "/home/runner/work/prgoeroes-monitor-test/prgoeroes-monitor-test/db/seed.py", line 38, in main
-    supa.insert("sources", sources, on_conflict="url", ignore_duplicates=True)
-  File "/home/runner/work/prgoeroes-monitor-test/prgoeroes-monitor-test/supa.py", line 52, in insert
-    return _req("POST", table, rows, prefer=",".join(prefer), params=params)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/prgoeroes-monitor-test/prgoeroes-monitor-test/supa.py", line 27, in _req
-    with urllib.request.urlopen(req, timeout=60) as r:
-         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/urllib/request.py", line 215, in urlopen
-    return opener.open(url, data, timeout)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/urllib/request.py", line 521, in open
-    response = meth(req, response)
-               ^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/urllib/request.py", line 630, in http_response
-    response = self.parent.error(
-               ^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/urllib/request.py", line 559, in error
-    return self._call_chain(*args)
-           ^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/urllib/request.py", line 492, in _call_chain
-    result = func(*args)
-             ^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/urllib/request.py", line 639, in http_error_default
-    raise HTTPError(req.full_url, code, msg, hdrs, fp)
-urllib.error.HTTPError: HTTP Error 400: Bad Request
+klanten: 32, bronnen: 9, publicaties overgezet: 101
