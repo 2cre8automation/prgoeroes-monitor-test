@@ -1,7 +1,7 @@
 == initialize
 {"jsonrpc":"2.0","id":1,"result":{"protocolVersion":"2025-06-18","capabilities":{"tools":{}},"serverInfo":{"name":"prgoeroes-monitor","version":"0.2.0"},"instructions":"Mediamonitor van PR Goeroes (Jennifer Delano). Gebruik 'briefing' voor wat er recent verscheen, 'publicaties_zoeken' per klant, 'pu
 == tools/list
-['klanten_lijst', 'briefing', 'publicaties_zoeken', 'publicatie_toevoegen', 'publicatie_beoordelen', 'bron_toevoegen', 'bronnen_lijst', 'klant_beheren', 'mediawaarde_instellen', 'rapport_maken']
+['klanten_lijst', 'briefing', 'publicaties_zoeken', 'publicatie_toevoegen', 'publicatie_beoordelen', 'bron_toevoegen', 'bronnen_lijst', 'klant_beheren', 'mediawaarde_instellen', 'stijlregels_ophalen', 'stijlregel_toevoegen', 'stijlregel_verwijderen', 'presentatie_gegevens', 'rapport_maken']
 == klanten_lijst
 [
   {
@@ -46,10 +46,11 @@
   "van": "2026-10-01",
   "tot": "2026-10-31",
   "totaal": {
-    "publicaties": 7,
+    "publicaties": 8,
     "bereik": 0,
     "ave_eur": 0,
     "zonder_mediawaarde": [
+      "Emerce",
       "Mediacontent.nu",
       "ICT/Magazine",
       "Computable",
@@ -60,6 +61,20 @@
     ]
   },
   "publicaties": [
+    {
+      "id": 101,
+      "klant": "Aspyre",
+      "medium": "Emerce",
+      "titel": "Nieuw fintechplatform Aspyre lanceert slimme orkestratielaag voor accountancy en administratiekantoren",
+      "url": "https://www.emerce.nl/wire/nieuw-fintechplatform-aspyre-lanceert-slimme-orkestratielaag-accountancy-administratiekantoren",
+      "datum": "2026-10-31",
+      "soort": null,
+      "gevonden_via": "handmatig",
+      "status": "nieuw",
+      "bereik": null,
+      "ave_eur": null,
+      "medium_in_mediatabel": false
+    },
     {
       "id": 94,
       "klant": "Aspyre",
@@ -76,16 +91,7 @@
     },
     {
       "id": 95,
-      "klant": "Aspyre",
-      "medium": "ICT/Magazine",
-      "titel": "Haags Aspyre automatiseert workflows van administratiekantoren",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWUg5SU12TlljR1ZmazVWdUR3RUxjYzdnTWlGZUpsZ1dDMXNlS0xJbVhaRHhNeFQyV0tvaVBNb2pSZXpuYzlsRmZzbU9lVV9vZmh1WFhBZDk5SHFDa184dEFWcnpRTHdFVktmbzh2SUgwekVzNjZvT1N0X2otMjFsOVFkb19HRTdqNlhtYjZ4V1JZVjU1Z1VkR1B0aVNKUQ?oc=5",
-      "datum": "2026-10-23",
-      "soort": null,
-      "gevonden_via": "google_news",
-      "status": "nieuw",
-      "bereik": null,
-      "ave_eur": n
+      "klant": "Aspy
 == briefing
 {
   "periode_dagen": 3,
@@ -102,26 +108,26 @@
       "Wees Meer",
       "Persberichten.com",
       "AccountancyWorld",
-      "Mediacontent.nu",
-      "Wees Meer",
-      "Mediacontent.nu",
       "Frankwatching",
-      "Mediacontent.nu",
-      "Wees Meer",
       "FONK magazine",
-      "Mediacontent.nu",
       "Duurzaam Ondernemen",
-      "Wees Meer",
       "Dutch IT Channel",
       "Headliner.nl",
       "Unite.AI",
       "Banken.nl",
       "InFinance",
       "Hogeschool Utrecht",
-      "Hogeschool Utrecht",
-      "Hogeschool Utrecht",
       "IP | vakblad voor informatieprofessionals",
-      "De Utrechtse Intern
+      "De Utrechtse Internet Courant",
+      "ScienceGuide",
+      "Accountancy Vanmorgen ·",
+      "Omroep Zout",
+      "De Gelderlander",
+      "RTV Utrecht",
+      "Nieuws.nl",
+      "AD.nl",
+      "Nationale Onderwijsgids",
+      "NU",
 == bronnen_lijst
 [
   {
@@ -160,7 +166,87 @@
     "medium": "ICT/Magazine",
     "domein": "ictm
 == rapport_maken
-{"publicaties": 16, "bereik": 0, "ave_eur": 0, "zonder_mediawaarde": ["Warehouse Totaal", "Logimerce", "AD.nl", "Emerce", "Computable", "MenA.nl", "MenA.nl", "Mediacontent.nu", "quasa.io", "Dutch IT Channel", "Dutch IT Channel", "Computable", "Computable", "Computable.be", "Wees Meer", "Persberichten.com"]}
+{"publicaties": 16, "bereik": 0, "ave_eur": 0, "zonder_mediawaarde": ["Warehouse Totaal", "Logimerce", "AD.nl", "Emerce", "Computable", "MenA.nl", "Mediacontent.nu", "quasa.io", "Dutch IT Channel", "Computable.be", "Wees Meer", "Persberichten.com"]}
 https://prgoeroes-mcp.f-raja.workers.dev/rapport?klant=Katapull&tot=2026-10-31&van=2026-10-01&sig=785fad993e83eb84358aba01a6903007
 rapport http: 200
 fout token http: 404
+== stijlregels_ophalen
+{
+  "algemeen": [
+    {
+      "id": 1,
+      "rule": "Opbouw: titel met klantnaam en periode, daarna doelstellingen, kerncijfers (publicaties, bereik, advertentiewaarde), highlights, alle publicaties, en tot slot conclusie en volgende stappen."
+    },
+    {
+      "id": 2,
+      "rule": "Gebruik beeld van de klant zelf (foto's van hun website) zodat de klant zichzelf terugziet."
+    },
+    {
+      "id": 3,
+      "rule": "Toon bij elke publicatie het logo of de naam van het medium; redactionele artikelen gaan voor persberichten."
+    },
+    {
+      "id": 4,
+      "rule": "Toon publicaties en cijfers als bewijs: link naar het artikel erbij, bereik en waarde alleen als ze in de monitor bekend zijn."
+    },
+    {
+      "id": 5,
+      "rule": "Toon: zakelijk, positief en beknopt; maximaal één kernboodschap per dia."
+    }
+  ],
+  "voor_Katapull": []
+}
+== presentatie_gegevens
+{
+  "klant": {
+    "naam": "Katapull",
+    "website": null,
+    "huisstijlkleur": null,
+    "beeld_van_website": null,
+    "logo": null
+  },
+  "periode": {
+    "van": "2026-10-01",
+    "tot": "2026-10-31"
+  },
+  "kerncijfers": {
+    "publicaties": 16,
+    "bereik": 0,
+    "ave_eur": 0,
+    "zonder_mediawaarde": [
+      "Warehouse Totaal",
+      "Logimerce",
+      "AD.nl",
+      "Emerce",
+      "Computable",
+      "MenA.nl",
+      "Mediacontent.nu",
+      "quasa.io",
+      "Dutch IT Channel",
+      "Computable.be",
+      "Wees Meer",
+      "Persberichten.com"
+    ]
+  },
+  "highlights": [
+    {
+      "id": 17,
+      "klant": "Katapull",
+      "medium": "Warehouse Totaal",
+      "titel": "Katapull neemt Picqer over",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSHZZaFA3OUtmUVVNa1BQWDU1TG5VZDVHNi00a3hpZU1XUm9qNEx4RDgxclMwb3RiVF9SMkFCTDRsdFVCX0UwbXdYUndOWU8zeHZnOWdnNDlWcDdZTFp3UnBQai11Z0xMYzVMRmhDakVJN2tfR1BJR1IzTjZfTjkwNmlZWXJsTHlnbF9QMktUa1RaeFg5MllXM2tSdS1tbWxSWmc?oc=5",
+      "datum": "2026-10-30",
+      "soort": null,
+      "gevonden_via": "google_news",
+      "status": "nieuw",
+      "bereik": null,
+      "ave_eur": null,
+      "medium_in_mediatabel": false,
+      "logo": null
+    },
+    {
+      "id": 18,
+      "klant": "Katapull",
+      "medium": "Logimerce",
+      "titel": "Katapull blijft softwarespecialisten stapelen: ook Picqer ingelijfd",
+      "url
