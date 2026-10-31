@@ -25,7 +25,7 @@ jobs:
           set -o pipefail
           { psql "$DB_URL" -v ON_ERROR_STOP=1 -q -f db/setup.sql && \
             psql "$DB_URL" -c "select table_name from information_schema.tables where table_schema='public' order by 1"; } \
-            2>&1 | sed -E 's#postgres(ql)?://[^ ]*#<db-url>#g' | tee -a /tmp/db.log
+            2>&1 | sed -E -e 's#postgres(ql)?://[^ ]*#<db-url>#g' -e 's#"[^"]*@#"<verborgen>@#g' -e 's#[^ ]*@([a-z0-9.-]+supabase[a-z.]*)#<verborgen>@\1#g' | tee -a /tmp/db.log
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
