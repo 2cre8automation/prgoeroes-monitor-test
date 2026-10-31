@@ -42,7 +42,7 @@ export async function renderReport(db: Db, params: URLSearchParams): Promise<Res
   const van = params.get("van") || new Date(Date.now() - 30 * 86400_000).toISOString().slice(0, 10);
   const tot = params.get("tot") || new Date().toISOString().slice(0, 10);
   const rows: any[] = await db.get(
-    `mentions_enriched?client_id=eq.${c.id}&published=gte.${van}&published=lte.${tot}&status=neq.ruis&order=published.desc`,
+    `mentions_enriched?client_id=eq.${c.id}&pub_date=gte.${van}&pub_date=lte.${tot}&status=neq.ruis&order=pub_date.desc`,
   );
   const brand = await brandFromSite(c.website);
   const accent = /^#[0-9a-f]{3,8}$/i.test(c.brand_color || "") ? c.brand_color : /^#[0-9a-f]{3,8}$/i.test(brand.color) ? brand.color : "#5B3DF5";
@@ -110,12 +110,12 @@ a{color:inherit}.tag{font-size:10px;padding:1px 6px;border-radius:99px;backgroun
   ${highlights.length ? `<h2>Highlights</h2><div class="hl">${highlights.map((r) => `
     <div class="card"><div class="o"><img src="${logo(r.url)}" alt="">${esc(r.outlet)}</div>
     <a class="h" href="${esc(r.url)}">${esc(r.title)}</a>
-    <div class="m">${esc(datum(r.published))}${r.reach_est ? ` · ${nl(r.reach_est)} bereik` : ""}</div></div>`).join("")}</div>` : ""}
+    <div class="m">${esc(datum(r.published || r.pub_date))}${r.reach_est ? ` · ${nl(r.reach_est)} bereik` : ""}</div></div>`).join("")}</div>` : ""}
   <h2>Alle publicaties</h2>
   <table><thead><tr><th>Medium</th><th>Publicatie</th><th>Datum</th><th class="n">Bereik</th><th class="n">Waarde</th></tr></thead><tbody>
   ${rows.map((r) => `<tr><td><div class="row"><img src="${logo(r.url)}" alt="">${esc(r.outlet)}</div></td>
     <td><a href="${esc(r.url)}">${esc(r.title)}</a>${r.kind === "press_release" ? '<span class="tag">persbericht</span>' : ""}${r.kind === "offline" ? '<span class="tag">offline</span>' : ""}</td>
-    <td>${esc(datum(r.published))}</td><td class="n">${r.reach_est ? nl(r.reach_est) : "–"}</td><td class="n">${r.ave_est ? eur(Number(r.ave_est)) : "–"}</td></tr>`).join("")}
+    <td>${esc(datum(r.published || r.pub_date))}</td><td class="n">${r.reach_est ? nl(r.reach_est) : "–"}</td><td class="n">${r.ave_est ? eur(Number(r.ave_est)) : "–"}</td></tr>`).join("")}
   </tbody></table>
   <div class="foot">Bereik en advertentiewaarde zijn schattingen per publicatie op basis van bezoekersaantallen en advertentietarieven van de media (mediakits en openbare bronnen). Advertentiewaarde geeft aan wat vergelijkbare zichtbaarheid als advertentie zou kosten.${unknown ? ` Voor ${nl(unknown)} publicatie(s) zijn nog geen mediacijfers bekend; die tellen niet mee in bereik en waarde.` : ""}<br>Samengesteld door PR Goeroes.</div>
 </div></body></html>`;

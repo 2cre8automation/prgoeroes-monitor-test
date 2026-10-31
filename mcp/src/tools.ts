@@ -37,7 +37,7 @@ function shape(m: any) {
     medium: m.outlet,
     titel: m.title,
     url: m.url,
-    datum: m.published,
+    datum: m.published || m.pub_date,
     soort: m.kind === "press_release" ? "persbericht" : m.kind ? "artikel" : null,
     gevonden_via: m.method,
     status: m.status,
@@ -53,7 +53,7 @@ function totals(rows: any[]) {
     publicaties: rel.length,
     bereik: rel.reduce((s, r) => s + (r.reach_est || 0), 0),
     ave_eur: Math.round(rel.reduce((s, r) => s + Number(r.ave_est || 0), 0)),
-    zonder_mediawaarde: rel.filter((r) => !r.media_known).map((r) => r.outlet),
+    zonder_mediawaarde: [...new Set(rel.filter((r) => !r.media_known).map((r) => r.outlet))],
   };
 }
 
@@ -162,7 +162,7 @@ export const tools: Tool[] = [
     async run(db, a) {
       const days = a.dagen || 1;
       const f = a.lijst ? `&client_list=eq.${enc(a.lijst)}` : "";
-      const rows = await db.get(`mentions_enriched?found_at=gte.${isoDaysAgo(days)}&status=neq.ruis&order=client,published.desc${f}`);
+      const rows = await db.get(`mentions_enriched?found_at=gte.${isoDaysAgo(days)}&status=neq.ruis&order=client,pub_date.desc${f}`);
       const per: Record<string, any[]> = {};
       for (const r of rows) (per[r.client] ||= []).push(shape(r));
       return { periode_dagen: days, totaal: totals(rows), per_klant: per };
@@ -187,7 +187,7 @@ export const tools: Tool[] = [
       const van = a.van || isoDaysAgo(30).slice(0, 10);
       const tot = a.tot || new Date().toISOString().slice(0, 10);
       const ruis = a.inclusief_ruis ? "" : "&status=neq.ruis";
-      const rows = await db.get(`mentions_enriched?client_id=eq.${c.id}&published=gte.${van}&published=lte.${tot}${ruis}&order=published.desc`);
+      const rows = await db.get(`mentions_enriched?client_id=eq.${c.id}&pub_date=gte.${van}&pub_date=lte.${tot}${ruis}&order=pub_date.desc`);
       return { klant: c.name, van, tot, totaal: totals(rows), publicaties: rows.map(shape) };
     },
   },
@@ -354,7 +354,7 @@ export const tools: Tool[] = [
       if (!c) return { fout: `Klant '${a.klant}' niet gevonden.` };
       const van = a.van || isoDaysAgo(30).slice(0, 10);
       const tot = a.tot || new Date().toISOString().slice(0, 10);
-      const rows = await db.get(`mentions_enriched?client_id=eq.${c.id}&published=gte.${van}&published=lte.${tot}&status=neq.ruis`);
+      const rows = await db.get(`mentions_enriched?client_id=eq.${c.id}&pub_date=gte.${van}&pub_date=lte.${tot}&status=neq.ruis`);
       const q = new URLSearchParams({ klant: c.name, van, tot });
       if (a.titel) q.set("titel", a.titel);
       if (a.toelichting) q.set("tekst", a.toelichting);

@@ -73,7 +73,8 @@ select
   coalesce(m.reach, md.article_reach) as reach_est,
   coalesce(m.ave_eur, md.ave_eur, md.advertorial_eur,
            round(md.article_reach * md.cpm_eur / 1000.0, 2)) as ave_est,
-  md.confidence as media_confidence
+  md.confidence as media_confidence,
+  coalesce(m.published, (m.found_at at time zone 'Europe/Amsterdam')::date) as pub_date
 from mentions m
 join clients c on c.id = m.client_id
 left join media md
