@@ -15,3 +15,5 @@ LINK=$(call '{"jsonrpc":"2.0","id":4,"method":"tools/call","params":{"name":"rap
 echo "$LINK"
 echo "rapport http: $(curl -s -o /dev/null -w '%{http_code}' "$(echo "$LINK" | tail -1)")"
 echo "fout token http: $(curl -s -o /dev/null -w '%{http_code}' -X POST "$MCP_BASE/mcp/fout" -d '{}')"
+tool stijlregels_ophalen '{"klant":"Katapull"}' 900
+tool presentatie_gegevens '{"klant":"Katapull","van":"2026-10-01","tot":"2026-10-31"}' 1400
