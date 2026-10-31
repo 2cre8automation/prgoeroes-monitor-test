@@ -1,86 +1,224 @@
-robots.txt inhoud:
- <html><head><script type="text/javascript"><!--
-function leastFactor(n) {
- if (isNaN(n) || !isFinite(n)) return NaN;
- if (typeof phantom !== 'undefined') return 'phantom';
- if (typeof module !== 'undefined' && module.exports) return 'node';
- if (n==0) return 0;
- if (n%1 || n*n<2) return 1;
- if (n%2==0) return 2;
- if (n%3==0) return 3;
- if (n%5==0) return 5;
- var m=Math.sqrt(n);
- for (var i=7;i<=m;i+=30) {
-  if (n%i==0)      return i;
-  if (n%(i+4)==0)  return i+4;
-  if (n%(i+6)==0)  return i+6;
-  if (n%(i+10)==0) return i+10;
-  if (n%(i+12)==0) return i+12;
-  if (n%(i+16)==0) return i+16;
-  if
 
-/wire/ html:
- <html><head><script type="text/javascript"><!--
-function leastFactor(n) {
- if (isNaN(n) || !isFinite(n)) return NaN;
- if (typeof phantom !== 'undefined') return 'phantom';
- if (typeof module !== 'undefined' && module.exports) return 'node';
- if (n==0) return 0;
- if (n%1 || n*n<2) return 1;
- if (n%2==0) return 2;
- if (n%3==0) return 3;
- if (n%5==0) return 5;
- var m=Math.sqrt(n);
- for (var i=7;i<=m;i+=30) {
-  if (n%i==0)      return i;
-  if (n%(i+4)==0)  return i+4;
-  if (n%(i+6)==0)  return i+6;
-  if (n%(i+10)==0) return i+10;
-  if (n%(i+12)==0) return i+12;
-  if (n%(i+16)==0) return i+16;
-  if (n%(i+22)==0) return i+22;
-  if (n%(i+24)==0) return i+24;
- }
- return n;
-}
-function go() {
- var p=1888653205646; var s=942244710; var n;
-if ((s >> 15) & 1)/*
-else p-=
-*/p+=	34730446*/*
-*13;
-*/16;else
+===== ad.nl
+home: 200 -> https://myprivacy.dpgmedia.nl/consent?siteKey=V9f6VUvlHxq9wKIN&callbackUrl=https  COOKIEWALL?
+robots: 200; disallow voor *: ['/*webview', '/auth', '/*widget*', '/*?*otag=', '/*?*abo_type=', '/*?*utm_source=', '/*?*currentArticleId=', '/*?*articleUrl=', '/zoeken?query=', '/zoeken/?query=', '/inloggen?*', '/login?*'] ...
+  alles verboden: True
+  sitemaps: ['https://www.ad.nl/sitemap.xml', 'https://www.ad.nl/sitemap-news.xml']
+feeds: ['https://www.ad.nl/rss.xml (30 items)', 'https://www.ad.nl/home/rss.xml (30 items)']
+wordpress api: False
+nieuws-sitemap: https://www.ad.nl/sitemap-news.xml (370 urls, met titel: True)
+sitemap-index: 131 subsitemaps; klantnamen in laatste 6: geen
 
-ROUTE /cms-api/v1/wire [{"methods": ["GET"], "args": ["namespace", "context"]}]
+===== gelderlander.nl
+home: 200 -> https://myprivacy.dpgmedia.nl/consent?siteKey=Oom2kBLTny5zJUeO&callbackUrl=https  COOKIEWALL?
+robots: 200; disallow voor *: ['/*webview', '/auth', '/*widget*', '/*?*otag=', '/*?*abo_type=', '/*?*utm_source=', '/*?*currentArticleId=', '/*?*articleUrl=', '/zoeken?query=', '/zoeken/?query=', '/inloggen?*', '/login?*'] ...
+  alles verboden: True
+  sitemaps: ['https://www.gelderlander.nl/sitemap.xml', 'https://www.gelderlander.nl/sitemap-news.xml']
+feeds: ['https://www.gelderlander.nl/home/rss.xml (30 items)']
+wordpress api: False
+nieuws-sitemap: https://www.gelderlander.nl/sitemap-news.xml (329 urls, met titel: True)
+sitemap-index: 183 subsitemaps; klantnamen in laatste 6: geen
 
-ROUTE /cms-api/v1/wire/get [{"methods": ["GET"], "args": ["wire"]}]
+===== emerce.nl
+home: 200 -> https://www.emerce.nl/  
+robots: 200; disallow voor *: []
+  alles verboden: False
+  sitemaps: []
+feeds: geen
+wordpress api: True
+nieuws-sitemap: geen
 
-200 /wp-json/cms-api/v1/wire len=3248 Aspyre x0 Katapull x0
-   {"namespace":"cms-api\/v1\/wire","routes":{"\/cms-api\/v1\/wire":{"namespace":"cms-api\/v1\/wire","methods":["GET"],"endpoints":[{"methods":["GET"],"args":{"namespace":{"default":"cms-api\/v1\/wire","required":false},"context":{"default":"view","required":false}}}],"_links":{"self":[{"href":"https:\/\/www.emerce.nl\/wp-json\/cms-api\/v1\/wire"}]}},"\/cms-api\/v1\/wire\/get":{"namespace":"cms-api\/v1\/wire","methods":["GET"],"endpoints":[{"methods":["GET"],"args":{"wire":{"type":"int","default":"
+===== mena.nl
+home: 200 -> https://mena.nl/  
+robots: 200; disallow voor *: ['/zoeken', '/login', '/whitepapers?q=*', '/whitepapers?*topic*', '/whitepapers?*text*', '/whitepapers?*published_min*', '/whitepapers?*published_max*', '/whitepapers?*searchFrom*', '/whitepapers?*searchUntil*', '/']
+  alles verboden: True
+  sitemaps: ['https://mena.nl/sitemap/index.xml.gz']
+feeds: geen
+wordpress api: False
+nieuws-sitemap: geen
+sitemap-index: 4 subsitemaps; klantnamen in laatste 6: {'katapull': 2}
 
-200 /wp-json/cms-api/v1/wire?search=Aspyre len=3248 Aspyre x0 Katapull x0
-   {"namespace":"cms-api\/v1\/wire","routes":{"\/cms-api\/v1\/wire":{"namespace":"cms-api\/v1\/wire","methods":["GET"],"endpoints":[{"methods":["GET"],"args":{"namespace":{"default":"cms-api\/v1\/wire","required":false},"context":{"default":"view","required":false}}}],"_links":{"self":[{"href":"https:\/\/www.emerce.nl\/wp-json\/cms-api\/v1\/wire"}]}},"\/cms-api\/v1\/wire\/get":{"namespace":"cms-api\/v1\/wire","methods":["GET"],"endpoints":[{"methods":["GET"],"args":{"wire":{"type":"int","default":"
+===== dutchitchannel.nl
+home: 403 -> https://www.dutchitchannel.nl/  
+robots: 403; disallow voor *: []
+  alles verboden: False
+  sitemaps: []
+feeds: geen
+wordpress api: False
+nieuws-sitemap: geen
 
-400 /wp-json/cms-api/v1/wire/get len=255 Aspyre x0 Katapull x0
-   {"code":"rest_invalid_param","message":"Ongeldige parameter(s): wire","data":{"status":400,"params":{"wire":"[wire] Field can not be empty"},"details":{"wire":{"code":"rest_invalid_param","message":"[wire] Field can not be empty","data":{"status":400}}}}}
+===== warehousetotaal.nl
+home: 200 -> https://www.warehousetotaal.nl/  
+robots: 200; disallow voor *: []
+  alles verboden: False
+  sitemaps: ['https://www.warehousetotaal.nl/sitemap_index.xml']
+feeds: ['https://www.warehousetotaal.nl/feed/ (150 items)', 'https://www.warehousetotaal.nl/comments/feed/ (150 items)', 'https://www.warehousetotaal.nl/rss (150 items)']
+wordpress api: True
+nieuws-sitemap: geen
+sitemap-index: 37 subsitemaps; klantnamen in laatste 6: geen
 
-400 /wp-json/cms-api/v1/wire/get?search=Aspyre len=255 Aspyre x0 Katapull x0
-   {"code":"rest_invalid_param","message":"Ongeldige parameter(s): wire","data":{"status":400,"params":{"wire":"[wire] Field can not be empty"},"details":{"wire":{"code":"rest_invalid_param","message":"[wire] Field can not be empty","data":{"status":400}}}}}
+===== fonkonline.nl
+home: 200 -> https://fonkmagazine.com/  
+robots: 200; disallow voor *: ['/js/', '/stats/', '/', '/', '/', '/']
+  alles verboden: True
+  sitemaps: []
+feeds: geen
+wordpress api: False
+nieuws-sitemap: geen
 
-400 /wp-json/cms-api/v1/wire/get?s=Aspyre len=255 Aspyre x0 Katapull x0
-   {"code":"rest_invalid_param","message":"Ongeldige parameter(s): wire","data":{"status":400,"params":{"wire":"[wire] Field can not be empty"},"details":{"wire":{"code":"rest_invalid_param","message":"[wire] Field can not be empty","data":{"status":400}}}}}
+===== cashcow.nl
+home: 200 -> https://cashcow.nl/  
+robots: 200; disallow voor *: ['/wp-admin/', '/wp-content/uploads/2016/07/Special-Report-Cash-Onderzoek.pdf', '/wp-content/uploads/2016/07/Cashcow.nl-Special-Report.pdf']
+  alles verboden: False
+  sitemaps: []
+feeds: ['https://cashcow.nl/feed/ (20 items)', 'https://www.cashcow.nl/feed/ (20 items)', 'https://www.cashcow.nl/rss (20 items)', 'https://www.cashcow.nl/nieuws/rss (0 items)']
+wordpress api: True
+nieuws-sitemap: geen
 
-400 /wp-json/cms-api/v1/wire/get?per_page=20 len=255 Aspyre x0 Katapull x0
-   {"code":"rest_invalid_param","message":"Ongeldige parameter(s): wire","data":{"status":400,"params":{"wire":"[wire] Field can not be empty"},"details":{"wire":{"code":"rest_invalid_param","message":"[wire] Field can not be empty","data":{"status":400}}}}}
+===== duurzaam-ondernemen.nl
+home: 200 -> https://www.duurzaam-ondernemen.nl/  
+robots: 200; disallow voor *: ['/wordpress/wp-admin/']
+  alles verboden: False
+  sitemaps: ['https://www.duurzaam-ondernemen.nl/sitemap_index.xml']
+feeds: ['https://www.duurzaam-ondernemen.nl/feed/ (10 items)', 'https://www.duurzaam-ondernemen.nl/rss (10 items)', 'https://www.duurzaam-ondernemen.nl/nieuws/rss (10 items)']
+wordpress api: True
+nieuws-sitemap: geen
+sitemap-index: 67 subsitemaps; klantnamen in laatste 6: geen
 
-403 /wp-json/cms-api/v1/wire/get-categories len=110 Aspyre x0 Katapull x0
-   {"code":"rest_forbidden","message":"Access denied from your IP address: 20.169.105.181","data":{"status":403}}
+===== amsterdamsdagblad.nl
+home: 200 -> https://www.amsterdamsdagblad.nl/  
+robots: 200; disallow voor *: []
+  alles verboden: False
+  sitemaps: ['https://www.amsterdamsdagblad.nl/sitemaps/sitemap.xml', 'https://www.amsterdamsdagblad.nl/feed/news']
+feeds: geen
+wordpress api: False
+nieuws-sitemap: https://www.amsterdamsdagblad.nl/feed/news (25 urls, met titel: True)
+sitemap-index: 0 subsitemaps; klantnamen in laatste 6: geen
 
-200 /wp-json/wp/v2/posts?search=Aspyre&per_page=5 len=59970 Aspyre x0 Katapull x0
-   [{"id":6376369,"date":"2025-10-02T06:22:35","date_gmt":"2025-10-02T04:22:35","guid":{"rendered":""},"modified":"2025-10-03T13:20:23","modified_gmt":"2025-10-03T11:20:23","slug":"021025-sponsored-content-monta","status":"publish","type":"post","link":"https:\/\/www.emerce.nl\/021025-sponsored-content-monta","title":{"rendered":"021025 sponsored content Monta"},"content":{"rendered":"<article class=\"m-news-top-story\" data-createtime=\"1762006920\" data-author=\"Monta\" data-cleandate=\"2 okt 06:
+===== quasa.io
+home: 200 -> https://quasa.io/  
+robots: 200; disallow voor *: []
+  alles verboden: False
+  sitemaps: ['https://quasa.io/sitemap.xml']
+feeds: geen
+wordpress api: False
+nieuws-sitemap: geen
+sitemap-index: 134 subsitemaps; klantnamen in laatste 6: geen
 
-200 /wp-json/wp/v2/posts?search=Katapull&per_page=5 len=59970 Aspyre x0 Katapull x0
-   [{"id":6376369,"date":"2025-10-02T06:22:35","date_gmt":"2025-10-02T04:22:35","guid":{"rendered":""},"modified":"2025-10-03T13:20:23","modified_gmt":"2025-10-03T11:20:23","slug":"021025-sponsored-content-monta","status":"publish","type":"post","link":"https:\/\/www.emerce.nl\/021025-sponsored-content-monta","title":{"rendered":"021025 sponsored content Monta"},"content":{"rendered":"<article class=\"m-news-top-story\" data-createtime=\"1762006920\" data-author=\"Monta\" data-cleandate=\"2 okt 06:
+===== frankwatching.com
+home: 403 -> https://www.frankwatching.com/  
+robots: 200; disallow voor *: ['/wp/wp-admin/', '/app/uploads/*.htm', '/app/uploads/*.html', '/*?filter-', '/*&filter-']
+  alles verboden: False
+  sitemaps: ['https://www.frankwatching.com/sitemap_index.xml']
+feeds: geen
+wordpress api: True
+nieuws-sitemap: geen
+sitemap-index: 0 subsitemaps; klantnamen in laatste 6: geen
 
-200 /wp-json/wp/v2/posts?per_page=3 len=37979 Aspyre x0 Katapull x0
-   [{"id":6376369,"date":"2025-10-02T06:22:35","date_gmt":"2025-10-02T04:22:35","guid":{"rendered":"https:\/\/www.emerce.nl\/?post_type=ad&#038;p=6376369"},"modified":"2025-10-03T13:20:23","modified_gmt":"2025-10-03T11:20:23","slug":"021025-sponsored-content-monta","status":"publish","type":"post","link":"https:\/\/www.emerce.nl\/021025-sponsored-content-monta","title":{"rendered":"021025 sponsored content Monta"},"content":{"rendered":"<article class=\"m-news-top-story\" data-createtime=\"17620069
+===== banken.nl
+home: 200 -> https://www.banken.nl/  
+robots: 200; disallow voor *: []
+  alles verboden: False
+  sitemaps: ['https://www.banken.nl/sitemap_index.xml', 'https://www.banken.nl/sitemap_index.xml', 'https://www.banken.nl/sitemap_index.xml']
+feeds: ['https://www.banken.nl/rss/consultancy_rssfeed.xml (20 items)']
+wordpress api: False
+nieuws-sitemap: https://www.banken.nl/sitemap_news.xml (3053 urls, met titel: False)
+sitemap-index: 13 subsitemaps; klantnamen in laatste 6: geen
+
+===== infinance.nl
+home: 200 -> https://infinance.nl/  
+robots: 200; disallow voor *: []
+  alles verboden: False
+  sitemaps: ['https://infinance.nl/sitemap_index.xml']
+feeds: ['https://infinance.nl/feed/ (20 items)', 'https://infinance.nl/comments/feed/ (16 items)', 'https://infinance.nl/home/feed/ (1 items)', 'https://www.infinance.nl/feed/ (20 items)']
+wordpress api: True
+nieuws-sitemap: geen
+sitemap-index: 38 subsitemaps; klantnamen in laatste 6: geen
+
+===== accountancyvanmorgen.nl
+home: 200 -> https://www.accountancyvanmorgen.nl/  
+robots: 200; disallow voor *: []
+  alles verboden: False
+  sitemaps: ['https://www.accountancyvanmorgen.nl/sitemap_index.xml']
+feeds: geen
+wordpress api: False
+nieuws-sitemap: geen
+sitemap-index: 57 subsitemaps; klantnamen in laatste 6: geen
+
+===== headliner.nl
+home: 200 -> https://www.headliner.nl/  
+robots: 200; disallow voor *: ['/sections.php', '/headliner.php', '/headliner2.php', '/follow.php', '/follow2.php', '/top.php', '/top2.php', '/file.php', '/redirect.php', '/redirect2.php', '/*?cmpscreen', '/*&cmpscreen']
+  alles verboden: False
+  sitemaps: []
+feeds: geen
+wordpress api: False
+nieuws-sitemap: geen
+
+===== ictmagazine.nl
+home: 403 -> https://www.ictmagazine.nl/  
+robots: 200; disallow voor *: ['/?s=', '/page/*/?s=', '/search/', '/wp-json/', '/?rest_route=', '/wp-content/uploads/2013/', '/wp-content/uploads/2014/', '/wp-content/uploads/2015/', '/wp-content/uploads/2016/', '/wp-content/uploads/2017/', '/wp-content/uploads/2018/', '/wp-content/uploads/2019/'] ...
+  alles verboden: True
+  sitemaps: ['https://www.ictmagazine.nl/sitemap_index.xml']
+feeds: ['https://www.ictmagazine.nl/feed/ (10 items)']
+wordpress api: True
+nieuws-sitemap: geen
+sitemap-index: 0 subsitemaps; klantnamen in laatste 6: geen
+
+===== persberichten.com
+home: 200 -> https://www.persberichten.com/  
+robots: 200; disallow voor *: []
+  alles verboden: False
+  sitemaps: []
+feeds: ['https://www.persberichten.com/rss (5 items)', 'https://www.persberichten.com/rss/nieuws (5 items)']
+wordpress api: False
+nieuws-sitemap: geen
+
+===== drimble.nl
+home: 200 -> https://drimble.nl/  
+robots: 200; disallow voor *: ['/l/', '/bericht/', '/t/', '/top/', '/aanpassen/', '/registreer/', '/advertentie/', '/overzicht/', '/autovliegtuig.php', '/lazypostcode.php', '/*.uitleg.html$']
+  alles verboden: False
+  sitemaps: ['https://drimble.nl/sitemap/sitemap.xml', 'https://drimble.nl/sitemap/vacature.xml']
+feeds: geen
+wordpress api: False
+nieuws-sitemap: geen
+sitemap-index: 10 subsitemaps; klantnamen in laatste 6: geen
+
+===== nieuws.nl
+home: 200 -> https://nieuws.nl/  
+robots: 200; disallow voor *: ['/admin/']
+  alles verboden: False
+  sitemaps: ['https://nieuws.nl/sitemap.xml']
+feeds: ['https://nieuws.nl/sitemap/news.xml (209 items)', 'https://www.nieuws.nl/feed/ (209 items)', 'https://www.nieuws.nl/feed.xml (209 items)']
+wordpress api: False
+nieuws-sitemap: geen
+sitemap-index: 5 subsitemaps; klantnamen in laatste 6: geen
+
+===== nu.nl
+home: 200 -> https://myprivacy.dpgmedia.nl/consent?siteKey=ucf98legs1caotgh&callbackUrl=https  COOKIEWALL?
+robots: 200; disallow voor *: ['/api/', '/blocks/', '/component/', '/components/', '/zoeken', '/*redirect=1*', '/advertorial/', '/api/', '/blocks/', '/component/', '/components/', '/zoeken'] ...
+  alles verboden: True
+  sitemaps: ['https://www.nu.nl/sitemap_index.xml', 'https://www.nu.nl/sitemap_news.xml', 'https://www.nu.nl/sitemap_sections.xml', 'https://www.nu.nl/sitemap_general.xml']
+feeds: ['https://www.nu.nl/rss (30 items)']
+wordpress api: False
+nieuws-sitemap: https://www.nu.nl/sitemap_news.xml (305 urls, met titel: True)
+sitemap-index: 773 subsitemaps; klantnamen in laatste 6: geen
+
+===== rtvutrecht.nl
+home: 200 -> https://www.rtvutrecht.nl/  
+robots: 200; disallow voor *: ['/content/', '/embedded/', '/data/', '/inc/', '/*/-', '/nos/', '/zoeken?q=*', '/', '/', '/', '/', '/'] ...
+  alles verboden: True
+  sitemaps: ['https://www.rtvutrecht.nl/sitemap/sitemap.xml.gz', 'https://www.rtvutrecht.nl/sitemap/video-sitemap.xml.gz']
+feeds: ['https://www.rtvutrecht.nl/rss/nieuws (50 items)']
+wordpress api: False
+nieuws-sitemap: geen
+sitemap-index: 0 subsitemaps; klantnamen in laatste 6: geen
+
+===== duic.nl
+home: 200 -> https://www.duic.nl/  
+robots: 200; disallow voor *: []
+  alles verboden: False
+  sitemaps: ['https://www.duic.nl/sitemap', 'https://www.duic.nl/sitemap-modified-index']
+feeds: ['https://www.duic.nl/rss (50 items)', 'https://www.duic.nl/nieuws/rss (50 items)', 'https://www.duic.nl/rss/nieuws (50 items)']
+wordpress api: False
+nieuws-sitemap: geen
+sitemap-index: 0 subsitemaps; klantnamen in laatste 6: geen
