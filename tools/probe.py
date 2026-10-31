@@ -1,4 +1,4 @@
-"""Verkenning 3: Emerce (wire = persberichten)."""
+"""Verkenning 4: Emerce cms-api wire."""
 import urllib.request, urllib.error, re, json
 UA = "PRGoeroesMonitorTest/0.1 (+https://2cre8.eu)"
 B = "https://www.emerce.nl"
@@ -8,29 +8,20 @@ def get(u):
         with urllib.request.urlopen(r, timeout=30) as x:
             return x.status, x.headers.get("content-type", ""), x.read().decode("utf-8", "replace")
     except urllib.error.HTTPError as e:
-        return e.code, "", ""
+        return e.code, "", e.read().decode("utf-8", "replace")[:300]
     except Exception as e:
         return type(e).__name__, "", ""
-st, ct, body = get(B + "/robots.txt")
-print("robots", st); print("\n".join(l for l in body.splitlines() if re.match(r"(?i)(user-agent|disallow|allow|sitemap)", l.strip()))[:1500])
-st, ct, body = get(B + "/wp-json/")
-print("\nwp-json", st, ct[:30], len(body))
-if st == 200:
-    try:
-        routes = json.loads(body).get("routes", {})
-        print("routes met wire/press/pers:", [r for r in routes if re.search("wire|press|pers", r)][:20])
-    except Exception as e: print("parse", e)
-st, ct, body = get(B + "/wp-json/wp/v2/types")
-print("\ntypes", st, list(json.loads(body).keys()) if st == 200 else "")
-for p in ["/wp-json/wp/v2/wire?search=Aspyre", "/wp-json/wp/v2/search?search=Aspyre&subtype=any",
-          "/wp-json/wp/v2/search?search=Katapull", "/wire/feed/", "/wire/feed", "/feed/", "/wire/",
-          "/sitemap_index.xml", "/sitemap.xml", "/wp-sitemap.xml", "/?s=Aspyre"]:
-    st, ct, body = get(B + p)
-    print(f"\n{st} {p} {ct[:30]} len={len(body)} Aspyre x{len(re.findall('aspyre', body, re.I))} Katapull x{len(re.findall('katapull', body, re.I))}")
-    for m in re.findall(r"<loc>([^<]+)</loc>", body)[:40]:
-        if re.search("wire|sitemap", m): print("   loc", m)
-    for m in re.findall(r'href="([^"]*(?:aspyre|katapull)[^"]*)"', body, re.I)[:5]: print("   link", m)
-    if p.startswith("/wp-json") and st == 200: print("  ", body[:400])
-    if p.endswith("feed/") or p.endswith("feed"):
-        for t in re.findall(r"<title>(.*?)</title>", body)[:3]: print("   title", t[:100])
-        d = re.findall(r"<pubDate>(.*?)</pubDate>", body); print("   items", len(d), d[-1:] )
+st, ct, b = get(B + "/robots.txt"); print("robots.txt inhoud:\n", b[:600])
+st, ct, b = get(B + "/wire/"); print("\n/wire/ html:\n", b[:800])
+root = json.loads(get(B + "/wp-json/")[2])
+for r in ["/cms-api/v1/wire", "/cms-api/v1/wire/get"]:
+    info = root["routes"].get(r, {})
+    print("\nROUTE", r, json.dumps([{"methods": e.get("methods"), "args": list(e.get("args", {}).keys())} for e in info.get("endpoints", [])])[:600])
+for p in ["/wp-json/cms-api/v1/wire", "/wp-json/cms-api/v1/wire?search=Aspyre", "/wp-json/cms-api/v1/wire/get",
+          "/wp-json/cms-api/v1/wire/get?search=Aspyre", "/wp-json/cms-api/v1/wire/get?s=Aspyre",
+          "/wp-json/cms-api/v1/wire/get?per_page=20", "/wp-json/cms-api/v1/wire/get-categories",
+          "/wp-json/wp/v2/posts?search=Aspyre&per_page=5", "/wp-json/wp/v2/posts?search=Katapull&per_page=5",
+          "/wp-json/wp/v2/posts?per_page=3"]:
+    st, ct, b = get(B + p)
+    print(f"\n{st} {p} len={len(b)} Aspyre x{len(re.findall('aspyre', b, re.I))} Katapull x{len(re.findall('katapull', b, re.I))}")
+    print("  ", b[:500].replace("\n", " "))
