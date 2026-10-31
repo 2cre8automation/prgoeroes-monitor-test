@@ -14,6 +14,6 @@ jobs:
       - run: |
           git config user.name "prgoeroes-monitor"
           git config user.email "actions@users.noreply.github.com"
-          git add tools/probe-output.txt
+          git add tools/probe-output.txt tools/brand
           git diff --cached --quiet || git commit -m "Verkenning $(date -u +%F)"
           git pull --rebase -q && git push
