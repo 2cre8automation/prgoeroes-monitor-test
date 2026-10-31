@@ -50,15 +50,22 @@ export async function renderReport(db: Db, params: URLSearchParams): Promise<Res
   const reach = rows.reduce((s, r) => s + (r.reach_est || 0), 0);
   const ave = rows.reduce((s, r) => s + Number(r.ave_est || 0), 0);
   const outlets = [...new Set(rows.map((r) => r.outlet))];
-  const editorial = rows.filter((r) => r.kind !== "press_release").length;
   const unknown = rows.filter((r) => !r.media_known).length;
-  // Highlights: hoogste bereik eerst, redactioneel voor persbericht
-  const highlights = [...rows]
-    .sort((a, b) => (b.reach_est || 0) - (a.reach_est || 0) || (a.kind === "press_release" ? 1 : -1))
-    .slice(0, 3);
+  // Highlights: hoogste bereik eerst; bij gelijk bereik redactioneel voor persbericht/persberichtplatform;
+  // per medium maar één highlight.
+  const distribution = /persberichten|mediacontent|wees ?meer|drimble/i;
+  const weight = (r: any) => (r.reach_est || 0) * 10 + (r.kind === "press_release" || distribution.test(r.outlet) ? 0 : 5) + (r.method === "handmatig" ? 0 : 1);
+  const highlights: any[] = [];
+  for (const r of [...rows].sort((a, b) => weight(b) - weight(a))) {
+    if (!highlights.some((h) => h.outlet === r.outlet)) highlights.push(r);
+    if (highlights.length === 3) break;
+  }
   const title = params.get("titel") || `Mediaresultaten ${c.name}`;
   const intro = params.get("tekst") || "";
-  const logo = (url: string) => `https://www.google.com/s2/favicons?domain=${encodeURIComponent(domainOf(url))}&sz=64`;
+  const logo = (url: string) => {
+    const d = domainOf(url);
+    return d && !d.includes("news.google") ? `https://www.google.com/s2/favicons?domain=${encodeURIComponent(d)}&sz=64` : "";
+  };
 
   const html = `<!doctype html><html lang="nl"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -103,17 +110,17 @@ a{color:inherit}.tag{font-size:10px;padding:1px 6px;border-radius:99px;backgroun
     <div class="period">${esc(datum(van))} – ${esc(datum(tot))}</div></div></div>
   ${intro ? `<p class="intro">${esc(intro)}</p>` : ""}
   <div class="kpis">
-    <div class="kpi"><div class="v">${nl(rows.length)}</div><div class="l">publicaties in ${nl(outlets.length)} media${editorial ? ` · ${nl(editorial)} redactioneel` : ""}</div></div>
+    <div class="kpi"><div class="v">${nl(rows.length)}</div><div class="l">publicaties in ${nl(outlets.length)} media</div></div>
     <div class="kpi"><div class="v">${nl(reach)}</div><div class="l">geschat bereik</div></div>
     <div class="kpi"><div class="v">${eur(ave)}</div><div class="l">advertentiewaarde</div></div>
   </div>
   ${highlights.length ? `<h2>Highlights</h2><div class="hl">${highlights.map((r) => `
-    <div class="card"><div class="o"><img src="${logo(r.url)}" alt="">${esc(r.outlet)}</div>
+    <div class="card"><div class="o">${logo(r.url) ? `<img src="${logo(r.url)}" alt="">` : ""}${esc(r.outlet)}</div>
     <a class="h" href="${esc(r.url)}">${esc(r.title)}</a>
     <div class="m">${esc(datum(r.published || r.pub_date))}${r.reach_est ? ` · ${nl(r.reach_est)} bereik` : ""}</div></div>`).join("")}</div>` : ""}
   <h2>Alle publicaties</h2>
   <table><thead><tr><th>Medium</th><th>Publicatie</th><th>Datum</th><th class="n">Bereik</th><th class="n">Waarde</th></tr></thead><tbody>
-  ${rows.map((r) => `<tr><td><div class="row"><img src="${logo(r.url)}" alt="">${esc(r.outlet)}</div></td>
+  ${rows.map((r) => `<tr><td><div class="row">${logo(r.url) ? `<img src="${logo(r.url)}" alt="">` : ""}${esc(r.outlet)}</div></td>
     <td><a href="${esc(r.url)}">${esc(r.title)}</a>${r.kind === "press_release" ? '<span class="tag">persbericht</span>' : ""}${r.kind === "offline" ? '<span class="tag">offline</span>' : ""}</td>
     <td>${esc(datum(r.published || r.pub_date))}</td><td class="n">${r.reach_est ? nl(r.reach_est) : "–"}</td><td class="n">${r.ave_est ? eur(Number(r.ave_est)) : "–"}</td></tr>`).join("")}
   </tbody></table>
