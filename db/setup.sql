@@ -63,16 +63,17 @@ create index if not exists mentions_client_published on mentions (client_id, pub
 create index if not exists mentions_found_at on mentions (found_at desc);
 
 -- Publicaties met bereik en AVE uit de mediatabel.
--- AVE: handmatig > vaste AVE medium > advertorialprijs > bereik x CPM / 1000.
+-- Bereik per artikel: handmatig > vast bereik medium > unieke bezoekers per maand / 30 (gemiddeld dagbereik).
+-- AVE: handmatig > vaste AVE medium > bereik x CPM / 1000 (CPM uit mediakit, anders standaard EUR 25).
 create or replace view mentions_enriched as
 select
   m.*,
   c.name as client,
   c.list as client_list,
-  md.id is not null as media_known,
-  coalesce(m.reach, md.article_reach) as reach_est,
-  coalesce(m.ave_eur, md.ave_eur, md.advertorial_eur,
-           round(md.article_reach * md.cpm_eur / 1000.0, 2)) as ave_est,
+  md.id is not null and (md.article_reach is not null or md.monthly_visitors is not null or md.ave_eur is not null) as media_known,
+  coalesce(m.reach, md.article_reach, round(md.monthly_visitors / 30.0)::int) as reach_est,
+  coalesce(m.ave_eur, md.ave_eur,
+           round(coalesce(md.article_reach, md.monthly_visitors / 30.0) * coalesce(md.cpm_eur, 25) / 1000.0, 2)) as ave_est,
   md.confidence as media_confidence,
   coalesce(m.published, (m.found_at at time zone 'Europe/Amsterdam')::date) as pub_date
 from mentions m
