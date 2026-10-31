@@ -125,6 +125,7 @@ def build_monthly():
     maand = f"{MAANDEN[last_prev.month - 1]} {last_prev.year}"
     rows = fetch({"pub_date": f"gte.{van}", "and": f"(pub_date.lte.{tot})"})
     per = defaultdict(list)
+    rows = [r for r in rows if r["client_list"] in ("vast", "los", "eigen")]  # oud-klanten: wekelijkse mail
     for r in rows:
         per[(r["client_list"], r["client"])].append(r)
     total = len(rows)
