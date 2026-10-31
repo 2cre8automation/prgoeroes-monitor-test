@@ -167,7 +167,9 @@ def search_google_news(client, since, log):
 def norm_key(row):
     """Ontdubbelen: zelfde outlet + zelfde titel telt als één publicatie."""
     t = re.sub(r"\W+", " ", row["title"].lower()).strip()
-    return (row["client"].lower(), row["outlet"].lower().replace("/", ""), t)
+    outlet = row["outlet"].lower().replace("/", "").replace("www.", "").strip()
+    outlet = re.sub(r"\.nl$", "", outlet)  # "Computable.nl" (Google) == "Computable" (site)
+    return (row["client"].lower(), outlet, t)
 
 
 def main():
@@ -179,9 +181,18 @@ def main():
     existing = []
     if CSV_PATH.exists():
         with CSV_PATH.open(newline="", encoding="utf-8") as f:
-            existing = list(csv.DictReader(f))
-    seen_urls = {r["url"] for r in existing}
-    seen_keys = {norm_key(r) for r in existing}
+            for r in csv.DictReader(f):
+                existing.append(r)
+    # bestaande dubbelen opruimen; directe site-link gaat voor Google-link
+    existing.sort(key=lambda r: r["method"] != "wordpress")
+    seen_urls, seen_keys, kept = set(), set(), []
+    for r in existing:
+        if r["url"] in seen_urls or norm_key(r) in seen_keys:
+            continue
+        kept.append(r)
+        seen_urls.add(r["url"])
+        seen_keys.add(norm_key(r))
+    existing = kept
 
     log, new_rows = [], []
     for client in cfg["clients"]:
@@ -191,6 +202,7 @@ def main():
             time.sleep(1)
         if cfg.get("google_news"):
             found += search_google_news(client, since, log)
+        found.sort(key=lambda r: r["method"] != "wordpress")
         for row in found:
             key = norm_key(row)
             if row["url"] in seen_urls or key in seen_keys:
@@ -200,12 +212,12 @@ def main():
             seen_urls.add(row["url"])
             seen_keys.add(key)
 
-    write_header = not CSV_PATH.exists()
-    with CSV_PATH.open("a", newline="", encoding="utf-8") as f:
+    all_rows = sorted(existing + new_rows,
+                      key=lambda r: (r["client"], r["published"]), reverse=True)
+    with CSV_PATH.open("w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=FIELDS)
-        if write_header:
-            w.writeheader()
-        w.writerows(new_rows)
+        w.writeheader()
+        w.writerows(all_rows)
 
     with LOG_PATH.open("a", encoding="utf-8") as f:
         f.write(f"\n== {now.isoformat(timespec='seconds')} — {len(new_rows)} nieuw ==\n")
