@@ -87,3 +87,22 @@ alter table sources  enable row level security;
 alter table media    enable row level security;
 alter table mentions enable row level security;
 revoke all on mentions_enriched from anon, authenticated;
+
+-- Stijlregels voor presentaties en rapporten: Jennifer traint ze via de chat.
+create table if not exists style_rules (
+  id          bigint generated always as identity primary key,
+  client_id   bigint references clients(id) on delete cascade,   -- null = geldt voor alle klanten
+  rule        text not null,
+  created_at  timestamptz not null default now()
+);
+alter table style_rules enable row level security;
+
+insert into style_rules (rule)
+select r from (values
+  ('Opbouw: titel met klantnaam en periode, daarna doelstellingen, kerncijfers (publicaties, bereik, advertentiewaarde), highlights, alle publicaties, en tot slot conclusie en volgende stappen.'),
+  ('Gebruik beeld van de klant zelf (foto''s van hun website) zodat de klant zichzelf terugziet.'),
+  ('Toon bij elke publicatie het logo of de naam van het medium; redactionele artikelen gaan voor persberichten.'),
+  ('Toon publicaties en cijfers als bewijs: link naar het artikel erbij, bereik en waarde alleen als ze in de monitor bekend zijn.'),
+  ('Toon: zakelijk, positief en beknopt; maximaal één kernboodschap per dia.')
+) v(r)
+where not exists (select 1 from style_rules);

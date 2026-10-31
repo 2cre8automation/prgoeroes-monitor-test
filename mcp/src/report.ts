@@ -18,7 +18,7 @@ function domainOf(url: string) {
   }
 }
 
-async function brandFromSite(site: string | null) {
+export async function brandFromSite(site: string | null) {
   if (!site) return { image: "", color: "" };
   try {
     const res = await fetch(site.startsWith("http") ? site : `https://${site}`, {

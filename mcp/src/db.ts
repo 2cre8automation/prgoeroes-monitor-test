@@ -35,6 +35,9 @@ export class Db {
     if (mode === "merge") prefer.push("resolution=merge-duplicates");
     return this.req("POST", `${table}${q}`, rows, prefer.join(","));
   }
+  req_delete(path: string) {
+    return this.req("DELETE", path, undefined, "return=representation");
+  }
   update(table: string, filter: string, values: unknown) {
     return this.req("PATCH", `${table}?${filter}`, values, "return=representation");
   }

@@ -1,5 +1,6 @@
 // De gereedschappen die Claude via MCP kan gebruiken.
 import { Db, enc, findClient } from "./db";
+import { brandFromSite } from "./report";
 
 const UA = "PRGoeroesMonitor/0.2 (+https://2cre8.eu)";
 
@@ -333,6 +334,97 @@ export const tools: Tool[] = [
       if (a.bron) v.source_urls = a.bron;
       const [r] = await db.insert("media", [v], "outlet", "merge");
       return { opgeslagen: r };
+    },
+  },
+  {
+    name: "stijlregels_ophalen",
+    description: "Haal de stijlregels op voor presentaties en rapporten: algemene regels van Jennifer plus regels voor één klant. Altijd gebruiken voordat je een presentatie maakt.",
+    inputSchema: { type: "object", properties: { klant: str("Optioneel: naam van de klant") } },
+    async run(db, a) {
+      const general = await db.get("style_rules?client_id=is.null&select=id,rule&order=id");
+      let specific: any[] = [];
+      let name: string | null = null;
+      if (a.klant) {
+        const c = await findClient(db, a.klant);
+        if (c) {
+          name = c.name;
+          specific = await db.get(`style_rules?client_id=eq.${c.id}&select=id,rule&order=id`);
+        }
+      }
+      return { algemeen: general, ...(name ? { [`voor_${name}`]: specific } : {}) };
+    },
+  },
+  {
+    name: "stijlregel_toevoegen",
+    description: "Leg een stijlwens van Jennifer vast zodat elke volgende presentatie of rapport hem volgt, bv. 'altijd eerst de doelstellingen' of 'voor Katapull altijd hun groene huisstijl'. Gebruik dit als Jennifer zegt 'onthoud', 'voortaan', 'altijd' of 'nooit' over opmaak of inhoud.",
+    inputSchema: {
+      type: "object",
+      required: ["regel"],
+      properties: { regel: str("De stijlregel in Jennifers woorden"), klant: str("Optioneel: alleen voor deze klant") },
+    },
+    async run(db, a) {
+      let client_id: number | null = null;
+      if (a.klant) {
+        const c = await findClient(db, a.klant);
+        if (!c) return { fout: `Klant '${a.klant}' niet gevonden.` };
+        client_id = c.id;
+      }
+      const [r] = await db.insert("style_rules", [{ client_id, rule: a.regel }]);
+      return { opgeslagen: r.id, regel: r.rule, geldt_voor: a.klant || "alle klanten" };
+    },
+  },
+  {
+    name: "stijlregel_verwijderen",
+    description: "Verwijder een stijlregel die niet meer klopt (id uit stijlregels_ophalen).",
+    inputSchema: { type: "object", required: ["id"], properties: { id: int("Id van de regel") } },
+    async run(db, a) {
+      const r = await db.req_delete(`style_rules?id=eq.${a.id}`);
+      return r.length ? { verwijderd: a.id } : { fout: "Regel niet gevonden" };
+    },
+  },
+  {
+    name: "presentatie_gegevens",
+    description: "Alles wat nodig is voor een klantpresentatie in één keer: klantgegevens en huisstijl (kleur, beeld van hun website), kerncijfers, highlights, alle publicaties met logo's van de media, stijlregels en de link naar het printbare rapport.",
+    inputSchema: {
+      type: "object",
+      required: ["klant"],
+      properties: {
+        klant: str("Naam van de klant"),
+        van: str("Begindatum JJJJ-MM-DD (standaard 30 dagen terug)"),
+        tot: str("Einddatum JJJJ-MM-DD (standaard vandaag)"),
+      },
+    },
+    async run(db, a, ctx) {
+      const c = await findClient(db, a.klant);
+      if (!c) return { fout: `Klant '${a.klant}' niet gevonden.` };
+      const van = a.van || isoDaysAgo(30).slice(0, 10);
+      const tot = a.tot || new Date().toISOString().slice(0, 10);
+      const rows = await db.get(`mentions_enriched?client_id=eq.${c.id}&pub_date=gte.${van}&pub_date=lte.${tot}&status=neq.ruis&order=pub_date.desc`);
+      const brand = await brandFromSite(c.website);
+      const logo = (url: string) => {
+        const d = domainOf(url);
+        return d && !d.includes("news.google") ? `https://www.google.com/s2/favicons?domain=${encodeURIComponent(d)}&sz=128` : null;
+      };
+      const distribution = /persberichten|mediacontent|wees ?meer|drimble/i;
+      const weight = (r: any) => (r.reach_est || 0) * 10 + (r.kind === "press_release" || distribution.test(r.outlet) ? 0 : 5);
+      const highlights: any[] = [];
+      for (const r of [...rows].sort((x: any, y: any) => weight(y) - weight(x))) {
+        if (!highlights.some((h) => h.outlet === r.outlet)) highlights.push(r);
+        if (highlights.length === 3) break;
+      }
+      const general = await db.get("style_rules?client_id=is.null&select=rule&order=id");
+      const specific = await db.get(`style_rules?client_id=eq.${c.id}&select=rule&order=id`);
+      const q = new URLSearchParams({ klant: c.name, van, tot });
+      return {
+        klant: { naam: c.name, website: c.website, huisstijlkleur: c.brand_color || brand.color || null, beeld_van_website: brand.image || null, logo: c.logo_url },
+        periode: { van, tot },
+        kerncijfers: totals(rows),
+        highlights: highlights.map((r) => ({ ...shape(r), logo: logo(r.url) })),
+        publicaties: rows.map((r: any) => ({ ...shape(r), logo: logo(r.url) })),
+        stijlregels: { algemeen: general.map((x: any) => x.rule), klant: specific.map((x: any) => x.rule) },
+        rapport_link: `${ctx.reportBase}?${q.toString()}`,
+        let_op: "Gebruik alleen deze cijfers. Ontbreekt bereik of waarde, laat die dan weg in plaats van te schatten.",
+      };
     },
   },
   {
