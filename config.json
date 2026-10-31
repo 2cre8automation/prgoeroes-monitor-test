@@ -1,0 +1,29 @@
+{
+  "clients": [
+    {
+      "name": "Aspyre",
+      "match": ["Aspyre"],
+      "spokespersons": [],
+      "exclude": ["Aspyr ", "esports", "CS2", "Counter-Strike", "Adidas", "Tênis"]
+    },
+    {
+      "name": "Katapull",
+      "match": ["Katapull"],
+      "spokespersons": [],
+      "exclude": []
+    }
+  ],
+  "wordpress_sources": [
+    {"outlet": "Computable", "base": "https://www.computable.nl"},
+    {"outlet": "Computable.be", "base": "https://www.computable.be"},
+    {"outlet": "ICT/Magazine", "base": "https://www.ictmagazine.nl"},
+    {"outlet": "Wees Meer", "base": "https://weesmeer.nl"},
+    {"outlet": "AccountancyWorld", "base": "https://www.accountancyworld.nl"},
+    {"outlet": "Emerce", "base": "https://www.emerce.nl"},
+    {"outlet": "Mediacontent.nu", "base": "https://mediacontent.nu"},
+    {"outlet": "Logimerce", "base": "https://www.logimerce.nl"},
+    {"outlet": "Persberichten.com", "base": "https://www.persberichten.com"}
+  ],
+  "google_news": true,
+  "lookback_days": 120
+}
