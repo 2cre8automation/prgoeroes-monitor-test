@@ -321,10 +321,15 @@ export const tools: Tool[] = [
         advertorial_eur: { type: "number", description: "Prijs van een gesponsord artikel" },
         vaste_ave_eur: { type: "number", description: "Vaste advertentiewaarde per publicatie (overschrijft de rest)" },
         bron: str("Waar komt het cijfer vandaan"),
+        betrouwbaarheid: { type: "string", enum: ["hoog", "middel", "laag"], description: "hoog = mediakit of eigen cijfer Jennifer; middel = meetbureau/schatting; laag = grove schatting" },
+        notities: str("Toelichting, bv. waarom een cijfer ontbreekt"),
+        cijfers_wissen: { type: "boolean", description: "Eerst alle cijfers van dit medium leegmaken (bv. als het cijfer niet klopt en er nog geen beter is)" },
       },
     },
     async run(db, a) {
-      const v: Record<string, unknown> = { outlet: a.medium, updated_at: new Date().toISOString(), confidence: "hoog" };
+      const v: Record<string, unknown> = { outlet: a.medium, updated_at: new Date().toISOString(), confidence: a.betrouwbaarheid ?? "hoog" };
+      if (a.cijfers_wissen) Object.assign(v, { monthly_visitors: null, article_reach: null, cpm_eur: null, advertorial_eur: null, ave_eur: null });
+      if (a.notities) v.notes = a.notities;
       if (a.domein) v.domain = a.domein;
       if (a.bezoekers_per_maand != null) v.monthly_visitors = a.bezoekers_per_maand;
       if (a.bereik_per_artikel != null) v.article_reach = a.bereik_per_artikel;
