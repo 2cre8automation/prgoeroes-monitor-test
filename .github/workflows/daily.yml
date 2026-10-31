@@ -1,8 +1,8 @@
-name: Dagelijkse monitor
+name: Monitor
 
 on:
   schedule:
-    - cron: "17 6 * * *"   # elke dag rond 07:17 Nederlandse tijd (wintertijd)
+    - cron: "17 */3 * * *"   # elke 3 uur (Persberichten.com-feed toont maar ~12 uur)
   workflow_dispatch: {}      # handmatig starten via de knop "Run workflow"
 
 permissions:

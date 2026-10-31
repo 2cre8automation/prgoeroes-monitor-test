@@ -164,6 +164,96 @@ def search_google_news(client, since, log):
     return hits
 
 
+_feed_cache = {}
+
+
+def search_rss(source, client, since, log):
+    """Gewone RSS-feed van een site: titel + beschrijving doorzoeken."""
+    hits = []
+    url = source["url"]
+    if url not in _feed_cache:
+        try:
+            _feed_cache[url] = ET.fromstring(fetch(url)).findall(".//item")
+        except Exception as e:
+            _feed_cache[url] = None
+            log.append(f"{source['outlet']}: feed-fout ({type(e).__name__})")
+    items = _feed_cache[url]
+    if items is None:
+        return hits
+    for it in items:
+        title = strip_tags(it.findtext("title", ""))
+        title = re.sub(r"^Persbericht:\s*", "", title)
+        matched = match_client(client, title + " " + strip_tags(it.findtext("description", "")))
+        if not matched:
+            continue
+        published = ""
+        try:
+            pub = parsedate_to_datetime(it.findtext("pubDate", ""))
+            if pub < since:
+                continue
+            published = pub.date().isoformat()
+        except Exception:
+            pass
+        link = (it.findtext("link", "") or "").strip().replace("/rss/nieuws/", "/nieuws/")
+        hits.append({
+            "client": client["name"], "outlet": source["outlet"], "title": title,
+            "url": link, "published": published, "method": "rss",
+            "kind": source.get("kind", ""), "matched_on": matched,
+        })
+    log.append(f"{source['outlet']}: feed met {len(items)} items, {len(hits)} relevant ({client['name']})")
+    return hits
+
+
+_sitemap_cache = {}
+
+
+def search_sitemap(source, client, since, log):
+    """Sitemap doorzoeken op de klantnaam in de link; treffers openen voor titel en datum."""
+    hits = []
+    idx = source["index"]
+    if idx not in _sitemap_cache:
+        urls = []
+        try:
+            children = re.findall(r"<loc>\s*([^<\s]+)\s*</loc>", fetch(idx))
+            for child in children:
+                urls += re.findall(r"<loc>\s*([^<\s]+)\s*</loc>", fetch(child, timeout=60))
+                time.sleep(1)
+        except Exception as e:
+            log.append(f"{source['outlet']}: sitemap-fout ({type(e).__name__})")
+        _sitemap_cache[idx] = urls
+    urls = _sitemap_cache[idx]
+    for u in urls:
+        slug = urllib.parse.urlsplit(u).path.replace("-", " ").replace("/", " ")
+        if not match_client(client, slug) or not robots_allows(u):
+            continue
+        try:
+            page = fetch(u)
+            time.sleep(1)
+        except Exception:
+            continue
+        m = (re.search(r'property="og:title" content="([^"]+)"', page)
+             or re.search(r"<title>(.*?)</title>", page, re.S))
+        title = html.unescape(m.group(1)).strip() if m else slug.strip()
+        title = re.sub(r"\s*[|\-–]\s*Logimerce.*$", "", title)
+        d = (re.search(r'"datePublished"\s*:\s*"([^"]+)"', page)
+             or re.search(r'article:published_time" content="([^"]+)"', page))
+        published = d.group(1)[:10] if d else ""
+        if published:
+            try:
+                if datetime.fromisoformat(published).replace(tzinfo=timezone.utc) < since:
+                    continue
+            except ValueError:
+                pass
+        matched = match_client(client, title + " " + strip_tags(page)) or match_client(client, slug)
+        hits.append({
+            "client": client["name"], "outlet": source["outlet"], "title": title,
+            "url": u, "published": published, "method": "sitemap",
+            "kind": "", "matched_on": matched,
+        })
+    log.append(f"{source['outlet']}: sitemap met {len(urls)} links, {len(hits)} relevant ({client['name']})")
+    return hits
+
+
 def norm_key(row):
     """Ontdubbelen: zelfde outlet + zelfde titel telt als één publicatie."""
     t = re.sub(r"\W+", " ", row["title"].lower()).strip()
@@ -184,7 +274,7 @@ def main():
             for r in csv.DictReader(f):
                 existing.append(r)
     # bestaande dubbelen opruimen; directe site-link gaat voor Google-link
-    existing.sort(key=lambda r: r["method"] != "wordpress")
+    existing.sort(key=lambda r: r["method"] == "google_news")
     seen_urls, seen_keys, kept = set(), set(), []
     for r in existing:
         if r["url"] in seen_urls or norm_key(r) in seen_keys:
@@ -200,11 +290,22 @@ def main():
         for src in cfg["wordpress_sources"]:
             found += search_wordpress(src, client, since, log)
             time.sleep(1)
+        for src in cfg.get("rss_sources", []):
+            found += search_rss(src, client, since, log)
+        for src in cfg.get("sitemap_sources", []):
+            found += search_sitemap(src, client, since, log)
         if cfg.get("google_news"):
             found += search_google_news(client, since, log)
-        found.sort(key=lambda r: r["method"] != "wordpress")
+        found.sort(key=lambda r: r["method"] == "google_news")
         for row in found:
             key = norm_key(row)
+            if row["method"] != "google_news":
+                # directe link vervangt een eerder bewaarde Google-link van hetzelfde artikel
+                for old in existing:
+                    if old["method"] == "google_news" and norm_key(old) == key:
+                        row["found_at"] = old["found_at"]
+                        old.update(row)
+                        seen_urls.add(row["url"])
             if row["url"] in seen_urls or key in seen_keys:
                 continue
             row["found_at"] = now.isoformat(timespec="seconds")
