@@ -1,0 +1,61 @@
+
+===== https://www.accountancyworld.nl
+200 /robots.txt            text/plain                     len=     24 'Aspyre'x0 -> https://www.accountancyworld.nl/robots.txt
+     User-agent: *
+     Disallow:
+404 /sitemap.xml                                          len=      0 'Aspyre'x0 -> https://www.accountancyworld.nl/sitemap.xml
+404 /sitemap_index.xml                                    len=      0 'Aspyre'x0 -> https://www.accountancyworld.nl/sitemap_index.xml
+404 /rss                                                  len=      0 'Aspyre'x0 -> https://www.accountancyworld.nl/rss
+200 /rss.xml               text/xml; charset=UTF-8        len=  62897 'Aspyre'x4 -> https://www.accountancyworld.nl/rss.xml
+404 /feed                                                 len=      0 'Aspyre'x0 -> https://www.accountancyworld.nl/feed
+404 /nieuws/rss                                           len=      0 'Aspyre'x0 -> https://www.accountancyworld.nl/nieuws/rss
+404 /zoeken?q={q}                                         len=      0 'Aspyre'x0 -> https://www.accountancyworld.nl/zoeken?q=Aspyre
+404 /search?q={q}                                         len=      0 'Aspyre'x0 -> https://www.accountancyworld.nl/search?q=Aspyre
+404 /zoeken?query={q}                                     len=      0 'Aspyre'x0 -> https://www.accountancyworld.nl/zoeken?query=Aspyre
+200 /?s={q}                text/html; charset=UTF-8       len=  87028 'Aspyre'x0 -> https://www.accountancyworld.nl/?s=Aspyre
+404 /search/?q={q}                                        len=      0 'Aspyre'x0 -> https://www.accountancyworld.nl/search/?q=Aspyre
+404 /zoek?q={q}                                           len=      0 'Aspyre'x0 -> https://www.accountancyworld.nl/zoek?q=Aspyre
+
+===== https://www.logimerce.nl
+200 /robots.txt            text/plain                     len=    261 'Katapull'x0 -> https://logimerce.nl/robots.txt
+     User-agent: *
+     Disallow: /zoeken
+     Disallow: /account
+     Disallow: /inloggen
+     Disallow: /registreren
+     Disallow: /l/
+     Disallow: /c$
+     Disallow: /c?
+     Disallow: /vacatures/mijn
+     Sitemap: https://logimerce.nl/sitemap/index.xml
+     Sitemap: https://logimerce.nl/sitemap-vacancies.xml
+404 /sitemap.xml                                          len=      0 'Katapull'x0 -> https://www.logimerce.nl/sitemap.xml
+404 /sitemap_index.xml                                    len=      0 'Katapull'x0 -> https://www.logimerce.nl/sitemap_index.xml
+404 /rss                                                  len=      0 'Katapull'x0 -> https://www.logimerce.nl/rss
+404 /rss.xml                                              len=      0 'Katapull'x0 -> https://www.logimerce.nl/rss.xml
+404 /feed                                                 len=      0 'Katapull'x0 -> https://www.logimerce.nl/feed
+404 /nieuws/rss                                           len=      0 'Katapull'x0 -> https://www.logimerce.nl/nieuws/rss
+200 /zoeken?q={q}          text/html;charset=utf-8        len= 197399 'Katapull'x66 -> https://logimerce.nl/zoeken?q=Katapull
+     link: /news/7324/katapull-blijft-softwarespecialisten-stapelen-ook-picqer-ingelijfd
+     link: /news/6573/katapull-en-returnista-smelten-samen-hun-software-ook-en-dat-is-goed-nieuws-voor-webshops
+404 /search?q={q}                                         len=      0 'Katapull'x0 -> https://www.logimerce.nl/search?q=Katapull
+200 /zoeken?query={q}      text/html;charset=utf-8        len= 266507 'Katapull'x1 -> https://logimerce.nl/zoeken?query=Katapull
+200 /?s={q}                text/html;charset=utf-8        len= 249411 'Katapull'x1 -> https://logimerce.nl/?s=Katapull
+404 /search/?q={q}                                        len=      0 'Katapull'x0 -> https://www.logimerce.nl/search/?q=Katapull
+404 /zoek?q={q}                                           len=      0 'Katapull'x0 -> https://www.logimerce.nl/zoek?q=Katapull
+
+===== https://www.persberichten.com
+200 /robots.txt            text/plain                     len=     13 'Aspyre'x0 -> https://www.persberichten.com/robots.txt
+     User-agent: *
+200 /sitemap.xml           text/xml                       len=   1686 'Aspyre'x0 -> https://www.persberichten.com/sitemap.xml
+404 /sitemap_index.xml                                    len=      0 'Aspyre'x0 -> https://www.persberichten.com/sitemap_index.xml
+200 /rss                   text/xml; charset=utf-8        len=  14068 'Aspyre'x0 -> https://www.persberichten.com/rss
+404 /rss.xml                                              len=      0 'Aspyre'x0 -> https://www.persberichten.com/rss.xml
+404 /feed                                                 len=      0 'Aspyre'x0 -> https://www.persberichten.com/feed
+404 /nieuws/rss                                           len=      0 'Aspyre'x0 -> https://www.persberichten.com/nieuws/rss
+200 /zoeken?q={q}          text/html; charset=utf-8       len= 132099 'Aspyre'x1 -> https://www.persberichten.com/zoeken?q=Aspyre
+404 /search?q={q}                                         len=      0 'Aspyre'x0 -> https://www.persberichten.com/search?q=Aspyre
+200 /zoeken?query={q}      text/html; charset=utf-8       len= 132168 'Aspyre'x1 -> https://www.persberichten.com/zoeken?query=Aspyre
+200 /?s={q}                text/html; charset=utf-8       len= 252121 'Aspyre'x1 -> https://www.persberichten.com/?s=Aspyre
+404 /search/?q={q}                                        len=      0 'Aspyre'x0 -> https://www.persberichten.com/search/?q=Aspyre
+404 /zoek?q={q}                                           len=      0 'Aspyre'x0 -> https://www.persberichten.com/zoek?q=Aspyre
