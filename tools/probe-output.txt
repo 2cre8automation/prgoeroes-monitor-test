@@ -1,56 +1,34 @@
+robots 200
 
-===== https://logimerce.nl/sitemap/index.xml
-children: 2
-   https://logimerce.nl/sitemap/index.xml?reference=0
-   https://logimerce.nl/sitemap/index.xml?reference=1
-  (eind) https://logimerce.nl/sitemap/index.xml?reference=0
-  (eind) https://logimerce.nl/sitemap/index.xml?reference=1
-  -> https://logimerce.nl/sitemap/index.xml?reference=0: 18 urls, lastmod [] .. []
-        https://logimerce.nl/news/7330/ruim-helft-consumenten-vindt-duurzaamheid-belangrijk-maar-prijs-blijft-doorslaggevend
-        https://logimerce.nl/news/7334/landmark-global-lanceert-app-voor-internationale-verzendingen-in-de-shopify-app-store
-        https://logimerce.nl/news/7329/milence-opent-vijfde-trucklaadhub-in-belgie-met-megawattladers-in-temse
-  -> https://logimerce.nl/sitemap/index.xml?reference=1: 3564 urls, lastmod ['2026-10-20T13:59:00.094Z'] .. ['2026-10-30T16:12:50.307Z']
-        https://logimerce.nl/news/7273/fastned-opent-truck-lanes-voor-elektrische-vrachtwagens-bij-oirschot-aan-de-a58
-        https://logimerce.nl/news/7272/picnic-introduceert-volledig-vernieuwd-elektrisch-bezorgwagentje-met-groter-bereik-en-laadvermogen
-        https://logimerce.nl/news/7269/zalando-benoemt-tom-christenson-als-senior-vice-president-voor-b2-b-activiteiten
-     HIT https://logimerce.nl/news/6573/katapull-en-returnista-smelten-samen-hun-software-ook-en-dat-is-goed-nieuws-voor-webshops
-     HIT https://logimerce.nl/news/7324/katapull-blijft-softwarespecialisten-stapelen-ook-picqer-ingelijfd
-  -> https://logimerce.nl/sitemap/index.xml?reference=1: 3564 urls, lastmod ['2026-10-20T13:59:00.094Z'] .. ['2026-10-30T16:12:50.307Z']
-        https://logimerce.nl/news/7273/fastned-opent-truck-lanes-voor-elektrische-vrachtwagens-bij-oirschot-aan-de-a58
-        https://logimerce.nl/news/7272/picnic-introduceert-volledig-vernieuwd-elektrisch-bezorgwagentje-met-groter-bereik-en-laadvermogen
-        https://logimerce.nl/news/7269/zalando-benoemt-tom-christenson-als-senior-vice-president-voor-b2-b-activiteiten
-     HIT https://logimerce.nl/news/6573/katapull-en-returnista-smelten-samen-hun-software-ook-en-dat-is-goed-nieuws-voor-webshops
-     HIT https://logimerce.nl/news/7324/katapull-blijft-softwarespecialisten-stapelen-ook-picqer-ingelijfd
 
-===== https://www.persberichten.com/sitemap.xml
-children: 11
-   https://www.persberichten.com
-   https://www.persberichten.com/weekoverzicht
-   https://www.persberichten.com/aanleveren
-   https://www.persberichten.com/abonneren
-   https://www.persberichten.com/rss
-   https://www.persberichten.com/bedrijvengids
-   https://www.persberichten.com/pr-bureaugids
-   https://www.persberichten.com/registreren
-   https://www.persberichten.com/mijnlogin
-   https://www.persberichten.com/contact
-   https://www.persberichten.com/privacystatement
-  (eind) https://www.persberichten.com/mijnlogin
-  (eind) https://www.persberichten.com/contact
-  (eind) https://www.persberichten.com/privacystatement
-  -> https://www.persberichten.com: 0 urls, lastmod [] .. []
-  -> https://www.persberichten.com/weekoverzicht: 0 urls, lastmod [] .. []
-  -> https://www.persberichten.com/privacystatement: 0 urls, lastmod [] .. []
+wp-json 200 application/json; charset=UTF- 375618
+routes met wire/press/pers: ['/cms-api/v1/wire', '/cms-api/v1/wire/get', '/cms-api/v1/wire/get-categories', '/cms-api/v1/wire/create', '/cms-api/v1/wire/update', '/elasticpress/v1', '/elasticpress/v1/sync', '/elasticpress/v1/features', '/elasticpress/v1/weighting', '/elasticpress/v1/synonyms', '/elasticpress/v1/meta-keys', '/elasticpress/v1/facets/meta/keys', '/elasticpress/v1/meta-range', '/elasticpress/v1/facets/meta-range/block-preview', '/elasticpress/v1/taxonomies', '/elasticpress/v1/facets/taxonomies', '/elasticpress/v1/pointer_search', '/elasticpress/v1/pointer_preview']
 
-===== https://www.accountancyworld.nl/rss.xml
-items: 100
-   <![CDATA[Wat verstaan we in de accountancy onder efficiënt werken?]]> | <![CDATA[https://www.accountancyworld.nl/rss/nieuws/10324/wat-verstaan-we-in-de-accountanc | Fri, 30 Oct 2026 13:18:00 +0100
-   <![CDATA[Tips voor slimmer digitaal samenwerken met je klant]]> | <![CDATA[https://www.accountancyworld.nl/rss/nieuws/10446/tips-voor-slimmer-digitaal-samen | Fri, 30 Oct 2026 13:15:00 +0100
-   <![CDATA[Nieuw fintech platform Aspyre voor accountancy en administratiekantoren]]> | <![CDATA[https://www.accountancyworld.nl/rss/nieuws/10427/nieuw-fintech-platform-aspyre-vo | Thu, 22 Oct 2026 14:19:00 +0200
-  oudste item: ['Tue, 06 Oct 2026 12:58:00 +0200']
+types 200 ['post', 'page', 'attachment', 'nav_menu_item', 'wp_block', 'wp_template', 'wp_template_part', 'wp_global_styles', 'wp_navigation', 'wp_font_family', 'wp_font_face', 'rcb-cookie', 'rcb-blocker', 'rcb-banner-link', 'rcb-tcf-vendor-conf']
 
-===== https://www.persberichten.com/rss
-items: 5
-   Persbericht: Visa en Vivid helpen ondernemers ongewenste afschrijvingen voorkomen | https://www.persberichten.com/persbericht/115827/visa-en-vivid-helpen-ondernemers-ongewens | Fri, 30 Oct 2026 21:23:00 GMT
-   Persbericht: Euro 5-bestelbus? Vanaf 1 januari 2027 geen toegang meer tot zero-emissiezone | https://www.persberichten.com/persbericht/115826/euro-5-bestelbus-vanaf-1-januari-2027-gee | Fri, 30 Oct 2026 12:59:00 GMT
-  oudste item: ['Fri, 30 Oct 2026 09:07:00 GMT']
+404 /wp-json/wp/v2/wire?search=Aspyre  len=0 Aspyre x0 Katapull x0
+
+200 /wp-json/wp/v2/search?search=Aspyre&subtype=any application/json; charset=UTF- len=2 Aspyre x0 Katapull x0
+   []
+
+200 /wp-json/wp/v2/search?search=Katapull application/json; charset=UTF- len=2 Aspyre x0 Katapull x0
+   []
+
+200 /wire/feed/ text/html len=1499 Aspyre x0 Katapull x0
+   items 0 []
+
+200 /wire/feed text/html len=1518 Aspyre x0 Katapull x0
+   items 0 []
+
+200 /feed/ text/html len=1508 Aspyre x0 Katapull x0
+   items 0 []
+
+200 /wire/ text/html len=1461 Aspyre x0 Katapull x0
+
+200 /sitemap_index.xml text/html len=1585 Aspyre x0 Katapull x0
+
+200 /sitemap.xml text/html len=1522 Aspyre x0 Katapull x0
+
+200 /wp-sitemap.xml text/html len=1518 Aspyre x0 Katapull x0
+
+200 /?s=Aspyre text/html len=1577 Aspyre x0 Katapull x0
