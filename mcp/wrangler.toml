@@ -1,0 +1,6 @@
+name = "prgoeroes-mcp"
+main = "src/index.ts"
+compatibility_date = "2026-10-01"
+workers_dev = true
+
+# Secrets (via GitHub Actions gezet): SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY, MCP_TOKEN
