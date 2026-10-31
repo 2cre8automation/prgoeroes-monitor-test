@@ -2,6 +2,7 @@
 import json
 import os
 import urllib.parse
+import urllib.error
 import urllib.request
 
 URL = os.environ.get("SUPABASE_URL", "").rstrip("/")
@@ -24,9 +25,12 @@ def _req(method, path, body=None, prefer=None, params=None):
     data = json.dumps(body).encode() if body is not None else None
     req = urllib.request.Request(f"{URL}/rest/v1/{path}{q}", data=data,
                                  headers=headers, method=method)
-    with urllib.request.urlopen(req, timeout=60) as r:
-        raw = r.read().decode()
-        return json.loads(raw) if raw else None
+    try:
+        with urllib.request.urlopen(req, timeout=60) as r:
+            raw = r.read().decode()
+            return json.loads(raw) if raw else None
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(f"Supabase {e.code} op {method} {path}: {e.read().decode()[:400]}") from None
 
 
 def select(table, **params):

@@ -33,7 +33,9 @@ jobs:
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
-        run: python db/seed.py 2>&1 | tee -a /tmp/db.log
+        run: |
+          set -o pipefail
+          python db/seed.py 2>&1 | tee -a /tmp/db.log
       - name: Resultaat bewaren
         if: always()
         run: |

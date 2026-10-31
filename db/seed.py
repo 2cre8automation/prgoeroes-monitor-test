@@ -35,6 +35,8 @@ def main():
         if s["domain"] == "emerce.nl":
             s["type"] = "handmatig"
             s["notes"] = "Botcontrole op de site; alleen handmatig of via nieuwsbron"
+    sources = [{"outlet": x["outlet"], "type": x["type"], "url": x["url"], "domain": x["domain"],
+                "notes": x.get("notes")} for x in sources]  # alle rijen dezelfde velden
     supa.insert("sources", sources, on_conflict="url", ignore_duplicates=True)
 
     ids = {c["name"]: c["id"] for c in supa.select("clients", select="id,name")}
