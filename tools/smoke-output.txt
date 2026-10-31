@@ -1,0 +1,166 @@
+== initialize
+{"jsonrpc":"2.0","id":1,"result":{"protocolVersion":"2025-06-18","capabilities":{"tools":{}},"serverInfo":{"name":"prgoeroes-monitor","version":"0.2.0"},"instructions":"Mediamonitor van PR Goeroes (Jennifer Delano). Gebruik 'briefing' voor wat er recent verscheen, 'publicaties_zoeken' per klant, 'pu
+== tools/list
+['klanten_lijst', 'briefing', 'publicaties_zoeken', 'publicatie_toevoegen', 'publicatie_beoordelen', 'bron_toevoegen', 'bronnen_lijst', 'klant_beheren', 'mediawaarde_instellen', 'rapport_maken']
+== klanten_lijst
+[
+  {
+    "klant": "Aspyre",
+    "lijst": "vast",
+    "zoekwoorden": [
+      "Aspyre"
+    ],
+    "woordvoerders": [],
+    "uitsluitwoorden": [
+      "Aspyr ",
+      "esports",
+      "CS2",
+      "Counter-Strike",
+      "Adidas",
+      "Tênis"
+    ],
+    "website": null,
+    "actief": true
+  },
+  {
+    "klant": "Doors Open",
+    "lijst": "vast",
+    "zoekwoorden": [
+      "Doors Open"
+    ],
+    "woordvoerders": [],
+    "uitsluitwoorden": [],
+    "website": null,
+    "actief": true
+  },
+  {
+    "klant": "Drukwerkdeal",
+    "lijst": "vast",
+    "zoekwoorden": [
+      "Drukwerkdeal"
+    ],
+    "w
+== publicaties_zoeken
+{
+  "klant": "Aspyre",
+  "van": "2026-10-01",
+  "tot": "2026-10-31",
+  "totaal": {
+    "publicaties": 7,
+    "bereik": 0,
+    "ave_eur": 0,
+    "zonder_mediawaarde": [
+      "Mediacontent.nu",
+      "ICT/Magazine",
+      "Computable",
+      "Computable.be",
+      "Wees Meer",
+      "AccountancyWorld",
+      "Persberichten.com"
+    ]
+  },
+  "publicaties": [
+    {
+      "id": 94,
+      "klant": "Aspyre",
+      "medium": "Mediacontent.nu",
+      "titel": "Nieuw fintech-platform Aspyre lanceert slimme orkestratielaag voor accountancy en administratiekantoren",
+      "url": "https://mediacontent.nu/nieuw-fintech-platform-aspyre-lanceert-slimme-orkestratielaag-voor-accountancy-en-administratiekantoren/",
+      "datum": "2026-10-27",
+      "soort": "artikel",
+      "gevonden_via": "wordpress",
+      "status": "nieuw",
+      "bereik": null,
+      "ave_eur": null,
+      "medium_in_mediatabel": false
+    },
+    {
+      "id": 95,
+      "klant": "Aspyre",
+      "medium": "ICT/Magazine",
+      "titel": "Haags Aspyre automatiseert workflows van administratiekantoren",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWUg5SU12TlljR1ZmazVWdUR3RUxjYzdnTWlGZUpsZ1dDMXNlS0xJbVhaRHhNeFQyV0tvaVBNb2pSZXpuYzlsRmZzbU9lVV9vZmh1WFhBZDk5SHFDa184dEFWcnpRTHdFVktmbzh2SUgwekVzNjZvT1N0X2otMjFsOVFkb19HRTdqNlhtYjZ4V1JZVjU1Z1VkR1B0aVNKUQ?oc=5",
+      "datum": "2026-10-23",
+      "soort": null,
+      "gevonden_via": "google_news",
+      "status": "nieuw",
+      "bereik": null,
+      "ave_eur": n
+== briefing
+{
+  "periode_dagen": 3,
+  "totaal": {
+    "publicaties": 101,
+    "bereik": 0,
+    "ave_eur": 0,
+    "zonder_mediawaarde": [
+      "Emerce",
+      "Mediacontent.nu",
+      "ICT/Magazine",
+      "Computable.be",
+      "Computable",
+      "Wees Meer",
+      "Persberichten.com",
+      "AccountancyWorld",
+      "Mediacontent.nu",
+      "Wees Meer",
+      "Mediacontent.nu",
+      "Frankwatching",
+      "Mediacontent.nu",
+      "Wees Meer",
+      "FONK magazine",
+      "Mediacontent.nu",
+      "Duurzaam Ondernemen",
+      "Wees Meer",
+      "Dutch IT Channel",
+      "Headliner.nl",
+      "Unite.AI",
+      "Banken.nl",
+      "InFinance",
+      "Hogeschool Utrecht",
+      "Hogeschool Utrecht",
+      "Hogeschool Utrecht",
+      "IP | vakblad voor informatieprofessionals",
+      "De Utrechtse Intern
+== bronnen_lijst
+[
+  {
+    "medium": "AccountancyWorld",
+    "domein": "accountancyworld.nl",
+    "route": "rss",
+    "actief": true,
+    "toelichting": null,
+    "toegevoegd_door": "systeem"
+  },
+  {
+    "medium": "Computable",
+    "domein": "computable.nl",
+    "route": "wordpress",
+    "actief": true,
+    "toelichting": null,
+    "toegevoegd_door": "systeem"
+  },
+  {
+    "medium": "Computable.be",
+    "domein": "computable.be",
+    "route": "wordpress",
+    "actief": true,
+    "toelichting": null,
+    "toegevoegd_door": "systeem"
+  },
+  {
+    "medium": "Emerce",
+    "domein": "emerce.nl",
+    "route": "handmatig",
+    "actief": true,
+    "toelichting": "Botcontrole op de site; alleen handmatig of via nieuwsbron",
+    "toegevoegd_door": "systeem"
+  },
+  {
+    "medium": "ICT/Magazine",
+    "domein": "ictm
+== rapport_maken
+{"publicaties": 16, "bereik": 0, "ave_eur": 0, "zonder_mediawaarde": ["Warehouse Totaal", "Logimerce", "AD.nl", "Emerce", "Computable", "MenA.nl", "MenA.nl", "Mediacontent.nu", "quasa.io", "Dutch IT Channel", "Dutch IT Channel", "Computable", "Computable", "Computable.be", "Wees Meer", "Persberichten.com"]}
+https://prgoeroes-mcp.f-raja.workers.dev/rapport?klant=Katapull&tot=2026-10-31&van=2026-10-01&sig=785fad993e83eb84358aba01a6903007
+rapport http: 200
+fout token http: 404
