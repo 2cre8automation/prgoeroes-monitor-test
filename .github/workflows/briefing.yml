@@ -49,8 +49,8 @@ jobs:
           MCP_BASE: https://prgoeroes-mcp.f-raja.workers.dev
           SMTP_USER: f.raja@2cre8.eu
           SMTP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-          # Ontvangers: na akkoord van Farrukh wordt jdelano@prgoeroes.nl toegevoegd
-          BRIEFING_TO: ${{ inputs.alleen_test == 'ja' && 'f.raja@2cre8.eu' || 'f.raja@2cre8.eu' }}
+          # Geplande runs: Jennifer + Farrukh. Handmatige test met alleen_test=ja: alleen Farrukh.
+          BRIEFING_TO: ${{ github.event_name == 'workflow_dispatch' && inputs.alleen_test == 'ja' && 'f.raja@2cre8.eu' || 'jdelano@prgoeroes.nl,f.raja@2cre8.eu' }}
         run: python briefing.py "${{ steps.soort.outputs.soort }}"
       - name: Voorbeeld bewaren
         if: always()
