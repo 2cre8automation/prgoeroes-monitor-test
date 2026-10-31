@@ -1,0 +1,62 @@
+name: Briefings per mail
+
+on:
+  schedule:
+    - cron: "41 7 * * *"    # dagelijks ~08:41 NL (wintertijd)
+    - cron: "44 7 * * 1"    # maandag: oud-klanten
+    - cron: "47 7 1 * *"    # 1e van de maand: maandoverzicht
+  workflow_dispatch:
+    inputs:
+      soort:
+        description: "dagelijks, wekelijks of maandelijks"
+        required: true
+        default: dagelijks
+      alleen_test:
+        description: "Alleen naar Farrukh sturen (ja/nee)"
+        required: true
+        default: "ja"
+
+concurrency:
+  group: briefing
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Soort bepalen
+        id: soort
+        run: |
+          case "${{ github.event.schedule }}" in
+            "44 7 * * 1") echo "soort=wekelijks" >> $GITHUB_OUTPUT ;;
+            "47 7 1 * *") echo "soort=maandelijks" >> $GITHUB_OUTPUT ;;
+            "41 7 * * *") echo "soort=dagelijks" >> $GITHUB_OUTPUT ;;
+            *) echo "soort=${{ inputs.soort }}" >> $GITHUB_OUTPUT ;;
+          esac
+      - name: Versturen
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          MCP_TOKEN: ${{ secrets.MCP_TOKEN }}
+          MCP_BASE: https://prgoeroes-mcp.f-raja.workers.dev
+          SMTP_USER: f.raja@2cre8.eu
+          SMTP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          # Ontvangers: na akkoord van Farrukh wordt jdelano@prgoeroes.nl toegevoegd
+          BRIEFING_TO: ${{ inputs.alleen_test == 'ja' && 'f.raja@2cre8.eu' || 'f.raja@2cre8.eu' }}
+        run: python briefing.py "${{ steps.soort.outputs.soort }}"
+      - name: Voorbeeld bewaren
+        if: always()
+        run: |
+          git config user.name "prgoeroes-monitor"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/briefing-*.html 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "Briefing ${{ steps.soort.outputs.soort }} $(date -u +%F)"
+          git pull --rebase -q origin main && git push
