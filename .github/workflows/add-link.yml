@@ -47,6 +47,6 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add data/
           git diff --cached --quiet || git commit -m "Handmatig: $CLIENT"
-          git push
+          git pull --rebase -q origin main && git push
         env:
           CLIENT: ${{ inputs.client }}
