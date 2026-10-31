@@ -38,8 +38,13 @@ jobs:
           URL: ${{ inputs.url }}
           TITLE: ${{ inputs.title }}
           OUTLET: ${{ inputs.outlet }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: python add_link.py "$CLIENT" "$URL" "$TITLE" "$OUTLET"
       - name: Monitor bijwerken
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: python monitor.py
       - name: Opslaan
         run: |

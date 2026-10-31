@@ -6,6 +6,7 @@ Ontbrekende titel/outlet/datum worden waar mogelijk van de pagina gehaald.
 import csv, html, re, sys, urllib.parse
 from pathlib import Path
 from monitor import fetch
+import supa
 
 PATH = Path(__file__).parent / "data" / "manual.csv"
 FIELDS = ["client", "url", "outlet", "title", "published", "note"]
@@ -35,6 +36,16 @@ def main():
     host = urllib.parse.urlsplit(url).netloc.replace("www.", "")
     outlet = outlet or host
     title = title or urllib.parse.urlsplit(url).path.rstrip("/").split("/")[-1].replace("-", " ")
+    if supa.enabled():
+        cl = supa.select("clients", select="id,name", name=f"ilike.{client}")
+        if not cl:
+            sys.exit(f"Onbekende klant: {client}")
+        supa.insert("mentions", [{"client_id": cl[0]["id"], "outlet": outlet, "title": title, "url": url,
+                                  "published": published or None, "method": "handmatig",
+                                  "status": "relevant", "notes": "Handmatig toegevoegd"}],
+                    on_conflict="client_id,url", ignore_duplicates=True)
+        print(f"Toegevoegd: [{cl[0]['name']}] {outlet}: {title}")
+        return
     rows = list(csv.DictReader(PATH.open(encoding="utf-8"))) if PATH.exists() else []
     if any(r["url"] == url for r in rows):
         print("Staat er al in:", url)

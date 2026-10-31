@@ -1,0 +1,30 @@
+name: Database bijwerken
+
+on:
+  push:
+    branches: [main]
+    paths: ["db/setup.sql"]
+  workflow_dispatch: {}
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: setup.sql toepassen
+        env:
+          DB_URL: ${{ secrets.SUPABASE_DB_URL }}
+        run: |
+          if [ -z "$DB_URL" ]; then echo "SUPABASE_DB_URL ontbreekt"; exit 1; fi
+          sudo apt-get install -y -qq postgresql-client >/dev/null
+          psql "$DB_URL" -v ON_ERROR_STOP=1 -q -f db/setup.sql
+          psql "$DB_URL" -c "select table_name from information_schema.tables where table_schema='public' order by 1"
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Klanten, bronnen en bestaande publicaties overzetten
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: python db/seed.py

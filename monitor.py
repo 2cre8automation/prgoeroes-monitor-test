@@ -24,6 +24,8 @@ from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
+import supa
+
 ROOT = Path(__file__).parent
 DATA = ROOT / "data"
 CSV_PATH = DATA / "mentions.csv"
@@ -306,14 +308,40 @@ def norm_key(row):
     return (row["client"].lower(), outlet, t)
 
 
+def load_from_db(cfg):
+    """Klanten, bronnen en bestaande publicaties uit Supabase (de bron van waarheid)."""
+    clients = supa.select("clients", active="eq.true", order="id")
+    cfg["clients"] = [{"name": c["name"], "list": c["list"], "match": c["match"] or [c["name"]],
+                       "spokespersons": c["spokespersons"] or [], "exclude": c["exclude"] or [],
+                       "id": c["id"]} for c in clients]
+    sources = supa.select("sources", active="eq.true", order="id")
+    cfg["wordpress_sources"] = [{"outlet": s["outlet"], "base": s["url"]}
+                                for s in sources if s["type"] == "wordpress"]
+    cfg["rss_sources"] = [{"outlet": s["outlet"], "url": s["url"],
+                           "kind": "press_release" if (s["notes"] or "") == "press_release" else ""}
+                          for s in sources if s["type"] == "rss"]
+    cfg["sitemap_sources"] = [{"outlet": s["outlet"], "index": s["url"]}
+                              for s in sources if s["type"] == "sitemap"]
+    names = {c["id"]: c["name"] for c in clients}
+    existing = []
+    for m in supa.select("mentions", select="id,client_id,outlet,title,url,published,method,kind,matched_on,found_at"):
+        if m["client_id"] in names:
+            existing.append({**m, "client": names[m["client_id"]], "published": m["published"] or "",
+                             "kind": m["kind"] or "", "matched_on": m["matched_on"] or ""})
+    return existing
+
+
 def main():
     cfg = json.loads((ROOT / "config.json").read_text())
     DATA.mkdir(exist_ok=True)
     now = datetime.now(timezone.utc)
     since = now - timedelta(days=cfg.get("lookback_days", 30))
+    use_db = supa.enabled()
 
     existing = []
-    if CSV_PATH.exists():
+    if use_db:
+        existing = load_from_db(cfg)
+    elif CSV_PATH.exists():
         with CSV_PATH.open(newline="", encoding="utf-8") as f:
             for r in csv.DictReader(f):
                 existing.append(r)
@@ -328,7 +356,7 @@ def main():
         seen_keys.add(norm_key(r))
     existing = kept
 
-    log, new_rows = [], []
+    log, new_rows, replaced = [], [], []
     for client in cfg["clients"]:
         found = []
         for src in cfg["wordpress_sources"]:
@@ -340,7 +368,8 @@ def main():
             found += search_sitemap(src, client, since, log)
         if cfg.get("google_news"):
             found += search_google_news(client, since, log)
-        found += manual_links(client, log)
+        if not use_db:
+            found += manual_links(client, log)
         found.sort(key=lambda r: r["method"] == "google_news")
         for row in found:
             key = norm_key(row)
@@ -350,6 +379,7 @@ def main():
                     if old["method"] == "google_news" and norm_key(old) == key:
                         row["found_at"] = old["found_at"]
                         old.update(row)
+                        replaced.append(old)
                         seen_urls.add(row["url"])
             if row["url"] in seen_urls or key in seen_keys:
                 continue
@@ -358,7 +388,27 @@ def main():
             seen_urls.add(row["url"])
             seen_keys.add(key)
 
-    all_rows = sorted(existing + new_rows,
+    if use_db:
+        ids = {c["name"]: c["id"] for c in cfg["clients"]}
+        for old in replaced:
+            if old.get("id"):
+                supa.update("mentions", {"id": old["id"]}, {
+                    "outlet": old["outlet"], "title": old["title"], "url": old["url"],
+                    "published": old["published"] or None, "method": old["method"],
+                    "kind": old["kind"] or None, "matched_on": old["matched_on"] or None})
+        payload = [{"client_id": ids[r["client"]], "outlet": r["outlet"], "title": r["title"],
+                    "url": r["url"], "published": r["published"] or None, "method": r["method"],
+                    "kind": r["kind"] or None, "matched_on": r["matched_on"] or None,
+                    "found_at": r["found_at"]} for r in new_rows]
+        for i in range(0, len(payload), 200):
+            supa.insert("mentions", payload[i:i + 200], on_conflict="client_id,url", ignore_duplicates=True)
+        # CSV blijft als leesbare export naast de database
+        existing = [{k: v for k, v in r.items() if k in FIELDS} for r in load_from_db(cfg)]
+        new_rows_export = []
+    else:
+        new_rows_export = new_rows
+
+    all_rows = sorted(existing + new_rows_export,
                       key=lambda r: (r["client"], r["published"]), reverse=True)
     with CSV_PATH.open("w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=FIELDS)
