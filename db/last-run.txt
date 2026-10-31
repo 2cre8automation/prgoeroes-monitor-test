@@ -1,4 +1,4 @@
-Sat Oct 31 14:26:33 UTC 2026
+Sat Oct 31 14:42:10 UTC 2026
 DB-URL lengte: 142, begint met: postgresql, host: aws-1-eu-central-1.pooler.supabase.com
 psql:db/setup.sql:15: NOTICE:  relation "clients" already exists, skipping
 psql:db/setup.sql:27: NOTICE:  relation "sources" already exists, skipping
