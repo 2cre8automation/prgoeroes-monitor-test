@@ -1,35 +1,36 @@
-"""Verkenning 2: opbouw van sitemaps en RSS-feeds."""
-import urllib.request, re
+"""Verkenning 3: Emerce (wire = persberichten)."""
+import urllib.request, urllib.error, re, json
 UA = "PRGoeroesMonitorTest/0.1 (+https://2cre8.eu)"
+B = "https://www.emerce.nl"
 def get(u):
     r = urllib.request.Request(u, headers={"User-Agent": UA})
-    with urllib.request.urlopen(r, timeout=30) as x:
-        return x.read().decode("utf-8", "replace")
-def locs(xml): return re.findall(r"<loc>\s*([^<\s]+)\s*</loc>", xml)
-for idx in ["https://logimerce.nl/sitemap/index.xml", "https://www.persberichten.com/sitemap.xml"]:
-    print("\n=====", idx)
     try:
-        x = get(idx); ls = locs(x); print("children:", len(ls))
-        for l in ls[:15]: print("  ", l)
-        for l in ls[-3:]: print("  (eind)", l)
-        news = [l for l in ls if re.search(r"news|nieuws|persbericht|artikel|article", l, re.I)] or ls
-        for child in news[:2] + news[-1:]:
-            c = get(child); cl = locs(c)
-            lm = re.findall(r"<lastmod>([^<]+)</lastmod>", c)
-            print(f"  -> {child}: {len(cl)} urls, lastmod {lm[:1]} .. {lm[-1:]}")
-            for l in cl[:3]: print("       ", l)
-            hits = [l for l in cl if re.search("katapull|aspyre", l, re.I)]
-            for h in hits[:5]: print("     HIT", h)
+        with urllib.request.urlopen(r, timeout=30) as x:
+            return x.status, x.headers.get("content-type", ""), x.read().decode("utf-8", "replace")
+    except urllib.error.HTTPError as e:
+        return e.code, "", ""
     except Exception as e:
-        print("fout", e)
-for feed in ["https://www.accountancyworld.nl/rss.xml", "https://www.persberichten.com/rss"]:
-    print("\n=====", feed)
-    x = get(feed)
-    items = re.findall(r"<item>(.*?)</item>", x, re.S)
-    print("items:", len(items))
-    for it in items[:2] + [i for i in items if re.search("aspyre", i, re.I)][:1]:
-        t = re.search(r"<title>(.*?)</title>", it, re.S); l = re.search(r"<link>(.*?)</link>", it, re.S)
-        d = re.search(r"<pubDate>(.*?)</pubDate>", it, re.S)
-        print("  ", (t.group(1) if t else "")[:90], "|", (l.group(1) if l else "")[:90], "|", d.group(1) if d else "")
-    dates = re.findall(r"<pubDate>(.*?)</pubDate>", x)
-    print("  oudste item:", dates[-1:] )
+        return type(e).__name__, "", ""
+st, ct, body = get(B + "/robots.txt")
+print("robots", st); print("\n".join(l for l in body.splitlines() if re.match(r"(?i)(user-agent|disallow|allow|sitemap)", l.strip()))[:1500])
+st, ct, body = get(B + "/wp-json/")
+print("\nwp-json", st, ct[:30], len(body))
+if st == 200:
+    try:
+        routes = json.loads(body).get("routes", {})
+        print("routes met wire/press/pers:", [r for r in routes if re.search("wire|press|pers", r)][:20])
+    except Exception as e: print("parse", e)
+st, ct, body = get(B + "/wp-json/wp/v2/types")
+print("\ntypes", st, list(json.loads(body).keys()) if st == 200 else "")
+for p in ["/wp-json/wp/v2/wire?search=Aspyre", "/wp-json/wp/v2/search?search=Aspyre&subtype=any",
+          "/wp-json/wp/v2/search?search=Katapull", "/wire/feed/", "/wire/feed", "/feed/", "/wire/",
+          "/sitemap_index.xml", "/sitemap.xml", "/wp-sitemap.xml", "/?s=Aspyre"]:
+    st, ct, body = get(B + p)
+    print(f"\n{st} {p} {ct[:30]} len={len(body)} Aspyre x{len(re.findall('aspyre', body, re.I))} Katapull x{len(re.findall('katapull', body, re.I))}")
+    for m in re.findall(r"<loc>([^<]+)</loc>", body)[:40]:
+        if re.search("wire|sitemap", m): print("   loc", m)
+    for m in re.findall(r'href="([^"]*(?:aspyre|katapull)[^"]*)"', body, re.I)[:5]: print("   link", m)
+    if p.startswith("/wp-json") and st == 200: print("  ", body[:400])
+    if p.endswith("feed/") or p.endswith("feed"):
+        for t in re.findall(r"<title>(.*?)</title>", body)[:3]: print("   title", t[:100])
+        d = re.findall(r"<pubDate>(.*?)</pubDate>", body); print("   items", len(d), d[-1:] )
