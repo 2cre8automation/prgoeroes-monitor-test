@@ -254,6 +254,26 @@ def search_sitemap(source, client, since, log):
     return hits
 
 
+def manual_links(client, log):
+    """Links die Jennifer (of wij) handmatig doorgaven, uit data/manual.csv."""
+    path = DATA / "manual.csv"
+    if not path.exists():
+        return []
+    hits = []
+    with path.open(newline="", encoding="utf-8") as f:
+        for r in csv.DictReader(f):
+            if r["client"].strip().lower() != client["name"].lower():
+                continue
+            hits.append({
+                "client": client["name"], "outlet": r["outlet"], "title": r["title"],
+                "url": r["url"], "published": r.get("published", ""),
+                "method": "handmatig", "kind": "", "matched_on": "",
+            })
+    if hits:
+        log.append(f"Handmatig: {len(hits)} links ({client['name']})")
+    return hits
+
+
 def norm_key(row):
     """Ontdubbelen: zelfde outlet + zelfde titel telt als één publicatie."""
     t = re.sub(r"\W+", " ", row["title"].lower()).strip()
@@ -296,6 +316,7 @@ def main():
             found += search_sitemap(src, client, since, log)
         if cfg.get("google_news"):
             found += search_google_news(client, since, log)
+        found += manual_links(client, log)
         found.sort(key=lambda r: r["method"] == "google_news")
         for row in found:
             key = norm_key(row)

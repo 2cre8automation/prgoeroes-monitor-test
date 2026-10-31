@@ -1,0 +1,52 @@
+name: Publicatie toevoegen
+
+on:
+  workflow_dispatch:
+    inputs:
+      client:
+        description: "Klant (zoals in config.json, bv. Aspyre)"
+        required: true
+      url:
+        description: "Link naar de publicatie"
+        required: true
+      title:
+        description: "Titel (optioneel, wordt anders van de pagina gehaald)"
+        required: false
+      outlet:
+        description: "Medium (optioneel)"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: monitor
+  cancel-in-progress: false
+
+jobs:
+  add:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Toevoegen
+        env:
+          CLIENT: ${{ inputs.client }}
+          URL: ${{ inputs.url }}
+          TITLE: ${{ inputs.title }}
+          OUTLET: ${{ inputs.outlet }}
+        run: python add_link.py "$CLIENT" "$URL" "$TITLE" "$OUTLET"
+      - name: Monitor bijwerken
+        run: python monitor.py
+      - name: Opslaan
+        run: |
+          git config user.name "prgoeroes-monitor"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Handmatig: $CLIENT"
+          git push
+        env:
+          CLIENT: ${{ inputs.client }}

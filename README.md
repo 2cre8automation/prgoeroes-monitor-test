@@ -29,3 +29,10 @@ Pas `config.json` aan. Woordvoerders (voor- en achternaam) toevoegen aan `spokes
 - Google News als vangnet
 
 De monitor draait elke 3 uur, omdat de feed van Persberichten.com maar ongeveer 12 uur terug gaat.
+
+## Handmatig een publicatie toevoegen
+Voor sites die bots weren (zoals Emerce) of iets dat Jennifer zelf vond:
+- Tab **Actions** → *Publicatie toevoegen* → **Run workflow** → klant en link invullen. Titel, medium en datum worden waar mogelijk van de pagina gehaald.
+- Of lokaal: `python add_link.py Aspyre https://...`
+
+De links staan in `data/manual.csv` en komen bij de volgende run in `data/mentions.csv` (methode `handmatig`).
