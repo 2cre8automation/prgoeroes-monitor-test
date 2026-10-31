@@ -76,7 +76,7 @@ def search_wordpress(source, client, since, log):
     hits = []
     term = client["match"][0]
     url = (source["base"] + "/wp-json/wp/v2/search?"
-           + urllib.parse.urlencode({"search": term, "per_page": 20}))
+           + urllib.parse.urlencode({"search": term, "per_page": 10, "_embed": "self"}))
     if not robots_allows(url):
         log.append(f"{source['outlet']}: overgeslagen (robots.txt verbiedt bots)")
         return hits
@@ -95,17 +95,21 @@ def search_wordpress(source, client, since, log):
     checked = 0
     for r in results:
         title = strip_tags(r.get("title", ""))
+        # titel + samenvatting komen in één verzoek mee (_embed)
+        detail = (r.get("_embedded", {}).get("self") or [{}])[0] or {}
+        excerpt = strip_tags(detail.get("excerpt", {}).get("rendered", ""))
+        matched = match_client(client, title + " " + excerpt)
+        # niet in titel/samenvatting? open het volledige artikel, maar hooguit 5 per zoekopdracht
         self_links = r.get("_links", {}).get("self", [])
-        detail = {}
-        if self_links:
+        if not matched and self_links and checked < 5:
             try:
                 detail = json.loads(fetch(self_links[0]["href"]))
                 checked += 1
                 time.sleep(0.5)
             except Exception:
                 detail = {}
-        body = strip_tags(detail.get("content", {}).get("rendered", ""))
-        matched = match_client(client, title + " " + body)
+            body = strip_tags(detail.get("content", {}).get("rendered", ""))
+            matched = match_client(client, title + " " + body)
         if not matched:
             continue
         published = detail.get("date_gmt") or detail.get("date") or ""
@@ -274,6 +278,26 @@ def manual_links(client, log):
     return hits
 
 
+def write_summary(cfg, rows, now):
+    """data/overzicht.md: per klant hoeveel publicaties, via welke route, laatste 5."""
+    lines = [f"# Overzicht monitor", "", f"Bijgewerkt: {now:%Y-%m-%d %H:%M} UTC", "",
+             "| Klant | Lijst | Publicaties | Automatisch | Handmatig | Via Google News |",
+             "|---|---|---|---|---|---|"]
+    for c in cfg["clients"]:
+        rs = [r for r in rows if r["client"] == c["name"]]
+        man = sum(r["method"] == "handmatig" for r in rs)
+        gn = sum(r["method"] == "google_news" for r in rs)
+        lines.append(f"| {c['name']} | {c.get('list', '')} | {len(rs)} | {len(rs) - man} | {man} | {gn} |")
+    for c in cfg["clients"]:
+        rs = [r for r in rows if r["client"] == c["name"]]
+        if not rs:
+            continue
+        lines += ["", f"## {c['name']}", ""]
+        for r in sorted(rs, key=lambda r: r["published"], reverse=True)[:10]:
+            lines.append(f"- {r['published'] or '?'} — **{r['outlet']}**: [{r['title']}]({r['url']}) _({r['method']})_")
+    (DATA / "overzicht.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
 def norm_key(row):
     """Ontdubbelen: zelfde outlet + zelfde titel telt als één publicatie."""
     t = re.sub(r"\W+", " ", row["title"].lower()).strip()
@@ -340,6 +364,8 @@ def main():
         w = csv.DictWriter(f, fieldnames=FIELDS)
         w.writeheader()
         w.writerows(all_rows)
+
+    write_summary(cfg, all_rows, now)
 
     with LOG_PATH.open("a", encoding="utf-8") as f:
         f.write(f"\n== {now.isoformat(timespec='seconds')} — {len(new_rows)} nieuw ==\n")

@@ -13,7 +13,8 @@
         "Counter-Strike",
         "Adidas",
         "Tênis"
-      ]
+      ],
+      "list": "vast"
     },
     {
       "name": "Katapull",
@@ -21,7 +22,281 @@
         "Katapull"
       ],
       "spokespersons": [],
-      "exclude": []
+      "exclude": [],
+      "list": "vast"
+    },
+    {
+      "name": "Drukwerkdeal",
+      "match": [
+        "Drukwerkdeal"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "vast"
+    },
+    {
+      "name": "Straight Line Leadership",
+      "match": [
+        "Straight Line Leadership"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "vast"
+    },
+    {
+      "name": "Machiel Hoek",
+      "match": [
+        "Machiel Hoek"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "vast"
+    },
+    {
+      "name": "Verdi Fit",
+      "match": [
+        "Verdi Fit"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "vast"
+    },
+    {
+      "name": "Doors Open",
+      "match": [
+        "Doors Open"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "vast"
+    },
+    {
+      "name": "TAB",
+      "match": [
+        "The Alternative Board",
+        "TAB Nederland"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "vast"
+    },
+    {
+      "name": "Robbers & van den Hoogen",
+      "match": [
+        "Robbers & van den Hoogen"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "los"
+    },
+    {
+      "name": "Multitint",
+      "match": [
+        "Multitint"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "los"
+    },
+    {
+      "name": "ECO NV",
+      "match": [
+        "ECO NV"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "los"
+    },
+    {
+      "name": "PR Goeroes",
+      "match": [
+        "PR Goeroes",
+        "PRGoeroes"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "eigen"
+    },
+    {
+      "name": "Jennifer Delano",
+      "match": [
+        "Jennifer Delano"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "eigen"
+    },
+    {
+      "name": "Nee zeggen loont",
+      "match": [
+        "Nee zeggen loont"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "eigen"
+    },
+    {
+      "name": "John Barzilaij",
+      "match": [
+        "John Barzilaij"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "oud"
+    },
+    {
+      "name": "Waarderen.nl",
+      "match": [
+        "Waarderen.nl"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "oud"
+    },
+    {
+      "name": "Novateq",
+      "match": [
+        "Novateq"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "oud"
+    },
+    {
+      "name": "FlowQI",
+      "match": [
+        "FlowQI"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "oud"
+    },
+    {
+      "name": "Equip",
+      "match": [
+        "Equip"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "oud"
+    },
+    {
+      "name": "Hogeschool Utrecht",
+      "match": [
+        "Hogeschool Utrecht",
+        "Hogeschool van Utrecht"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "oud"
+    },
+    {
+      "name": "RISE Labs",
+      "match": [
+        "RISE Labs"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "oud"
+    },
+    {
+      "name": "MediKIT",
+      "match": [
+        "MediKIT"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "oud"
+    },
+    {
+      "name": "FloraNL",
+      "match": [
+        "FloraNL"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "oud"
+    },
+    {
+      "name": "INSIFR",
+      "match": [
+        "INSIFR"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "oud"
+    },
+    {
+      "name": "Marieke Pijler",
+      "match": [
+        "Marieke Pijler"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "oud"
+    },
+    {
+      "name": "Xlens",
+      "match": [
+        "Xlens"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "oud"
+    },
+    {
+      "name": "Tails & Bubbles",
+      "match": [
+        "Tails & Bubbles"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "oud"
+    },
+    {
+      "name": "LUMEX",
+      "match": [
+        "LUMEX"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "oud"
+    },
+    {
+      "name": "Happy Brain Clinics",
+      "match": [
+        "Happy Brain Clinics"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "oud"
+    },
+    {
+      "name": "Ecoware",
+      "match": [
+        "Ecoware"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "oud"
+    },
+    {
+      "name": "Sander Klos",
+      "match": [
+        "Sander Klos"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "oud"
+    },
+    {
+      "name": "MIRhosting",
+      "match": [
+        "MIRhosting"
+      ],
+      "spokespersons": [],
+      "exclude": [],
+      "list": "oud"
     }
   ],
   "wordpress_sources": [
@@ -68,5 +343,6 @@
       "outlet": "Logimerce",
       "index": "https://logimerce.nl/sitemap/index.xml"
     }
-  ]
+  ],
+  "_lists": "vast = dagelijkse briefing vaste klanten; los = losse klanten; eigen = PR Goeroes zelf; oud = wekelijkse update eerdere samenwerkingen (bron: Agility-briefings 26 en 29 okt)"
 }
