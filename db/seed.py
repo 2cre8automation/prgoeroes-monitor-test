@@ -60,6 +60,14 @@ def main():
     for i in range(0, len(uniq), 200):
         supa.insert("mentions", uniq[i:i + 200], on_conflict="client_id,url", ignore_duplicates=True)
 
+    media_path = ROOT / "db" / "media.json"
+    if media_path.exists():
+        media = json.loads(media_path.read_text())
+        keys = ["outlet", "domain", "monthly_visitors", "cpm_eur", "confidence", "source_urls", "notes"]
+        media = [{k: m.get(k) for k in keys} for m in media]
+        supa.insert("media", media, on_conflict="outlet", ignore_duplicates=True)  # aanpassingen van Jennifer niet overschrijven
+        print(f"mediatabel: {len(media)} media")
+
     print(f"klanten: {len(ids)}, bronnen: {len(sources)}, publicaties overgezet: {len(uniq)}")
 
 
