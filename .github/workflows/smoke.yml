@@ -1,0 +1,22 @@
+name: MCP rooktest
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Test
+        env:
+          MCP_BASE: https://prgoeroes-mcp.f-raja.workers.dev
+          MCP_TOKEN: ${{ secrets.MCP_TOKEN }}
+        run: |
+          bash tools/smoke.sh 2>&1 | sed "s#${MCP_TOKEN}#<token>#g" > tools/smoke-output.txt || true
+      - run: |
+          git config user.name "prgoeroes-monitor"
+          git config user.email "actions@users.noreply.github.com"
+          git add tools/smoke-output.txt
+          git diff --cached --quiet || git commit -m "MCP rooktest"
+          git pull --rebase -q origin main && git push
