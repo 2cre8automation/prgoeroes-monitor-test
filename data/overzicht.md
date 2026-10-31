@@ -1,11 +1,11 @@
 # Overzicht monitor
 
-Bijgewerkt: 2026-10-31 13:00 UTC
+Bijgewerkt: 2026-10-31 16:40 UTC
 
 | Klant | Lijst | Publicaties | Automatisch | Handmatig | Via Google News |
 |---|---|---|---|---|---|
 | Aspyre | vast | 8 | 6 | 2 | 1 |
-| Katapull | vast | 16 | 16 | 0 | 9 |
+| Katapull | vast | 17 | 17 | 0 | 10 |
 | Drukwerkdeal | vast | 10 | 10 | 0 | 3 |
 | Straight Line Leadership | vast | 0 | 0 | 0 | 0 |
 | Machiel Hoek | vast | 0 | 0 | 0 | 0 |
@@ -23,7 +23,7 @@ Bijgewerkt: 2026-10-31 13:00 UTC
 | Novateq | oud | 0 | 0 | 0 | 0 |
 | FlowQI | oud | 0 | 0 | 0 | 0 |
 | Equip | oud | 4 | 4 | 0 | 4 |
-| Hogeschool Utrecht | oud | 38 | 38 | 0 | 34 |
+| Hogeschool Utrecht | oud | 39 | 39 | 0 | 35 |
 | RISE Labs | oud | 0 | 0 | 0 | 0 |
 | MediKIT | oud | 0 | 0 | 0 | 0 |
 | FloraNL | oud | 0 | 0 | 0 | 0 |
@@ -53,13 +53,13 @@ Bijgewerkt: 2026-10-31 13:00 UTC
 - 2026-10-30 — **Warehouse Totaal**: [Katapull neemt Picqer over](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSHZZaFA3OUtmUVVNa1BQWDU1TG5VZDVHNi00a3hpZU1XUm9qNEx4RDgxclMwb3RiVF9SMkFCTDRsdFVCX0UwbXdYUndOWU8zeHZnOWdnNDlWcDdZTFp3UnBQai11Z0xMYzVMRmhDakVJN2tfR1BJR1IzTjZfTjkwNmlZWXJsTHlnbF9QMktUa1RaeFg5MllXM2tSdS1tbWxSWmc?oc=5) _(google_news)_
 - 2026-10-28 — **Logimerce**: [Katapull blijft softwarespecialisten stapelen: ook Picqer ingelijfd](https://logimerce.nl/news/7324/katapull-blijft-softwarespecialisten-stapelen-ook-picqer-ingelijfd) _(sitemap)_
 - 2026-10-28 — **AD.nl**: [Arnhems softwarebedrijf Picqer komt in handen van Katapull](https://news.google.com/rss/articles/CBMimAFBVV95cUxQbkJSQ0VRRTJSbFYtcUJpLUwwZHllVUhLSmVjYnMtWmwzZl8xWG0xOXJuRVlwR0VrWEdKMjVQSjBaWWNuMVVfXzRlVTJ6dEFyVXRYUkduMmprbTdmU0JReXFiN1NnMUQwZ1lKQkw2NmhCYXJoa0gxcnNOd21zbHVOcy1oeVYtUm5YcVViYUE3QTNPMmVtT0VfTw?oc=5) _(google_news)_
+- 2026-10-28 — **De Gelderlander**: [Arnhems softwarebedrijf Picqer komt in handen van Katapull](https://news.google.com/rss/articles/CBMipgFBVV95cUxQTXBfcm0yNHVCOUZYcWtrOEpabFplN090Y1Vpa2NWblNPZzlZQ2ZleVlMWTg3TkxxdW9VR3oxeFFzSlpPbDdUM1BGTDZnY0FmM0YtblhadUxXc0JiSTRRTm45UlM1MFRpZUZ3R21IU25TVGxHMDluallvN0d4QTJlMzM2QTdnZzJsZ0xVTnlWN1FOOUdMM0NnRU5mVXZ2b0ZUYm1iVVZ3?oc=5) _(google_news)_
 - 2026-10-23 — **Emerce**: [Katapull maakt met miljoenenovername Picqer zijn Commerce Hub ‘completer’](https://news.google.com/rss/articles/CBMilgFBVV95cUxQSHBYZTVZd0RHNEZqejdqS1JSLXhkdzdmUTRsOVBnSjExNHEwRl9ScVFDZ0EzZ2hrTG1yXzJCOG1Dd1Q3em1USWdWdEN6bmZrSXNSZ0ZhTFRyNmtaM0hNaHFMbUhuVTJicnNBZVFZMnV1QlZFLWVUTXRsWTFQZF9hVmRGcElFNnZmSW1XY05hMVZ3enBNWUE?oc=5) _(google_news)_
 - 2026-10-22 — **Computable**: [Katapull breidt via overname Picqer softwareaanbod voor e-commerce uit](https://www.computable.nl/2026/10/22/katapull-breidt-via-overname-picqer-softwareaanbod-voor-e-commerce-uit/) _(wordpress)_
 - 2026-10-22 — **MenA.nl**: [Nedvest voegt bedrijf nummer acht toe aan portfoliobedrijf Katapull](https://news.google.com/rss/articles/CBMimgFBVV95cUxOTExMZGxITTE5TE4yb1E4MEExNXdWWFo5ckJFdWhrZEtNajh3RV9XV01ocWhIaUlKMHlCQ2dCSjd5WnZMcTdvSEpYaWJVNlBlTFcxcGhaQXVvc0VlVnBZcVNBOWpla3JoUklkbHRYMk5WSFM0dWVndV9MdlE3aGhHd1Njc3hHQmJzMVI4dWtLYTBWV1JrbUZBOVJB?oc=5) _(google_news)_
 - 2026-10-22 — **MenA.nl**: [Nedvest voegt bedrijf nummer zeven toe aan portfoliobedrijf Katapull](https://news.google.com/rss/articles/CBMimgFBVV95cUxPaEtnbHROOG16SDFQMGdsTE1IZGdFbEpManRwc3ZYQ1F3c3I0MWY5ZHQ5MkFDWkhjbmdSSnUxRFBUdHoxVkM3Ym5IQ0pYY2ViRVJJcTY0MDVLUXptNHFVa1k1QWlueFhwQ2xkbF9sZ3FQLTdBckowaUc3UkZEVWZtZmdseTdoUXd4RzNoVXVUNHctN2M0clo0Z3Z3?oc=5) _(google_news)_
 - 2026-10-21 — **Mediacontent.nu**: [Katapull maakt met miljoenenovername Picqer zijn Commerce Hub ‘completer’](https://mediacontent.nu/katapull-maakt-met-miljoenenovername-picqer-zijn-commerce-hub-completer/) _(wordpress)_
 - 2026-10-16 — **quasa.io**: [Katapull koopt Picqer: product en team blijven zelfstandig](https://news.google.com/rss/articles/CBMikwFBVV95cUxPV2hleEJ4eE9tX01wVFB1ZzZZSnZ3R1ZwTlBFRHV3N2NGWEtsUTNkcFZYZDJ4RTF6eGNDaFF0ZGZyejZMeHV6dEpRRV9jVG00bU9SNXhNWkt0U1R0QU8tN0loblpvX3ZDT0dmdmZaa3h6bkdVcWNWWlNOQ1BJS2hlMUxHQmNVa0l4czNlRk53a3lIM0U?oc=5) _(google_news)_
-- 2026-10-10 — **Dutch IT Channel**: [Katapull breidt Commerce Hub uit met overname van Picqer](https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ3hfWjB0SktzNjQwMmN0a3lMUVJGbzZJRExMNURiaGFlQ1hkR2ljQlIzalJVdWc3R3piaC03NWNLc21uWGhRWnhRQnNmdEl3Y2oyVWVydzJVbExsR1lNa1JUWHd6WDExVkRzUklPMmRpVERuYUd3ZlowakV3MG1ZNGdWME1uaG9QVmNSdXItSVhBUVJEOVRXcWs1Wk5NcG8?oc=5) _(google_news)_
 
 ## Drukwerkdeal
 
