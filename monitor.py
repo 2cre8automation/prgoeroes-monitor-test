@@ -210,6 +210,8 @@ def search_rss(source, client, since, log):
     return hits
 
 
+SITEMAP_MAX_CHILDREN = 12
+SITEMAP_BUDGET_S = 120
 _sitemap_cache = {}
 
 
@@ -220,10 +222,32 @@ def search_sitemap(source, client, since, log):
     if idx not in _sitemap_cache:
         urls = []
         try:
-            children = re.findall(r"<loc>\s*([^<\s]+)\s*</loc>", fetch(idx))
-            for child in children:
-                urls += re.findall(r"<loc>\s*([^<\s]+)\s*</loc>", fetch(child, timeout=60))
-                time.sleep(1)
+            body = fetch(idx)
+            if "<sitemapindex" in body:
+                # Grote sites hebben honderden deel-sitemaps: alleen de recentste, met tijdslimiet
+                entries = re.findall(r"<sitemap>(.*?)</sitemap>", body, re.S)
+                kids = []
+                for e in entries:
+                    loc = re.search(r"<loc>\s*([^<\s]+)\s*</loc>", e)
+                    mod = re.search(r"<lastmod>\s*([^<\s]+)\s*</lastmod>", e)
+                    if loc:
+                        kids.append((mod.group(1) if mod else "", loc.group(1)))
+                if any(m for m, _ in kids):
+                    kids.sort(reverse=True)
+                else:
+                    kids.reverse()  # zonder datum staan de nieuwste meestal achteraan
+                deadline = time.time() + SITEMAP_BUDGET_S
+                for _, child in kids[:SITEMAP_MAX_CHILDREN]:
+                    if time.time() > deadline:
+                        log.append(f"{source['outlet']}: sitemap ingekort (tijdslimiet)")
+                        break
+                    try:
+                        urls += re.findall(r"<loc>\s*([^<\s]+)\s*</loc>", fetch(child, timeout=30))
+                    except Exception:
+                        pass
+                    time.sleep(1)
+            else:
+                urls = re.findall(r"<loc>\s*([^<\s]+)\s*</loc>", body)
         except Exception as e:
             log.append(f"{source['outlet']}: sitemap-fout ({type(e).__name__})")
         _sitemap_cache[idx] = urls
