@@ -1,6 +1,6 @@
 # Overzicht monitor
 
-Bijgewerkt: 2026-11-01 13:57 UTC
+Bijgewerkt: 2026-11-01 21:50 UTC
 
 | Klant | Lijst | Publicaties | Automatisch | Handmatig | Via Google News |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@ Bijgewerkt: 2026-11-01 13:57 UTC
 | Robbers & van den Hoogen | los | 1 | 1 | 0 | 0 |
 | Multitint | los | 2 | 2 | 0 | 1 |
 | ECO NV | los | 0 | 0 | 0 | 0 |
-| PR Goeroes | eigen | 4 | 4 | 0 | 1 |
+| PR Goeroes | eigen | 5 | 5 | 0 | 2 |
 | Jennifer Delano | eigen | 3 | 3 | 0 | 0 |
 | Nee zeggen loont | eigen | 0 | 0 | 0 | 0 |
 | John Barzilaij | oud | 5 | 5 | 0 | 0 |
@@ -23,7 +23,7 @@ Bijgewerkt: 2026-11-01 13:57 UTC
 | Novateq | oud | 0 | 0 | 0 | 0 |
 | FlowQI | oud | 0 | 0 | 0 | 0 |
 | Equip | oud | 6 | 6 | 0 | 4 |
-| Hogeschool Utrecht | oud | 41 | 41 | 0 | 35 |
+| Hogeschool Utrecht | oud | 42 | 42 | 0 | 36 |
 | RISE Labs | oud | 0 | 0 | 0 | 0 |
 | MediKIT | oud | 0 | 0 | 0 | 0 |
 | FloraNL | oud | 0 | 0 | 0 | 0 |
@@ -95,6 +95,7 @@ Bijgewerkt: 2026-11-01 13:57 UTC
 - 2026-09-03 — **Mediacontent.nu**: [Van uitvoerder naar regisseur: ‘AI verandert rol van marketeer’](https://mediacontent.nu/van-uitvoerder-naar-regisseur-ai-verandert-rol-van-marketeer/) _(wordpress)_
 - 2026-09-02 — **Wees Meer**: [Van uitvoerder naar regisseur: ‘AI verandert rol van marketeer’](https://weesmeer.nl/van-uitvoerder-naar-regisseur-ai-verandert-rol-van-marketeer/) _(wordpress)_
 - 2026-07-31 — **Emerce**: [PRGoeroes uitgeroepen tot ‘PR-bureau van het jaar 2026’](https://news.google.com/rss/articles/CBMie0FVX3lxTE1CNGlXLTcwM29ySDVBS0JJOTBDMmhjX3RLdjVfOFlBTENJSzdHMGZ3Tk8tU1NNU29ya3RmX3pwbThTV2hzVjVnU1U3cmx4Z0d6dHpjXzFLXzJ2ZVFxd3cwdWpzVkxwb3RQaHpEVndja1RNX0FGUnBzWkU2WQ?oc=5) _(google_news)_
+- 2026-07-31 — **Frankwatching**: [PRGoeroes uitgeroepen tot ‘PR-bureau van het jaar 2026’](https://news.google.com/rss/articles/CBMilwFBVV95cUxNZXJDaEZoQTEzRTBtaG12RDAyNjVyRjgwR2Vac0w3NlJ4V0lMX1JYUVBjUE1VQkFVZExZbE9nQWpEWTNJM3BCbkNWUzlIc0puMDRCUWUtaTVHMmpMU2VEenllYXBZZnZJMkpwV2xzWlRmamIzRVRhd2JjZzNBU0wxVnFIUHl1M3JrSmM0cVlfRnZCWFp3cWlV?oc=5) _(google_news)_
 
 ## Jennifer Delano
 
