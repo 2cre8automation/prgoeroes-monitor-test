@@ -1,6 +1,6 @@
 # Overzicht monitor
 
-Bijgewerkt: 2026-11-01 08:17 UTC
+Bijgewerkt: 2026-11-01 13:57 UTC
 
 | Klant | Lijst | Publicaties | Automatisch | Handmatig | Via Google News |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@ Bijgewerkt: 2026-11-01 08:17 UTC
 | Novateq | oud | 0 | 0 | 0 | 0 |
 | FlowQI | oud | 0 | 0 | 0 | 0 |
 | Equip | oud | 6 | 6 | 0 | 4 |
-| Hogeschool Utrecht | oud | 40 | 40 | 0 | 34 |
+| Hogeschool Utrecht | oud | 41 | 41 | 0 | 35 |
 | RISE Labs | oud | 0 | 0 | 0 | 0 |
 | MediKIT | oud | 0 | 0 | 0 | 0 |
 | FloraNL | oud | 0 | 0 | 0 | 0 |
@@ -129,6 +129,7 @@ Bijgewerkt: 2026-11-01 08:17 UTC
 
 - 2026-10-30 — **Hogeschool Utrecht**: [Eind van liedje: Renteplafond blijft, genoeg steun voor minister](https://news.google.com/rss/articles/CBMikAFBVV95cUxOVlBZbG1RWnlvZTV0X2YyN0FYNVZhT09tRFFpQklXTEx6ZEZRNlBXb1NadTZnSDg5ZUxiY3RTenROLXczdWVQMzRfbFRaS0Q2RkxOaklidmZsNmFVTzFJR3JyTjdNNE44akNJd0VnWFRvWEdpeXNlam9fYkVHOWFhdmZuWHhKV2JCNE1tTHAtclQ?oc=5) _(google_news)_
 - 2026-10-30 — **Hogeschool Utrecht**: [We mogen de nieuwe generatie in Srebrenica niet vergeten](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenYzT2NGYVBTNWNESDNhbk9hOFRpbF9BbjFDRXl3OTJKT1V5alp5b19xSWRQX2RhejU3VWlXTXlJazI5VEhRQnhwU1U2dmR6YVJnbHhXa3FxZ3ZOa1NZOVliRm5aZFZKejhxaW13Y1kxcm8tMFFxNUd4UEZady1WMXN5VDlWSmJp?oc=5) _(google_news)_
+- 2026-10-29 — **Hogeschool Utrecht**: [Insluiper, urine in het trappenhuis en onvrede over digitale sleutels: studentencomplex High Five kampt met problemen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV3pSeURJWmhZSFBvYUo3M294UEtvSzhTQTZ0UklVVmRPTk5zWFdvWHRSeTczWXYwcF9ibHhQdWd3bWRiT1BqVWVxN0VjT3VxWVRYYjV2WDNKVXlfb0VLR0t4RUpPT0tJQy11Tmpibkc0VkxpUFByNF9OUHpKQ2VucVg0ZDRhckhSNlBOTTZpMmdSc09ldGR5QXQzWlJUeW1SajJPamdHMlowMUstSlBNbktlWm83Z0JrZzNiWjRfS3p1cTA3UDVYejFEYnhtTTcxNTR6c2dISQ?oc=5) _(google_news)_
 - 2026-10-26 — **Hogeschool Utrecht**: [Vooruitblik: vooral D66 moet op eieren lopen in het debat over de OCW-begroting](https://news.google.com/rss/articles/CBMipgFBVV95cUxQakxleUwxMDNjMU1xN1VaaFZvUnExOU82X1R2S3FHaFNBSEVsZXlGSGNRWkJiaC1tU1Q5V1hMN3hoZnAtWkp3Y0ZxRTJqTmVRTjU5Z0w0RzRxWXZ1TXJBTDJjY3BPa3ppRmE0RWZ4d0lKVDNtcGF3WkJCVjhnMUpoRF9oSHpMRk1RZGYyOFpEU2VEd1lDRURUYUNfd0QtMVJoRGg2Uk1B?oc=5) _(google_news)_
 - 2026-10-19 — **IP | vakblad voor informatieprofessionals**: [Hogeschool Utrecht houdt Data Horror Week](https://news.google.com/rss/articles/CBMiggFBVV95cUxQMF8zdTl1dUpqampZdkZ1dHBlUEJGYWlmcmJJbjBZMzVGOVh1QXZSLVlMa3V5ZTBwTDFFcUlsSDd6S0NGMDduYXdEa1h5ZUlKV2s0ejYzSUR1azJuNk1iNEZWTFRXOU5yU1g4cG5NT1JHbzE0MjlDS0NtYXdkR1pmNmFB?oc=5) _(google_news)_
 - 2026-10-16 — **De Utrechtse Internet Courant**: [Hogeschool Utrecht blijft voorlopig actief op TikTok ondanks eerder aangekondigd vertrek](https://news.google.com/rss/articles/CBMizAFBVV95cUxQR3dzdEQteVZYSjBpQUtfS1RkWDNfUFNleVVDcW82VHp5dFVEXzJnd0NTOG5UcFd6N2Y5cEZXbzNnemV5RFdJRmsySXRWZmlGVlJvODRfOUdReDZBNWVFYzNCOHBycW8xNEh1eEpFVDRJUW9TQUpuRVBpejVudU9EUC1KZUZoNllrbTR6LWV5VFRpc0p4eHQwYUN0dklnMU9nNEJ1X0tnSV9ZQnJ2eG5RWnRDYmNrcnlHYVM5cTdtcjFvQ0hFaWt4ZHJUMEY?oc=5) _(google_news)_
@@ -136,7 +137,6 @@ Bijgewerkt: 2026-11-01 08:17 UTC
 - 2026-10-13 — **Accountancy Vanmorgen ·**: [Opleidingen accountancy en finance Hogeschool Utrecht onder druk](https://news.google.com/rss/articles/CBMisgFBVV95cUxNN0FQajlTUkhvdUpzYkxuN0lTWW50WkZ6QWJzUXhfWUNaNEw0Q0tvWGNCM3NJc0ZnV1lEUHJJUXNlcUl6VUMxNmJISV9OdVhKa19HRkw1cFV2M3NrSmhudDBUeXc2bUNtQ3ZnaG80UDFCMnNrQlJobHBHcVMzSk9JT1N6VUhVdGdWQzhEbFBrWmVvekcyTnZIUVhrZk1UQ2hXb0RDT2VDeDZ3NDgzamdwMmdR?oc=5) _(google_news)_
 - 2026-10-08 — **Hogeschool Utrecht**: [5 thoughts on “ Hogeschool Utrecht weer een-na-laatste in hbo-ranking](https://news.google.com/rss/articles/CBMihAFBVV95cUxQVkFpek5IaS12QUJJSVBwYjdISTFzYkNaQ0lSOUx4a214YkozUlRLejh1cDllcm84U040dHRUSVNuQWRmNmpWTHFGQ05xUXZWcHFITG16TVdtUEI5aWcwYmdaVmNDZ2pheXhJNW9qRGRjNXlodnJEMU9fd2xGRGRQSnBnM1Y?oc=5) _(google_news)_
 - 2026-10-01 — **Omroep Zout**: [Hogeschool Utrecht onderzoekt veiligheid van provinciale fietsroutes](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWWRnWVR5ZHEtOGJQU1VXazNaUXdGejJWRm1fb2xaSkNVb2ZFVDNBTWZsTGRMT3BLWmpHMDR2aFJNX1d5R0NHWUZyazg1aVVXWVJIMkkwQlB6X0R3OFQyV2VKaE1XM3hzU2FRNEVaMFdydTdfZmF5WmRNMnZSYmpDN2d1dzUyRGRmQmhmdXZFd1Iydk45TkhDTko5TQ?oc=5) _(google_news)_
-- 2026-10-01 — **Duurzaam Ondernemen**: [Utrecht zet stap in duurzame zorg met wasbaar incontinentiemateriaal](https://www.duurzaam-ondernemen.nl/utrecht-zet-stap-in-duurzame-zorg-met-wasbaar-incontinentiemateriaal/) _(wordpress)_
 
 ## LUMEX
 
