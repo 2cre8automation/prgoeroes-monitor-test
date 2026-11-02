@@ -1,6 +1,6 @@
 # Overzicht monitor
 
-Bijgewerkt: 2026-11-02 06:17 UTC
+Bijgewerkt: 2026-11-02 09:27 UTC
 
 | Klant | Lijst | Publicaties | Automatisch | Handmatig | Via Google News |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@ Bijgewerkt: 2026-11-02 06:17 UTC
 | Novateq | oud | 0 | 0 | 0 | 0 |
 | FlowQI | oud | 0 | 0 | 0 | 0 |
 | Equip | oud | 6 | 6 | 0 | 4 |
-| Hogeschool Utrecht | oud | 42 | 42 | 0 | 36 |
+| Hogeschool Utrecht | oud | 43 | 43 | 0 | 37 |
 | RISE Labs | oud | 0 | 0 | 0 | 0 |
 | MediKIT | oud | 0 | 0 | 0 | 0 |
 | FloraNL | oud | 0 | 0 | 0 | 0 |
@@ -137,7 +137,7 @@ Bijgewerkt: 2026-11-02 06:17 UTC
 - 2026-10-16 — **ScienceGuide**: ['Je trekt de discriminatiekaart': Mensenrechtencollege onderzoekt handelen van de Hogeschool Utrecht](https://news.google.com/rss/articles/CBMizwFBVV95cUxOVHprWHFoVlEwNnJSRmJMOGRJaFpGSnZWajdrczRYVWI5NEVwejZYY2ZGSldSUVJaWV9TQUVINHJUZnRkdFVJVG9zQlJCZ0JGMUh4QkRtczhOU3FOekQ1X2Z4aW9yWHVqa2V3MFg2YTVTT1R5MnJ2ck93ZHV0Y0kzT01kSnVPTnZKUXlLaWRPV1FscXdZb2NfbXZ6Nmdlb0JZOGpzTjdqN1B6MHRkTzl2dkRqd0NmSWFtaHgyZUpQdDFwcU9xV0lpNEExSUpSSTg?oc=5) _(google_news)_
 - 2026-10-13 — **Accountancy Vanmorgen ·**: [Opleidingen accountancy en finance Hogeschool Utrecht onder druk](https://news.google.com/rss/articles/CBMisgFBVV95cUxNN0FQajlTUkhvdUpzYkxuN0lTWW50WkZ6QWJzUXhfWUNaNEw0Q0tvWGNCM3NJc0ZnV1lEUHJJUXNlcUl6VUMxNmJISV9OdVhKa19HRkw1cFV2M3NrSmhudDBUeXc2bUNtQ3ZnaG80UDFCMnNrQlJobHBHcVMzSk9JT1N6VUhVdGdWQzhEbFBrWmVvekcyTnZIUVhrZk1UQ2hXb0RDT2VDeDZ3NDgzamdwMmdR?oc=5) _(google_news)_
 - 2026-10-08 — **Hogeschool Utrecht**: [5 thoughts on “ Hogeschool Utrecht weer een-na-laatste in hbo-ranking](https://news.google.com/rss/articles/CBMihAFBVV95cUxQVkFpek5IaS12QUJJSVBwYjdISTFzYkNaQ0lSOUx4a214YkozUlRLejh1cDllcm84U040dHRUSVNuQWRmNmpWTHFGQ05xUXZWcHFITG16TVdtUEI5aWcwYmdaVmNDZ2pheXhJNW9qRGRjNXlodnJEMU9fd2xGRGRQSnBnM1Y?oc=5) _(google_news)_
-- 2026-10-01 — **Omroep Zout**: [Hogeschool Utrecht onderzoekt veiligheid van provinciale fietsroutes](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWWRnWVR5ZHEtOGJQU1VXazNaUXdGejJWRm1fb2xaSkNVb2ZFVDNBTWZsTGRMT3BLWmpHMDR2aFJNX1d5R0NHWUZyazg1aVVXWVJIMkkwQlB6X0R3OFQyV2VKaE1XM3hzU2FRNEVaMFdydTdfZmF5WmRNMnZSYmpDN2d1dzUyRGRmQmhmdXZFd1Iydk45TkhDTko5TQ?oc=5) _(google_news)_
+- 2026-10-08 — **De Utrechtse Internet Courant**: [Hogeschool Utrecht opnieuw onderaan ranglijst Keuzegids hbo](https://news.google.com/rss/articles/CBMipgFBVV95cUxOdFRQVGJEbkxMZ2tRYUxvbHB6RktLMVpnZnNkN1AzZmZHT1JvRnp0b1J0dTJWXzJFNE8yZGRIYjdjYU1CLWRpM3ZoZTlEdjh1MDUwalhmSklkaU8tLWVqVjVzY2dZZTh2SkJwWEhPTEN1bEF0VU93YUN6TFd4ampubUY1UjlIVVZ0Q2RLX2pZZWJuNXl1TTFqOTNMN1NKWXhjQjhxQ2JB?oc=5) _(google_news)_
 
 ## LUMEX
 
