@@ -1,6 +1,6 @@
 # Overzicht monitor
 
-Bijgewerkt: 2026-11-02 14:28 UTC
+Bijgewerkt: 2026-11-02 21:55 UTC
 
 | Klant | Lijst | Publicaties | Automatisch | Handmatig | Via Google News |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@ Bijgewerkt: 2026-11-02 14:28 UTC
 | Waarderen.nl | oud | 3 | 3 | 0 | 0 |
 | Novateq | oud | 0 | 0 | 0 | 0 |
 | FlowQI | oud | 0 | 0 | 0 | 0 |
-| Equip | oud | 6 | 6 | 0 | 4 |
+| Equip | oud | 7 | 7 | 0 | 4 |
 | Hogeschool Utrecht | oud | 46 | 46 | 0 | 40 |
 | RISE Labs | oud | 0 | 0 | 0 | 0 |
 | MediKIT | oud | 0 | 0 | 0 | 0 |
@@ -125,6 +125,7 @@ Bijgewerkt: 2026-11-02 14:28 UTC
 - 2026-08-25 — **InFinance**: [Equip lanceert AI-platform voor pensioenadvies](https://infinance.nl/pensioenen/equip-lanceert-ai-platform-voor-pensioenadvies/) _(wordpress)_
 - 2026-08-25 — **InFinance**: [Veertien innovaties in de race voor FFP Innovatie Award](https://infinance.nl/financiele-planning/veertien-innovaties-in-de-race-voor-ffp-innovatie-award/) _(wordpress)_
 - 2026-08-25 — **AMweb**: [Startup Equip lanceert AI-platform in strijd tegen dreigend pensioentekort](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbEQxTWg1bG1ZSkR5M285b29IUkR5MHprd0Qzd2VUREE1R0E4YXVnVEpxeWI4ZTZKUUtnSHVLQ21UdktZWkg3SUN2OVd2dTdmbEplUEZzaFgyYUhUVkwwSUp5VjdJR0Uwd0NQUk5ZTlJnZ1MyZlI0R3ZVU3NnSlJPSFNCZ0xGalVCUDhtbm1iZHVhTzRkLVNVN0o0Y3VrLXAwZlFQcA?oc=5) _(google_news)_
+- ? — **quasa.io**: [Dust – Plataforma d’agents d’IA, connexions amb el coneixement de l’empresa i col·laboració en equip](https://quasa.io/ca/video/dust-plataforma-dagents-dia-connexions-amb-el-coneixement-de-lempresa-i-collaboracio-en-equip) _(sitemap)_
 
 ## Hogeschool Utrecht
 
