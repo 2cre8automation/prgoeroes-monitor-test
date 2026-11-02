@@ -1,6 +1,6 @@
 # Overzicht monitor
 
-Bijgewerkt: 2026-11-02 09:27 UTC
+Bijgewerkt: 2026-11-02 09:52 UTC
 
 | Klant | Lijst | Publicaties | Automatisch | Handmatig | Via Google News |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@ Bijgewerkt: 2026-11-02 09:27 UTC
 | Tails & Bubbles | oud | 0 | 0 | 0 | 0 |
 | LUMEX | oud | 6 | 6 | 0 | 1 |
 | Happy Brain Clinics | oud | 0 | 0 | 0 | 0 |
-| Ecoware | oud | 1 | 1 | 0 | 1 |
+| Ecoware | oud | 2 | 2 | 0 | 1 |
 | Sander Klos | oud | 0 | 0 | 0 | 0 |
 | MIRhosting | oud | 0 | 0 | 0 | 0 |
 
@@ -150,4 +150,5 @@ Bijgewerkt: 2026-11-02 09:27 UTC
 
 ## Ecoware
 
+- 2026-10-28 — **Streekomroep Zoetermeer Lansingerland**: [Zoetermeer zet in op jongeren en gezinnen in strijd tegen laaggeletterdheid](https://streekomroepzoetermeerlansingerland.nl/zoetermeer-zet-in-op-jongeren-en-gezinnen-in-strijd-tegen-laaggeletterdheid/) _(wordpress)_
 - 2026-09-25 — **Dutch IT Channel**: [Infinity IT en EcoWare zetten met samenwerking in op duurzame IT](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMUllUUgtcGU0Ym5EUllOanNyTlRSaDdmRTBKZjQtZy1oV0xhV254ZU9xWUZVYk1qSlhIXzVHeHh1azR5S0pKVFZpQXZmcVk0NjZSNlhsSF9xU1d4TzFMXzAwRUN3eWVkbWh0Nm9SeW9nOS15QTFlSFdrdmZSN3UtNFpCX2NSYXhTR1pDZGRud1h3T0QxUVdTeGxRYUZia1ZOQzdYanViR0g0VDlwNDBRakEtRWhXOVJwOUNN?oc=5) _(google_news)_
