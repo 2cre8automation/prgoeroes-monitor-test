@@ -13,6 +13,7 @@ import csv
 import html
 import json
 import re
+import ssl
 import sys
 import time
 import urllib.error
@@ -39,10 +40,23 @@ FIELDS = [
 _robots_cache = {}
 
 
+_LAX_SSL = ssl.create_default_context()
+_LAX_SSL.check_hostname = False
+_LAX_SSL.verify_mode = ssl.CERT_NONE
+
+
 def fetch(url, timeout=20):
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "*/*"})
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        return r.read().decode("utf-8", errors="replace")
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            return r.read().decode("utf-8", errors="replace")
+    except urllib.error.URLError as e:
+        # Sommige (lokale) sites hebben een onvolledige certificaatketen; browsers vangen dat op, Python niet.
+        # Alleen openbare pagina's lezen, geen inloggegevens: dan opnieuw zonder certificaatcontrole.
+        if not isinstance(getattr(e, "reason", None), ssl.SSLCertVerificationError):
+            raise
+        with urllib.request.urlopen(req, timeout=timeout, context=_LAX_SSL) as r:
+            return r.read().decode("utf-8", errors="replace")
 
 
 def robots_allows(url):
