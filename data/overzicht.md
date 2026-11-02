@@ -1,6 +1,6 @@
 # Overzicht monitor
 
-Bijgewerkt: 2026-11-02 09:52 UTC
+Bijgewerkt: 2026-11-02 14:28 UTC
 
 | Klant | Lijst | Publicaties | Automatisch | Handmatig | Via Google News |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@ Bijgewerkt: 2026-11-02 09:52 UTC
 | Novateq | oud | 0 | 0 | 0 | 0 |
 | FlowQI | oud | 0 | 0 | 0 | 0 |
 | Equip | oud | 6 | 6 | 0 | 4 |
-| Hogeschool Utrecht | oud | 43 | 43 | 0 | 37 |
+| Hogeschool Utrecht | oud | 46 | 46 | 0 | 40 |
 | RISE Labs | oud | 0 | 0 | 0 | 0 |
 | MediKIT | oud | 0 | 0 | 0 | 0 |
 | FloraNL | oud | 0 | 0 | 0 | 0 |
@@ -128,6 +128,8 @@ Bijgewerkt: 2026-11-02 09:52 UTC
 
 ## Hogeschool Utrecht
 
+- 2026-11-02 — **Hogeschool Utrecht**: [Verleen je mantelzorg? Dan krijg je een extra toetskans aan de HU](https://news.google.com/rss/articles/CBMikwFBVV95cUxQSzR0VW5nQTlTeV9ubXdveFluU01INWhLbWJhN1dqN2h2dkJYeFd3Y0lYZEdjZjVrR3ROUEtrUk52ang1T1NvU0YtYU92MVFZLXFCSVFZdWdVNDl1Ti1XOVItY0VyQ2MwQjhNU3RHcjZlc3ZjejdXemlSdk5DNkM1b3dpWnF3WDFGNGNCSGtyMjN4emc?oc=5) _(google_news)_
+- 2026-11-02 — **Hogeschool Utrecht**: [Studieschuld blijft op hypotheek drukken, en dat vindt Nibud verstandig](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMy1rTnFEZGdHbXFwcWRYSmRxMTFyaEhlRTBlWnh3YTVfeGZyOUpGSjgzcUxBMWk2YURpMTllUDdDYlBkY3B3Um5EMUR5ckRkRDZOeXltdmhlZkluMFZMSjNXMW51Tk9VdjVNZzJLY1FUM1A3MldlWlczMXhCSHU4V0kydGdwaEpwNXJqSk9rb3FrTGFwS2FDVk5jQQ?oc=5) _(google_news)_
 - 2026-10-30 — **Hogeschool Utrecht**: [Eind van liedje: Renteplafond blijft, genoeg steun voor minister](https://news.google.com/rss/articles/CBMikAFBVV95cUxOVlBZbG1RWnlvZTV0X2YyN0FYNVZhT09tRFFpQklXTEx6ZEZRNlBXb1NadTZnSDg5ZUxiY3RTenROLXczdWVQMzRfbFRaS0Q2RkxOaklidmZsNmFVTzFJR3JyTjdNNE44akNJd0VnWFRvWEdpeXNlam9fYkVHOWFhdmZuWHhKV2JCNE1tTHAtclQ?oc=5) _(google_news)_
 - 2026-10-30 — **Hogeschool Utrecht**: [We mogen de nieuwe generatie in Srebrenica niet vergeten](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenYzT2NGYVBTNWNESDNhbk9hOFRpbF9BbjFDRXl3OTJKT1V5alp5b19xSWRQX2RhejU3VWlXTXlJazI5VEhRQnhwU1U2dmR6YVJnbHhXa3FxZ3ZOa1NZOVliRm5aZFZKejhxaW13Y1kxcm8tMFFxNUd4UEZady1WMXN5VDlWSmJp?oc=5) _(google_news)_
 - 2026-10-29 — **Hogeschool Utrecht**: [Insluiper, urine in het trappenhuis en onvrede over digitale sleutels: studentencomplex High Five kampt met problemen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV3pSeURJWmhZSFBvYUo3M294UEtvSzhTQTZ0UklVVmRPTk5zWFdvWHRSeTczWXYwcF9ibHhQdWd3bWRiT1BqVWVxN0VjT3VxWVRYYjV2WDNKVXlfb0VLR0t4RUpPT0tJQy11Tmpibkc0VkxpUFByNF9OUHpKQ2VucVg0ZDRhckhSNlBOTTZpMmdSc09ldGR5QXQzWlJUeW1SajJPamdHMlowMUstSlBNbktlWm83Z0JrZzNiWjRfS3p1cTA3UDVYejFEYnhtTTcxNTR6c2dISQ?oc=5) _(google_news)_
@@ -136,8 +138,6 @@ Bijgewerkt: 2026-11-02 09:52 UTC
 - 2026-10-16 — **De Utrechtse Internet Courant**: [Hogeschool Utrecht blijft voorlopig actief op TikTok ondanks eerder aangekondigd vertrek](https://news.google.com/rss/articles/CBMizAFBVV95cUxQR3dzdEQteVZYSjBpQUtfS1RkWDNfUFNleVVDcW82VHp5dFVEXzJnd0NTOG5UcFd6N2Y5cEZXbzNnemV5RFdJRmsySXRWZmlGVlJvODRfOUdReDZBNWVFYzNCOHBycW8xNEh1eEpFVDRJUW9TQUpuRVBpejVudU9EUC1KZUZoNllrbTR6LWV5VFRpc0p4eHQwYUN0dklnMU9nNEJ1X0tnSV9ZQnJ2eG5RWnRDYmNrcnlHYVM5cTdtcjFvQ0hFaWt4ZHJUMEY?oc=5) _(google_news)_
 - 2026-10-16 — **ScienceGuide**: ['Je trekt de discriminatiekaart': Mensenrechtencollege onderzoekt handelen van de Hogeschool Utrecht](https://news.google.com/rss/articles/CBMizwFBVV95cUxOVHprWHFoVlEwNnJSRmJMOGRJaFpGSnZWajdrczRYVWI5NEVwejZYY2ZGSldSUVJaWV9TQUVINHJUZnRkdFVJVG9zQlJCZ0JGMUh4QkRtczhOU3FOekQ1X2Z4aW9yWHVqa2V3MFg2YTVTT1R5MnJ2ck93ZHV0Y0kzT01kSnVPTnZKUXlLaWRPV1FscXdZb2NfbXZ6Nmdlb0JZOGpzTjdqN1B6MHRkTzl2dkRqd0NmSWFtaHgyZUpQdDFwcU9xV0lpNEExSUpSSTg?oc=5) _(google_news)_
 - 2026-10-13 — **Accountancy Vanmorgen ·**: [Opleidingen accountancy en finance Hogeschool Utrecht onder druk](https://news.google.com/rss/articles/CBMisgFBVV95cUxNN0FQajlTUkhvdUpzYkxuN0lTWW50WkZ6QWJzUXhfWUNaNEw0Q0tvWGNCM3NJc0ZnV1lEUHJJUXNlcUl6VUMxNmJISV9OdVhKa19HRkw1cFV2M3NrSmhudDBUeXc2bUNtQ3ZnaG80UDFCMnNrQlJobHBHcVMzSk9JT1N6VUhVdGdWQzhEbFBrWmVvekcyTnZIUVhrZk1UQ2hXb0RDT2VDeDZ3NDgzamdwMmdR?oc=5) _(google_news)_
-- 2026-10-08 — **Hogeschool Utrecht**: [5 thoughts on “ Hogeschool Utrecht weer een-na-laatste in hbo-ranking](https://news.google.com/rss/articles/CBMihAFBVV95cUxQVkFpek5IaS12QUJJSVBwYjdISTFzYkNaQ0lSOUx4a214YkozUlRLejh1cDllcm84U040dHRUSVNuQWRmNmpWTHFGQ05xUXZWcHFITG16TVdtUEI5aWcwYmdaVmNDZ2pheXhJNW9qRGRjNXlodnJEMU9fd2xGRGRQSnBnM1Y?oc=5) _(google_news)_
-- 2026-10-08 — **De Utrechtse Internet Courant**: [Hogeschool Utrecht opnieuw onderaan ranglijst Keuzegids hbo](https://news.google.com/rss/articles/CBMipgFBVV95cUxOdFRQVGJEbkxMZ2tRYUxvbHB6RktLMVpnZnNkN1AzZmZHT1JvRnp0b1J0dTJWXzJFNE8yZGRIYjdjYU1CLWRpM3ZoZTlEdjh1MDUwalhmSklkaU8tLWVqVjVzY2dZZTh2SkJwWEhPTEN1bEF0VU93YUN6TFd4ampubUY1UjlIVVZ0Q2RLX2pZZWJuNXl1TTFqOTNMN1NKWXhjQjhxQ2JB?oc=5) _(google_news)_
 
 ## LUMEX
 
