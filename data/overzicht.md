@@ -1,16 +1,16 @@
 # Overzicht monitor
 
-Bijgewerkt: 2026-11-03 14:25 UTC
+Bijgewerkt: 2026-11-03 22:00 UTC
 
 | Klant | Lijst | Publicaties | Automatisch | Handmatig | Via Google News |
 |---|---|---|---|---|---|
-| Aspyre | vast | 8 | 6 | 2 | 1 |
-| Katapull | vast | 18 | 18 | 0 | 10 |
+| Aspyre | vast | 13 | 11 | 2 | 4 |
+| Katapull | vast | 22 | 21 | 1 | 12 |
 | Drukwerkdeal | vast | 10 | 10 | 0 | 2 |
 | Straight Line Leadership | vast | 0 | 0 | 0 | 0 |
 | Machiel Hoek | vast | 0 | 0 | 0 | 0 |
 | Verdi Fit | vast | 3 | 3 | 0 | 0 |
-| Doors Open | vast | 0 | 0 | 0 | 0 |
+| Doors Open | vast | 72 | 72 | 0 | 72 |
 | TAB | vast | 0 | 0 | 0 | 0 |
 | Robbers & van den Hoogen | los | 1 | 1 | 0 | 0 |
 | Multitint | los | 2 | 2 | 0 | 1 |
@@ -22,16 +22,16 @@ Bijgewerkt: 2026-11-03 14:25 UTC
 | Waarderen.nl | oud | 3 | 3 | 0 | 0 |
 | Novateq | oud | 0 | 0 | 0 | 0 |
 | FlowQI | oud | 0 | 0 | 0 | 0 |
-| Equip | oud | 8 | 8 | 0 | 5 |
-| Hogeschool Utrecht | oud | 47 | 47 | 0 | 41 |
+| Equip | oud | 55 | 55 | 0 | 52 |
+| Hogeschool Utrecht | oud | 48 | 48 | 0 | 42 |
 | RISE Labs | oud | 0 | 0 | 0 | 0 |
-| MediKIT | oud | 0 | 0 | 0 | 0 |
+| MediKIT | oud | 3 | 3 | 0 | 3 |
 | FloraNL | oud | 0 | 0 | 0 | 0 |
 | INSIFR | oud | 0 | 0 | 0 | 0 |
 | Marieke Pijler | oud | 0 | 0 | 0 | 0 |
 | Xlens | oud | 0 | 0 | 0 | 0 |
 | Tails & Bubbles | oud | 0 | 0 | 0 | 0 |
-| LUMEX | oud | 6 | 6 | 0 | 1 |
+| LUMEX | oud | 9 | 9 | 0 | 4 |
 | Happy Brain Clinics | oud | 0 | 0 | 0 | 0 |
 | Ecoware | oud | 2 | 2 | 0 | 1 |
 | Sander Klos | oud | 0 | 0 | 0 | 0 |
@@ -39,6 +39,9 @@ Bijgewerkt: 2026-11-03 14:25 UTC
 
 ## Aspyre
 
+- 2026-11-03 — **Computable**: [Fintech-platform Aspyre en Twinfield slaan handen ineen](https://www.computable.nl/persberichten/fintech-platform-aspyre-en-twinfield-slaan-handen-ineen/) _(wordpress)_
+- 2026-11-03 — **Computable.be**: [Fintech-platform Aspyre en Twinfield slaan handen ineen](https://www.computable.be/persberichten/fintech-platform-aspyre-en-twinfield-slaan-handen-ineen/) _(wordpress)_
+- 2026-11-03 — **Emerce**: [Fintech-platform Aspyre en Twinfield slaan handen ineen voor slimme automatisering van accountantskantoren](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVkFoX1BZajdRN2Jjd0tMdmVHbUs0Ul9MenM4SFoxS1p1dzFaVkhKTVQ4c0xXSHFEY1djZ3VpdVhqVEF5RUdRdkc4a3hqU3dIOG1xR1V6c0pxemlHMkZobEFCYkdIYmo2WWhUZGFCLVVpSXhxSDg5TzZKM1pNWjRGdko2UV9DalNscXpxZ1ZsLUFDcUZxWnZ1UDJ0TlFoOW5sR1ZZYWNRRTBSTnNGNkwtclloU3VfOXRkazFkbQ?oc=5) _(google_news)_
 - 2026-10-27 — **Mediacontent.nu**: [Nieuw fintech-platform Aspyre lanceert slimme orkestratielaag voor accountancy en administratiekantoren](https://mediacontent.nu/nieuw-fintech-platform-aspyre-lanceert-slimme-orkestratielaag-voor-accountancy-en-administratiekantoren/) _(wordpress)_
 - 2026-10-23 — **ICT/Magazine**: [Haags Aspyre automatiseert workflows van administratiekantoren](https://news.google.com/rss/articles/CBMingFBVV95cUxQWUg5SU12TlljR1ZmazVWdUR3RUxjYzdnTWlGZUpsZ1dDMXNlS0xJbVhaRHhNeFQyV0tvaVBNb2pSZXpuYzlsRmZzbU9lVV9vZmh1WFhBZDk5SHFDa184dEFWcnpRTHdFVktmbzh2SUgwekVzNjZvT1N0X2otMjFsOVFkb19HRTdqNlhtYjZ4V1JZVjU1Z1VkR1B0aVNKUQ?oc=5) _(google_news)_
 - 2026-10-22 — **Computable**: [Aspyre lanceert orkestratielaag voor accountants en administratiekantoren](https://www.computable.nl/persberichten/aspyre-lanceert-orkestratielaag-voor-accountants-en-administratiekantoren/) _(wordpress)_
@@ -46,20 +49,19 @@ Bijgewerkt: 2026-11-03 14:25 UTC
 - 2026-10-22 — **Wees Meer**: [Nieuw fintech-platform Aspyre lanceert slimme orkestratielaag voor accountancy en administratiekantoren](https://weesmeer.nl/nieuw-fintech-platform-aspyre-lanceert-slimme-orkestratielaag-voor-accountancy-en-administratiekantoren/) _(wordpress)_
 - 2026-10-22 — **AccountancyWorld**: [Nieuw fintech platform Aspyre voor accountancy en administratiekantoren](https://www.accountancyworld.nl/nieuws/10427/nieuw-fintech-platform-aspyre-voor-accountancy-en-administratiekantoren) _(rss)_
 - 2026-10-22 — **Persberichten.com**: [Nieuw fintech-platform Aspyre lanceert slimme orkestratielaag voor accountancy en administratiekantoren](https://www.persberichten.com/persbericht/115760/nieuw-fintech-platform-aspyre-lanceert-slimme-orkestratielaag-voor-accountancy-en-administratiekantoren) _(handmatig)_
-- ? — **Emerce**: [Nieuw fintechplatform Aspyre lanceert slimme orkestratielaag voor accountancy en administratiekantoren](https://www.emerce.nl/wire/nieuw-fintechplatform-aspyre-lanceert-slimme-orkestratielaag-accountancy-administratiekantoren) _(handmatig)_
 
 ## Katapull
 
 - 2026-11-03 — **Arnhem.nieuws.nl**: [Arnhems e-commercesucces Picqer overgenomen door softwaregroep Katapull](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT0l2OEJMY1ZPZURqSWY2MXVSNjdqSEhPTzBvdzV5VnlCUE93RWJQeXVfM2VFQVpFZm1NQnFjbmJMQkdLbkM5UGpFVDN3MnYtb0Z0WnhfY2U3ajg4Sk1wX0tMYnVPUjBnN3lHcldON05GalU3TUloNkoyY0RjN3R0a00tYjJBZWtzV1pxZmw3dXNoSDQ3Q1BwUk0ySHdjZmZNZUNLUHREeXY?oc=5) _(google_news)_
+- 2026-11-03 — **Drimble**: [Arnhems e-commercesucces Picqer overgenomen door softwaregroep Katapull](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeU15WkVxME5JS3Z4aUh1aU56dEdrenhPUjVBbHRKN1pVa1M0cVhIQ1BRbXozU2QtOW5PLXg5R3hzM1ZJUnNpRm14TUFPcUJyQkMxNjZQXzJQN2xGWHpDdTc4bklnQVJGbkNRNHlRNndyeGpKU29sU2pRaTRSOVhMaURQVUlTRnY0a3BwZi1jVDNsc3dzdG81dHZEZHlpUXhKRncyY2JSWi1hVzFQUHlpd1FLYm0xV2NoQnZwMUVETXA2Z25nbEtsYg?oc=5) _(google_news)_
 - 2026-10-30 — **Warehouse Totaal**: [Katapull neemt Picqer over](https://www.warehousetotaal.nl/automatisering-en-robotisering/wms/katapull-neemt-picqer-over/146082/) _(wordpress)_
 - 2026-10-28 — **Logimerce**: [Katapull blijft softwarespecialisten stapelen: ook Picqer ingelijfd](https://logimerce.nl/news/7324/katapull-blijft-softwarespecialisten-stapelen-ook-picqer-ingelijfd) _(sitemap)_
 - 2026-10-28 — **AD.nl**: [Arnhems softwarebedrijf Picqer komt in handen van Katapull](https://news.google.com/rss/articles/CBMimAFBVV95cUxQbkJSQ0VRRTJSbFYtcUJpLUwwZHllVUhLSmVjYnMtWmwzZl8xWG0xOXJuRVlwR0VrWEdKMjVQSjBaWWNuMVVfXzRlVTJ6dEFyVXRYUkduMmprbTdmU0JReXFiN1NnMUQwZ1lKQkw2NmhCYXJoa0gxcnNOd21zbHVOcy1oeVYtUm5YcVViYUE3QTNPMmVtT0VfTw?oc=5) _(google_news)_
 - 2026-10-28 — **De Gelderlander**: [Arnhems softwarebedrijf Picqer komt in handen van Katapull](https://news.google.com/rss/articles/CBMipgFBVV95cUxQTXBfcm0yNHVCOUZYcWtrOEpabFplN090Y1Vpa2NWblNPZzlZQ2ZleVlMWTg3TkxxdW9VR3oxeFFzSlpPbDdUM1BGTDZnY0FmM0YtblhadUxXc0JiSTRRTm45UlM1MFRpZUZ3R21IU25TVGxHMDluallvN0d4QTJlMzM2QTdnZzJsZ0xVTnlWN1FOOUdMM0NnRU5mVXZ2b0ZUYm1iVVZ3?oc=5) _(google_news)_
+- 2026-10-28 — **De Stentor**: [Arnhems softwarebedrijf Picqer komt in handen van Katapull](https://www.destentor.nl/arnhem/arnhems-softwarebedrijf-picqer-komt-in-handen-van-katapull~a038a40e/) _(handmatig)_
 - 2026-10-23 — **Emerce**: [Katapull maakt met miljoenenovername Picqer zijn Commerce Hub ‘completer’](https://news.google.com/rss/articles/CBMilgFBVV95cUxQSHBYZTVZd0RHNEZqejdqS1JSLXhkdzdmUTRsOVBnSjExNHEwRl9ScVFDZ0EzZ2hrTG1yXzJCOG1Dd1Q3em1USWdWdEN6bmZrSXNSZ0ZhTFRyNmtaM0hNaHFMbUhuVTJicnNBZVFZMnV1QlZFLWVUTXRsWTFQZF9hVmRGcElFNnZmSW1XY05hMVZ3enBNWUE?oc=5) _(google_news)_
 - 2026-10-22 — **Computable**: [Katapull breidt via overname Picqer softwareaanbod voor e-commerce uit](https://www.computable.nl/2026/10/22/katapull-breidt-via-overname-picqer-softwareaanbod-voor-e-commerce-uit/) _(wordpress)_
 - 2026-10-22 — **MenA.nl**: [Nedvest voegt bedrijf nummer acht toe aan portfoliobedrijf Katapull](https://news.google.com/rss/articles/CBMimgFBVV95cUxOTExMZGxITTE5TE4yb1E4MEExNXdWWFo5ckJFdWhrZEtNajh3RV9XV01ocWhIaUlKMHlCQ2dCSjd5WnZMcTdvSEpYaWJVNlBlTFcxcGhaQXVvc0VlVnBZcVNBOWpla3JoUklkbHRYMk5WSFM0dWVndV9MdlE3aGhHd1Njc3hHQmJzMVI4dWtLYTBWV1JrbUZBOVJB?oc=5) _(google_news)_
-- 2026-10-22 — **MenA.nl**: [Nedvest voegt bedrijf nummer zeven toe aan portfoliobedrijf Katapull](https://news.google.com/rss/articles/CBMimgFBVV95cUxPaEtnbHROOG16SDFQMGdsTE1IZGdFbEpManRwc3ZYQ1F3c3I0MWY5ZHQ5MkFDWkhjbmdSSnUxRFBUdHoxVkM3Ym5IQ0pYY2ViRVJJcTY0MDVLUXptNHFVa1k1QWlueFhwQ2xkbF9sZ3FQLTdBckowaUc3UkZEVWZtZmdseTdoUXd4RzNoVXVUNHctN2M0clo0Z3Z3?oc=5) _(google_news)_
-- 2026-10-21 — **Mediacontent.nu**: [Katapull maakt met miljoenenovername Picqer zijn Commerce Hub ‘completer’](https://mediacontent.nu/katapull-maakt-met-miljoenenovername-picqer-zijn-commerce-hub-completer/) _(wordpress)_
 
 ## Drukwerkdeal
 
@@ -79,6 +81,19 @@ Bijgewerkt: 2026-11-03 14:25 UTC
 - 2026-09-29 — **Wees Meer**: [Verdi Groep lanceert Verdi Pro: van losse vitaliteitsinterventies naar samenhangende aanpak](https://weesmeer.nl/verdi-groep-lanceert-verdi-pro-van-losse-vitaliteitsinterventies-naar-samenhangende-aanpak/) _(wordpress)_
 - 2026-09-01 — **Wees Meer**: [Verdi Fit verhuist naar kantoor in Amsterdam Sloterdijk](https://weesmeer.nl/verdi-fit-verhuist-naar-kantoor-in-amsterdam-sloterdijk/) _(wordpress)_
 - 2026-08-31 — **Amsterdamsdagblad.nl**: [Verdi Fit naar kantoor in Amsterdam Sloterdijk verhuisd](https://www.amsterdamsdagblad.nl/regio/verdi-fit-naar-kantoor-in-amsterdam-sloterdijk-verhuisd) _(sitemap)_
+
+## Doors Open
+
+- 2026-11-03 — **Brownwood News**: [Doors open at 4:30 p.m. for Brownwood Kiwanis Club Pancake Supper at Coliseum](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY3hTWFFVV2ptNVVfaW1ncThnd3pqOUxaa0hzVENNNmJWMjlYRndFNXk5LUo3MjVFZEdvVHRvbXg3MlVfdWxSZ2NKRTgtb0xIWTMxdVBJRk5TV3dZUEZmc042dk9aTENzQ2RuaFczNGNvWTRQanNZRjlHaGJHLXNlR1pJWl9pUHU5eTBQbDhiZk1ScmcxUWpoaHA2YVBmbENYSERmbk04d05sNkV1SjduWlhlelM5ZmNm?oc=5) _(google_news)_
+- 2026-11-03 — **InMaricopa.com**: [Maricopa’s housing market has a lot of doors open](https://news.google.com/rss/articles/CBMifEFVX3lxTFBwZ3pSNjZMTUJ6Y3d6MzZSWmRPOFlmenMyUWVzb2NGaWxKTDR6NUlRU1ZPQ0ozQVZ3MTF0Si1kSTcxOE5SY254V1NVdFE5VnlmZHNpWEFOLU1odU5ZQ0tOUU02aHk4MmE1UC1TQVFXbXE3Y202R2t3OHlSNGM?oc=5) _(google_news)_
+- 2026-11-02 — **Church News**: [Doors open to tour sixth temple in Texas](https://news.google.com/rss/articles/CBMirwFBVV95cUxQUHdnR092dmlNWVV1Q2Nuc0ctSExLN05rbmlRVWdUSEJVaWFNNVIzYmI5cDItZnJJYmdGY2FpQUtVLUtKLUZVc3BCMWtBU3NrZDBhTjVwTXpUNW0yUjhKR2tESG1uSFZPaE84SENpOW9XQS1VM1N5QXo3Y3huN3lTYnVmTzdkaUJMazN5YlV3VG5iSVktQml1dlVOc2N3Tk5lOEVCel9wQlQ1VU1BT2Zj?oc=5) _(google_news)_
+- 2026-11-02 — **DeeperBlue.com**: [DEMA Show 2026: Everything Announced Before The Doors Open](https://news.google.com/rss/articles/CBMic0FVX3lxTE5jXzZ0MlZtUUJQLVpFLW90dmVDTXo5cXluWE4xVmh5NmpaN0lsMlJReTRQeG5GVHQ0UWt3VUEzWGpkeUNZVnRMcGN1RWJlRG9tYVlJR2EwbHJoTHhYdEZMMlJDVWpwY3JHc2FzTkoxaDRfQ3M?oc=5) _(google_news)_
+- 2026-11-02 — **Baltimore Fishbowl**: [Im-PRESSED: Panini shop in Hampden goes from idea to doors open in just 27 days](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSFRQekllTG1KQWtSRjgwRXJUVVFQaTBlckhwZmpuQXV2VWoyMDJIZEtrWWlac3F6cjU5RHNmOWhYRnJ3SVU5eUdWeC1uYXVOMW1YWjF1QjZ0VTd6UGxhWWdNdjdXbVE0WGRsdE9LWjZZaWxGT1RtZk1sV0MySUdrSmhZWVlYOFZPVV9fOTRYTzduUW9KWmpZVHZZcnpfX09qVjVoR1Y0TVJ5YjZmMTg5T2lLa2VmOVVp?oc=5) _(google_news)_
+- 2026-11-02 — **Fast Food Club**: [When Snow Hits, These 6 Northwest Ohio Diners Keep Their Doors Open For Regulars](https://news.google.com/rss/articles/CBMitwFBVV95cUxPb1IyYVBIWFNkWDhEXzNqRmR6U1JIYVdFMW9jRE5mdzZTS3d1cDh6RmZZVVZuU28tMGNYU0VhczBpY3pwMlJjWTkwOFlXeHBPaExaSDhDS3NwNlo5d05uS0NOVElKUXJHNG4tWHJOOXI1YjhxLVNsZXZnVU43UzBfTlJlVF9RQ1MyWlRtMU1UMVRyaU9KTFRndUVBYUdQTHlMbkNOb1dnaGFFTlNFRjVVRmNVNDZxNXM?oc=5) _(google_news)_
+- 2026-10-30 — **Florida Today**: [Doors open at Ocean Center in Daytona Beach for Trump rally](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdm1xWTVnMHpzTmhEaEJFa3ZPcWFEVExHX2ZsU0JERHBkQlREQ0hfR2pqc212RjRSZXZMMl9CTklGWEh4WkVHekFfNTRoTGVLTHMwVmxnUlRzUEljeWdYR3NtekgwcHRIaHhQQm9ZbDZFb0V0ak9OdTNWd19YRGM4M1hqRGx5NDJoZFdEQWRJRFJWRlE5a0Z4YUhLWmhWR1dMTUlETXk1ZnZsME1acjRxVEdmeWY4TjVkclR4ZW52aGZIUk56UnFCZFlqOHJYQXc1WXVsNDhoMklva00?oc=5) _(google_news)_
+- 2026-10-29 — **Pharmaceutical Technology**: [UK Budget light on life sciences but more doors open for biotech startups](https://news.google.com/rss/articles/CBMivgFBVV95cUxPYVM2Z25kbU1PcWl6YWlRTkhXSEdZWGhWSVFtaDlNbTZPLXlXSUZvbF9pTk1kelpSTXQ0MGxSanNsdFdSOFRLSFRYWTVtSUhEWTRyUjVJYUZON2VEeXd4VlVPYU0zWHUzdmNwbjdQS1RqMnBVbzRwTTZBRkZ2Si1ERVdZSndCb0FMSHBGQzNZYkpzX3hRR3l2TEQ0dG1WYWtWdU9yMEdkdkZWLVJWbmxIWXZNVTlMcVNURlVaeTBR?oc=5) _(google_news)_
+- 2026-10-29 — **Derbyshire Times**: [We visited new tap room in Derbyshire town – and these photos offer glimpse inside before its doors open tomorrow](https://news.google.com/rss/articles/CBMiigJBVV95cUxQZllIV1NCejZxT05ma1h4WXJ5eUFjSVpvem1hck11NUdPMlpncHhqeXBjX05JV2RSVWVuQ0hUYngtcjVEbGJfc0VkWUNHZHBJMThvdU1YMUpGdjVKckp5MUVaTkNsZkVZZE9PTmg4QnRud2c4UlBhUFpQOFNVVFBwaGRaT3FtVGVCazVLdDQ5dVlaODR2d2s0WWxnakh0R2xPYUtXZmI3X29SalZUVkVtcndSLThYZXRXRkpoVEU1WTc2aWJhTHJaZENKTFNUQnA5Q1ZqY2o5MzNtTmh5eW8zSG96YnpnTl9HLXFYcjFzY1lweGdOdzdLQUZENXpRTUswMmFmOTcybGp2dw?oc=5) _(google_news)_
+- 2026-10-28 — **ScottishNews.com**: [6 Glasgow city centre buildings you should visit during Doors Open Day 2026](https://news.google.com/rss/articles/CBMiswFBVV95cUxQWU1mNVd2TThxUmFRdWo1VDRuTF94VE9RZ3kyNkdVNDMzS2FGZmlDSkNZMFZWejNZYTN6eTFnbEFHb0V4b19WLTlZS3BrUmtmSVJrX2dDSUpjSEZzTXdGZC1DNkFTN2tORkhtRUVYRFB4TExRX2ptNzhaRl9fazItSjNYQW9GUVoyNmhxbU01U094RWZBdW12VnJWUUxFSUFTamhESFhZYzdwbEh1Y3hEdXliWQ?oc=5) _(google_news)_
 
 ## Robbers & van den Hoogen
 
@@ -119,14 +134,16 @@ Bijgewerkt: 2026-11-03 14:25 UTC
 
 ## Equip
 
-- 2026-10-24 — **Headliner.nl**: [EGO Commercial presenteert nieuwe zero-turn maaiers en PGX-batterijhub op EQUIP Expo](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVTQweFVtMXFuTHgxS2kteXJzTEJtSXNaZVRyWU9Zc0xaV0F6dnB2Z3lhMkxPOWw3dDhtOWo4eV80TVA3dnpvUTUySnRGUnVvc2NocnE0bWtQZk5EYVhFM0lxUm1faDZyNkllaFpEbFVqQzRodUdoamVXWTNOd29tcENwaURpekxGdUM1dFFSVjFLdnRKNGV4NzZ3enpBb0xJX2dyVWRicEFvLWpMSC1xNnU0RGpza2QyVjlTYQ?oc=5) _(google_news)_
-- 2026-10-21 — **VVP online -**: [Equip lanceert AI-platform voor pensioensector](https://news.google.com/rss/articles/CBMigAFBVV95cUxNU3o0dTlXUHVjcEtZM25GdlRrcFR2Y3Rqc2JIbnU5Y2FzOE1jWkJCa1lvalQ2WUUydHRoVlYwODZfRTc0V0JPd19CVWlZb0JuUTJnMGYwMXhwTFE2d3ptWEVLV3pKY2tyZFJmUUpSMWNrSmdsc0tlSFdhTkVIOG1TSg?oc=5) _(google_news)_
-- 2026-10-16 — **Unite.AI**: [RC Mowers presenteert nieuwe autonome maaier en accessoires op Equip Expo](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGJuZk5QLXBQVzZLZlNqWHBsVlB6cVNjcFk3TU82RnZ1Z0s4MmdlSHYyTmFKOENJd0paOHBCc2stVlN2TjE1SGU5QnBscHprWDVkVVRKWDJEWkJVSElGVEdfSUF5RzJ5cVY3RU92NlZhd211QnZDcUhwOXNSMnc4ZF95SGl0YjR4WmVIaXo2U0E1ZHJaRTM4?oc=5) _(google_news)_
-- 2026-09-11 — **Banken.nl**: [Fintech Equip lanceert AI-platform voor pensioenadviseurs en -uitvoerders](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSU9NeGlENE9oZkRIeGVESTRvTGhxZ3lKS2VGS0hram9qSERLQ19IQjRhYmRicUdOLWxSQWp5TXA5cGhqS2FSbE9KSjltU2lvdFJjeVRsNExLX05RLXpkZlNlVFJiN2pCMmI3RFV4Um8tNS1QVWszNl9sSndleUlhY0JnMGtPZ1ZiWTJ5RnpQOTExOHdZeHduQmVQZm5KX2JHNjc3ajF0YUcwTTjSAbABQVVfeXFMT3ExMUxVcDJUUkJOWmZKZFp3RXZOTXRoMkhjNGRWanBab1hBOXJ6ZjM1SmZtQnJiZ2lZWWVfbGs1cm1vLWtDMWNkVUFoLVVpRnJfTzZDSDhrZk1QQVRWQnRFWS0temRjeENOaVR2dUZoalZZU0k4WFlpNXhlYzdibm50dFJzbVlvdk5uSk5pTnQza0dnMVRSdERDbVpJTFludGdfeTdMcEVGY1YzUXRsWVE?oc=5) _(google_news)_
-- 2026-08-25 — **InFinance**: [Equip lanceert AI-platform voor pensioenadvies](https://infinance.nl/pensioenen/equip-lanceert-ai-platform-voor-pensioenadvies/) _(wordpress)_
-- 2026-08-25 — **InFinance**: [Veertien innovaties in de race voor FFP Innovatie Award](https://infinance.nl/financiele-planning/veertien-innovaties-in-de-race-voor-ffp-innovatie-award/) _(wordpress)_
-- 2026-08-25 — **AMweb**: [Startup Equip lanceert AI-platform in strijd tegen dreigend pensioentekort](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbEQxTWg1bG1ZSkR5M285b29IUkR5MHprd0Qzd2VUREE1R0E4YXVnVEpxeWI4ZTZKUUtnSHVLQ21UdktZWkg3SUN2OVd2dTdmbEplUEZzaFgyYUhUVkwwSUp5VjdJR0Uwd0NQUk5ZTlJnZ1MyZlI0R3ZVU3NnSlJPSFNCZ0xGalVCUDhtbm1iZHVhTzRkLVNVN0o0Y3VrLXAwZlFQcA?oc=5) _(google_news)_
-- ? — **quasa.io**: [Dust – Plataforma d’agents d’IA, connexions amb el coneixement de l’empresa i col·laboració en equip](https://quasa.io/ca/video/dust-plataforma-dagents-dia-connexions-amb-el-coneixement-de-lempresa-i-collaboracio-en-equip) _(sitemap)_
+- 2026-11-03 — **TheBusinessDesk.com**: [£800,000 fund to equip people with AI and employment skills](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ3lHcnF5eWdyMXBoQTVDQU5XcmN3ZVBucmxfTW5NeUpVNmxFTE1oaHF6cmpnOVFnY293NUNsNV9WajNWZGdUZlR6RTMxbHhWUzVSaGVvNllGSVBIWWYxN1hkZmp5RzIwU21BcDZhZ0t2S2xwRGtKVGxKRGZwd185NEVlalhlYjdldTdhSmRSV01jZk44eDE1RktuUWVPOVNqc3NSMEtJblRQSTlreEFTQlhB?oc=5) _(google_news)_
+- 2026-11-03 — **Telecompaper**: [Go Telecom awards SAR 185 mln deal to equip Saudi data centre](https://news.google.com/rss/articles/CBMipwFBVV95cUxPM1pYcmRlMlFRcDA1cFB6bHV0dEV5VUdvdEJhZzhVTjd2TTdLZUFwWkM5cnRXWEhvVVo4blMyekdrWi1lX0JxWEMwNmJJdFZkWGNrYS0taWNTNVNvVWtTcXdkQTFWNTdjdElSU3hiOTE2Y1ZNVmxDNm5qc0M4MFAzOHRkeFRTY1lEb3lVT1NIcWJpdVNsR0g3c2p4Y1VYd1ItNHdLSFNXYw?oc=5) _(google_news)_
+- 2026-11-03 — **Developing Telecoms**: [Beyon to equip third data centre to run entirely on solar power](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVzRYalpPNE4wNXJJOFlOM3lIdHJBNHM0WDBRRTVNTkJYQ1BQd2tqSUtSRnJyVmROdHl1VDE5OUwzcnR6ZUY2V3hVMll2N000Tjc0TlNaQnVYTkg1QkhDdFctaXM0N1g5TDVmb2NZQ21lWGlUN04xT2ZLOFJsYlhPRHZSaDVMX0kxVXZOSXR1V2NPb29wUzhEei1wNVl5ZFl5R1FFaml2VFR4aWpVME93UjNGVktzZC1jMXBhUklWV3ZPdDlwczFFMmdzSGkxWjFQOEJ1ZlZnWTFybjByZVJ0NzlWQVU?oc=5) _(google_news)_
+- 2026-11-03 — **The Peninsula Qatar**: [Universities urged to equip youth with future skills, promote critical thinking](https://news.google.com/rss/articles/CBMixgFBVV95cUxNLTl4cF9QM1JBWUFHdmtVVFlOZmY2d3ZOSDhkLUh3d1QwTm1UMHpNOU1VSWZ2ZE94UlFWeFJYMEZ4N3hfX2t6WkJnSTI3dzdXRmtJbGNsXzlueUZjR2RpZTdoQTB2QU5jTDNrVU5NTnZ2WXJaYmtyUUthdTgzRUZva1hYdHpHMXJCMXhyYlM0NV9pY19xa3dJM3VBUXFIX3FHalRaNTJnUXdZMFNDX3dscXBxMzg1Rkswdk5aY1A0d2ppaTFDa1E?oc=5) _(google_news)_
+- 2026-11-03 — **Fox News**: [Jewish leaders equip students to face antisemitism on campus](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xOXZmNWVNOElYa0tuWWFDYzQ4TDF6NU04bWtZNkc5LWlrOWZuN3RFaUU5Vjlva3Y3MHBzUWMtVFRsWVNMV2J0YzltNDNPTExoYWJuTkxR?oc=5) _(google_news)_
+- 2026-11-03 — **Durham Radio News**: [Help furnish and equip new hospice in Whitby](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JMmVDdWhqUW1mZWpYUzlUYkkyVE1UZmZqT3d0cmR6U1hwZEduWm12dU12UC1pMlp5RWJXSUtnWGpTSVBuVWxldU5RT05wNjdTWXdtYjZtWXRlSHc?oc=5) _(google_news)_
+- 2026-11-03 — **Vietnam.vn**: [Thanh Hoa: Ten competitions organized to equip students with skills to prevent school depression.](https://news.google.com/rss/articles/CBMiowFBVV95cUxQR2tCSWNuNU54T3hVSmkyaWJ1ZG1zNk82cVNCNmtjTzhndEIwVXg2Z01OQWNabDc3dklYSE1xVV9oc3NxcWR6ZUdQLTZZaWd0alo2dTItdmFLSU5ZZDBBUUlOSzF6QkFXLUd2WS0zbzBUVDIzczUwVlQ1V0NJQmxZT09rWTFHN0d1blBHMGdjUktCUjZTVkVGZVpOdWZLa0MwcjNF?oc=5) _(google_news)_
+- 2026-11-03 — **https://www.autohebdof1.com/**: [ECR becomes the first IndyCar team to publicly equip itself with a simulator](https://news.google.com/rss/articles/CBMixAFBVV95cUxQUnN1Wlc5UmgxaDlVRFB4UEtDLVJvaGI5UVFfNjJueFdwZVh0QzIxNVNLMWNRVzM0SHZuZ2xwWklFWnVOT0o5bmF5Q1NGUG1MbENtRlZua19aMktmUlRfQWdnWC15Q1NsQzAzc2l6a1JpbE0tMlpaazFZRW0yVV9fT05acGhKWWVvUlAtQklUQzlEMVllSGxFTlNHUTlobDk5SXNkR3hGcVRKTFJQcWtaSlk5bDIwM2RHSWJ4ZkVYeXlLUTJu?oc=5) _(google_news)_
+- 2026-11-03 — **TradingView**: [Air Tahiti Nui Announces Agreement With SpaceX To Equip Its Entire Fleet With Starlink's Wi-Fi](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQ2EwQ0Rkb0ppWUpRMmtqYTFZQ0xNSW9zbWJHTzRWT3RTY2g5VE1Ja1UyNzZwd1V4R3NMZVJXallRSjV5RGQ3Y0Nzc3h3REVESkhxdWYzclJRLWtZYU9UVUVWcUR0RDRWSkZ1SHF4YzBWVzF6QWlwRXhyUWR6djZiaFdVTmlHWlo4NmVRcV9XeTZjT0ttUGlhbWxrbHM2WFpQMjRiWE5zaWJPUTdkajl6SW5MclE4WTBRRFV1UjRWYnVMQV8tMVNMVVNhZXdUX3l2WEZCM3lyeTNaaGQ2X3J2ejRDMWFUM3gtVzdTY2ZRU0RwNGIydjBv?oc=5) _(google_news)_
+- 2026-11-03 — **Emory News**: [Future Proof will equip Emory students for an AI-powered workplace](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYTFUV2dNVGdPbEN5MFNTcjR6cFllbWlVSjdfdmFjdmpFZ0VZem5ES01nOVI3SkE3YVlrVlpWUGVXM000MTFKSDFvVFNUdWNiNFpPaXlSNEduY1A3Q0tMRExHanAxbTBHWnp6UWVuVnBaOGVwcmZ5UXpoYnJYVDlrLWw2UmdISW5xZFdKVHVXekh3Z21tY3NLZjZMV3ZSNXM?oc=5) _(google_news)_
 
 ## Hogeschool Utrecht
 
@@ -141,6 +158,12 @@ Bijgewerkt: 2026-11-03 14:25 UTC
 - 2026-10-16 — **De Utrechtse Internet Courant**: [Hogeschool Utrecht blijft voorlopig actief op TikTok ondanks eerder aangekondigd vertrek](https://news.google.com/rss/articles/CBMizAFBVV95cUxQR3dzdEQteVZYSjBpQUtfS1RkWDNfUFNleVVDcW82VHp5dFVEXzJnd0NTOG5UcFd6N2Y5cEZXbzNnemV5RFdJRmsySXRWZmlGVlJvODRfOUdReDZBNWVFYzNCOHBycW8xNEh1eEpFVDRJUW9TQUpuRVBpejVudU9EUC1KZUZoNllrbTR6LWV5VFRpc0p4eHQwYUN0dklnMU9nNEJ1X0tnSV9ZQnJ2eG5RWnRDYmNrcnlHYVM5cTdtcjFvQ0hFaWt4ZHJUMEY?oc=5) _(google_news)_
 - 2026-10-16 — **ScienceGuide**: ['Je trekt de discriminatiekaart': Mensenrechtencollege onderzoekt handelen van de Hogeschool Utrecht](https://news.google.com/rss/articles/CBMizwFBVV95cUxOVHprWHFoVlEwNnJSRmJMOGRJaFpGSnZWajdrczRYVWI5NEVwejZYY2ZGSldSUVJaWV9TQUVINHJUZnRkdFVJVG9zQlJCZ0JGMUh4QkRtczhOU3FOekQ1X2Z4aW9yWHVqa2V3MFg2YTVTT1R5MnJ2ck93ZHV0Y0kzT01kSnVPTnZKUXlLaWRPV1FscXdZb2NfbXZ6Nmdlb0JZOGpzTjdqN1B6MHRkTzl2dkRqd0NmSWFtaHgyZUpQdDFwcU9xV0lpNEExSUpSSTg?oc=5) _(google_news)_
 
+## MediKIT
+
+- 2026-10-31 — **Moomoo**: [Medikit Company Profile & Introduction](https://news.google.com/rss/articles/CBMi2gJBVV95cUxNQ0tCU0lFZjlkN2loQ1JDNmhtNkNael9TSnhwbXBHRU41VWQtWmNubnhhV2dPS0ZCcEhJWHg3alBzeWNmUzg0bDREUXdjUDVGZk1NOXE5ME01eUhXeTVUbnBKNFJwYld3VTBLcVRxOUtadzBtbkpLU1ZSaHBWa21fRVVqWnRQYWFjUHdLUHQ1QjM1c0dCZEtvRW5vdmtHaVN4YldtRDdMUDRaOHoxdHVRak9zWkowSFpDUENPSmNndV93MnlfRDc1dHlnRVlndndwZ29GQmRHMnR6dUtGY1ZNMmJpU2xLeXJmNUpPUXNGdFVqVTdXWi0tNkhTRTlVNVVocFRwTVJyQi1KejVBVjR1NDZXSk53azdTSUxzQUxoa0cwOWl4V0pVSXZXaER4aXZTX3c3WjYyV1l0LW84b19kZUtMczczMmRoc3FUUDdqanBVQU05ZEZ2bHFn?oc=5) _(google_news)_
+- 2026-08-07 — **TradingView**: [Medikit: Strong quarterly growth in sales and profit, with robust margins and high equity ratio](https://news.google.com/rss/articles/CBMihwJBVV95cUxNMTF0dDJpbHEzS0ZJQkhhU1NHUnNUai1tSURreU5QQmNxQXgwSEdYQjZ4NEVyclFmNG9makFVMHNHa2tOclM3QmZzQzZUd2owT0l3aFZKcHpEbFRwNWhpVjNuSV84TDNrOEdwVjI3dVVZMENwdEZrV0RhWG5ieE5PLTFvZWdoOFU4YkhEcDkya3lVLVRaakE4X0xFQXYwa0NNN1BUcDV0LVVHSXQ5Vnpwd3Bvck5kV2c1OWJlZV9LWENIYUx1WFJ0Y0R6dHVLY2tHaXNXVk1TMk1Pd29sR1pFSTFyMmlHdURobnBsa0xjc2w0eEh2bVdYWVRJdmJxWWxlTVpGM3dMVQ?oc=5) _(google_news)_
+- 2026-08-07 — **Moomoo**: [Medikit Sees 1H Net Y1.20B](https://news.google.com/rss/articles/CBMid0FVX3lxTE4zV1pMZDhmdERNRnBpeTFqV3Frd2RLWXpBNGMwSm9tRnVYTFE5Mno3aW9WQXF2OGFhUXFNck9lR3NtTFVqQlRSaDgxZWhsa2FKLXNWcTlTTkNJUHBVeHJwRVgwc29kU1ZlQmlabTN2bXJZaUx3dGFz?oc=5) _(google_news)_
+
 ## LUMEX
 
 - 2026-10-13 — **CashCow.nl**: [Lumex wil met overnames doorgroeien naar 75 miljoen euro omzet](https://cashcow.nl/lumex-wil-met-overnames-doorgroeien-naar-75-miljoen-euro-omzet/) _(wordpress)_
@@ -149,6 +172,9 @@ Bijgewerkt: 2026-11-03 14:25 UTC
 - 2026-10-05 — **CashCow.nl**: [CashcowTV: duurzame beleggingskansen bij Lumex](https://cashcow.nl/cashcowtv-de-duurzame-beleggingskansen-bij-lumex/) _(wordpress)_
 - 2026-09-25 — **CashCow.nl**: [Van groeibedrijf naar landelijke verduurzamingsgroep: de strategie achter Lumex](https://cashcow.nl/?webinars=van-groeibedrijf-naar-landelijke-verduurzamingsgroep-de-strategie-achter-lumex) _(wordpress)_
 - 2026-09-22 — **Notebookcheck.nl**: [De nieuwe Googlebook-chip van MediaTek laat Lumex links liggen ten gunste van oude Cortex-kernen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQclRkVmt3M29lQTllRVlMZTB3YnF0cEh1emxUNjIzYjQ1Tm1Vc0g3aW5vS1czQ2h0TDllUnluZEZPLU9FM2ItUHFaTDkyMzYyeDRtOE4yR1ZJejh6anpzQWVUb1UtSl9OUzc4SmhaRVJxeWdHN0JZcVRUOVQ5MXdDamFxUWhIMGJqazgwazV6Z1FUcUtsM21adDNYVHJwallSWHczdU5FN2w4ODNRenVMVVJLS2dPQlFiNHFEY3FHMGlhVTlDVlA1ekZwdmctUWdFWlhSVjg1bw?oc=5) _(google_news)_
+- 2026-09-21 — **Notebookcheck**: [MediaTek's new Googlebook chip skips Lumex for old Cortex cores](https://news.google.com/rss/articles/CBMirAFBVV95cUxNLVdfVXJYSVRER19LSzM5RWtmSnc4b1FKQVV1ekpQZ1RyLThkTGRQalF6N0xwNWZkM29VMTBqWWtnNHJZWVRzb25zU2Q1T0pWQk9YY0xnRjZDYU14ckhyZlF6OUlRM2xneGlUakplUzlTVWpuSF9FenFkYkxkemVLR2VjRHlOMzFFNnAxYmxwU1VfSlF6RUcwWmRiQ2JRZXhKVVpfUmRmZF9SQnZ6?oc=5) _(google_news)_
+- 2026-09-10 — **heise online**: [ARM C2 Core Generation: Lumex is history again](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQnhyOE5wcEZSeUJTUDQ0OWJHaTFvZ29LYldhR1pSU0NWWlJRbjVEcHp1N01Xa084em9Xb2hHV1hTUXMxd2RlZnBVbHRnbWFxbFFlR2ktQ2o1U3RFWC1JVzdXOWhWMzd2UWNXdXFpNHRQb2lJSUdnOXhTWVJNRS10OEVHLWNTQjFsWldvV0JzSzVHdw?oc=5) _(google_news)_
+- 2026-07-12 — **Gadgets 360**: [Top Projectors Under Rs. 20,000 for Home Theatre in India: Lumio Arc 5, Crossbeats Lumex Flix and More](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYkFsT1huaFdCLUpDcjB2aTMtbTcydkNjc2x2LWt4M21hM3IwV1Vpa0Uyek5nVmJjQlF3R3lQWEF3MjdCQW9NMHF0RllnNmtaS1RwWWcwbDFvYmJMQ3BxSk1zSFJPTVpTNENxaXJKYXVKTzdLaG95OENma2V5RTdlZmdoSXdqTmZoS25Fbng2YlFRU3JlQXFKUm5VZV9mRVRyR1hOVFF5eHBoUnA1Q1F1R1dVajk4aUYyVDFHZlhsNXdGZ9IBxwFBVV95cUxOVi1URzNWWTJwRHhCYWxrR1A0cWdEZWZBWkxCdWdxdlFoQnY1UHhQblhUQk5aWVNNVXdyaktMclBCU3RJX09wWEFGOGY0N29hU2dqNHlwUmVDQkoxX2ljYVIyQUJUamM5b1ZQYXdoSnRsS1dGenN4U1d6NnhCUm1TWEd3alhhNFVSZnRBZEc0a2xIMm54WnBxMGFXTnVETmcwOEJ5Q1hmUVBLd2ZmeEg5ams4SUJWV25reWwwajZZNmgxdjZZM0ZJ?oc=5) _(google_news)_
 
 ## Ecoware
 
