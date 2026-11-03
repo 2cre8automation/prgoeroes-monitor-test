@@ -1,11 +1,11 @@
 # Overzicht monitor
 
-Bijgewerkt: 2026-11-03 06:08 UTC
+Bijgewerkt: 2026-11-03 14:25 UTC
 
 | Klant | Lijst | Publicaties | Automatisch | Handmatig | Via Google News |
 |---|---|---|---|---|---|
 | Aspyre | vast | 8 | 6 | 2 | 1 |
-| Katapull | vast | 17 | 17 | 0 | 9 |
+| Katapull | vast | 18 | 18 | 0 | 10 |
 | Drukwerkdeal | vast | 10 | 10 | 0 | 2 |
 | Straight Line Leadership | vast | 0 | 0 | 0 | 0 |
 | Machiel Hoek | vast | 0 | 0 | 0 | 0 |
@@ -22,8 +22,8 @@ Bijgewerkt: 2026-11-03 06:08 UTC
 | Waarderen.nl | oud | 3 | 3 | 0 | 0 |
 | Novateq | oud | 0 | 0 | 0 | 0 |
 | FlowQI | oud | 0 | 0 | 0 | 0 |
-| Equip | oud | 7 | 7 | 0 | 4 |
-| Hogeschool Utrecht | oud | 46 | 46 | 0 | 40 |
+| Equip | oud | 8 | 8 | 0 | 5 |
+| Hogeschool Utrecht | oud | 47 | 47 | 0 | 41 |
 | RISE Labs | oud | 0 | 0 | 0 | 0 |
 | MediKIT | oud | 0 | 0 | 0 | 0 |
 | FloraNL | oud | 0 | 0 | 0 | 0 |
@@ -50,6 +50,7 @@ Bijgewerkt: 2026-11-03 06:08 UTC
 
 ## Katapull
 
+- 2026-11-03 — **Arnhem.nieuws.nl**: [Arnhems e-commercesucces Picqer overgenomen door softwaregroep Katapull](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT0l2OEJMY1ZPZURqSWY2MXVSNjdqSEhPTzBvdzV5VnlCUE93RWJQeXVfM2VFQVpFZm1NQnFjbmJMQkdLbkM5UGpFVDN3MnYtb0Z0WnhfY2U3ajg4Sk1wX0tMYnVPUjBnN3lHcldON05GalU3TUloNkoyY0RjN3R0a00tYjJBZWtzV1pxZmw3dXNoSDQ3Q1BwUk0ySHdjZmZNZUNLUHREeXY?oc=5) _(google_news)_
 - 2026-10-30 — **Warehouse Totaal**: [Katapull neemt Picqer over](https://www.warehousetotaal.nl/automatisering-en-robotisering/wms/katapull-neemt-picqer-over/146082/) _(wordpress)_
 - 2026-10-28 — **Logimerce**: [Katapull blijft softwarespecialisten stapelen: ook Picqer ingelijfd](https://logimerce.nl/news/7324/katapull-blijft-softwarespecialisten-stapelen-ook-picqer-ingelijfd) _(sitemap)_
 - 2026-10-28 — **AD.nl**: [Arnhems softwarebedrijf Picqer komt in handen van Katapull](https://news.google.com/rss/articles/CBMimAFBVV95cUxQbkJSQ0VRRTJSbFYtcUJpLUwwZHllVUhLSmVjYnMtWmwzZl8xWG0xOXJuRVlwR0VrWEdKMjVQSjBaWWNuMVVfXzRlVTJ6dEFyVXRYUkduMmprbTdmU0JReXFiN1NnMUQwZ1lKQkw2NmhCYXJoa0gxcnNOd21zbHVOcy1oeVYtUm5YcVViYUE3QTNPMmVtT0VfTw?oc=5) _(google_news)_
@@ -59,7 +60,6 @@ Bijgewerkt: 2026-11-03 06:08 UTC
 - 2026-10-22 — **MenA.nl**: [Nedvest voegt bedrijf nummer acht toe aan portfoliobedrijf Katapull](https://news.google.com/rss/articles/CBMimgFBVV95cUxOTExMZGxITTE5TE4yb1E4MEExNXdWWFo5ckJFdWhrZEtNajh3RV9XV01ocWhIaUlKMHlCQ2dCSjd5WnZMcTdvSEpYaWJVNlBlTFcxcGhaQXVvc0VlVnBZcVNBOWpla3JoUklkbHRYMk5WSFM0dWVndV9MdlE3aGhHd1Njc3hHQmJzMVI4dWtLYTBWV1JrbUZBOVJB?oc=5) _(google_news)_
 - 2026-10-22 — **MenA.nl**: [Nedvest voegt bedrijf nummer zeven toe aan portfoliobedrijf Katapull](https://news.google.com/rss/articles/CBMimgFBVV95cUxPaEtnbHROOG16SDFQMGdsTE1IZGdFbEpManRwc3ZYQ1F3c3I0MWY5ZHQ5MkFDWkhjbmdSSnUxRFBUdHoxVkM3Ym5IQ0pYY2ViRVJJcTY0MDVLUXptNHFVa1k1QWlueFhwQ2xkbF9sZ3FQLTdBckowaUc3UkZEVWZtZmdseTdoUXd4RzNoVXVUNHctN2M0clo0Z3Z3?oc=5) _(google_news)_
 - 2026-10-21 — **Mediacontent.nu**: [Katapull maakt met miljoenenovername Picqer zijn Commerce Hub ‘completer’](https://mediacontent.nu/katapull-maakt-met-miljoenenovername-picqer-zijn-commerce-hub-completer/) _(wordpress)_
-- 2026-10-16 — **quasa.io**: [Katapull koopt Picqer: product en team blijven zelfstandig](https://news.google.com/rss/articles/CBMikwFBVV95cUxPV2hleEJ4eE9tX01wVFB1ZzZZSnZ3R1ZwTlBFRHV3N2NGWEtsUTNkcFZYZDJ4RTF6eGNDaFF0ZGZyejZMeHV6dEpRRV9jVG00bU9SNXhNWkt0U1R0QU8tN0loblpvX3ZDT0dmdmZaa3h6bkdVcWNWWlNOQ1BJS2hlMUxHQmNVa0l4czNlRk53a3lIM0U?oc=5) _(google_news)_
 
 ## Drukwerkdeal
 
@@ -120,6 +120,7 @@ Bijgewerkt: 2026-11-03 06:08 UTC
 ## Equip
 
 - 2026-10-24 — **Headliner.nl**: [EGO Commercial presenteert nieuwe zero-turn maaiers en PGX-batterijhub op EQUIP Expo](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVTQweFVtMXFuTHgxS2kteXJzTEJtSXNaZVRyWU9Zc0xaV0F6dnB2Z3lhMkxPOWw3dDhtOWo4eV80TVA3dnpvUTUySnRGUnVvc2NocnE0bWtQZk5EYVhFM0lxUm1faDZyNkllaFpEbFVqQzRodUdoamVXWTNOd29tcENwaURpekxGdUM1dFFSVjFLdnRKNGV4NzZ3enpBb0xJX2dyVWRicEFvLWpMSC1xNnU0RGpza2QyVjlTYQ?oc=5) _(google_news)_
+- 2026-10-21 — **VVP online -**: [Equip lanceert AI-platform voor pensioensector](https://news.google.com/rss/articles/CBMigAFBVV95cUxNU3o0dTlXUHVjcEtZM25GdlRrcFR2Y3Rqc2JIbnU5Y2FzOE1jWkJCa1lvalQ2WUUydHRoVlYwODZfRTc0V0JPd19CVWlZb0JuUTJnMGYwMXhwTFE2d3ptWEVLV3pKY2tyZFJmUUpSMWNrSmdsc0tlSFdhTkVIOG1TSg?oc=5) _(google_news)_
 - 2026-10-16 — **Unite.AI**: [RC Mowers presenteert nieuwe autonome maaier en accessoires op Equip Expo](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGJuZk5QLXBQVzZLZlNqWHBsVlB6cVNjcFk3TU82RnZ1Z0s4MmdlSHYyTmFKOENJd0paOHBCc2stVlN2TjE1SGU5QnBscHprWDVkVVRKWDJEWkJVSElGVEdfSUF5RzJ5cVY3RU92NlZhd211QnZDcUhwOXNSMnc4ZF95SGl0YjR4WmVIaXo2U0E1ZHJaRTM4?oc=5) _(google_news)_
 - 2026-09-11 — **Banken.nl**: [Fintech Equip lanceert AI-platform voor pensioenadviseurs en -uitvoerders](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSU9NeGlENE9oZkRIeGVESTRvTGhxZ3lKS2VGS0hram9qSERLQ19IQjRhYmRicUdOLWxSQWp5TXA5cGhqS2FSbE9KSjltU2lvdFJjeVRsNExLX05RLXpkZlNlVFJiN2pCMmI3RFV4Um8tNS1QVWszNl9sSndleUlhY0JnMGtPZ1ZiWTJ5RnpQOTExOHdZeHduQmVQZm5KX2JHNjc3ajF0YUcwTTjSAbABQVVfeXFMT3ExMUxVcDJUUkJOWmZKZFp3RXZOTXRoMkhjNGRWanBab1hBOXJ6ZjM1SmZtQnJiZ2lZWWVfbGs1cm1vLWtDMWNkVUFoLVVpRnJfTzZDSDhrZk1QQVRWQnRFWS0temRjeENOaVR2dUZoalZZU0k4WFlpNXhlYzdibm50dFJzbVlvdk5uSk5pTnQza0dnMVRSdERDbVpJTFludGdfeTdMcEVGY1YzUXRsWVE?oc=5) _(google_news)_
 - 2026-08-25 — **InFinance**: [Equip lanceert AI-platform voor pensioenadvies](https://infinance.nl/pensioenen/equip-lanceert-ai-platform-voor-pensioenadvies/) _(wordpress)_
@@ -129,6 +130,7 @@ Bijgewerkt: 2026-11-03 06:08 UTC
 
 ## Hogeschool Utrecht
 
+- 2026-11-03 — **Hogeschool Utrecht**: [Omar al-Bashir heeft ons gescheiden, broeder.](https://news.google.com/rss/articles/CBMid0FVX3lxTE03YWRTRXAzNWRsTjdNMTNOZnRKZnY1bUhDVTh1V0dVZUhPWE4zSTlYNk9DVmFGNXBfYng4Q2ZheW01NXJ5MVJkM1YxUHUzaHlINmcyYVBDejBsdEdDNnVWa2xEc2RIVG5zeFZKQmdsSGhKb3lITllJ?oc=5) _(google_news)_
 - 2026-11-02 — **Hogeschool Utrecht**: [Verleen je mantelzorg? Dan krijg je een extra toetskans aan de HU](https://news.google.com/rss/articles/CBMikwFBVV95cUxQSzR0VW5nQTlTeV9ubXdveFluU01INWhLbWJhN1dqN2h2dkJYeFd3Y0lYZEdjZjVrR3ROUEtrUk52ang1T1NvU0YtYU92MVFZLXFCSVFZdWdVNDl1Ti1XOVItY0VyQ2MwQjhNU3RHcjZlc3ZjejdXemlSdk5DNkM1b3dpWnF3WDFGNGNCSGtyMjN4emc?oc=5) _(google_news)_
 - 2026-11-02 — **Hogeschool Utrecht**: [Studieschuld blijft op hypotheek drukken, en dat vindt Nibud verstandig](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMy1rTnFEZGdHbXFwcWRYSmRxMTFyaEhlRTBlWnh3YTVfeGZyOUpGSjgzcUxBMWk2YURpMTllUDdDYlBkY3B3Um5EMUR5ckRkRDZOeXltdmhlZkluMFZMSjNXMW51Tk9VdjVNZzJLY1FUM1A3MldlWlczMXhCSHU4V0kydGdwaEpwNXJqSk9rb3FrTGFwS2FDVk5jQQ?oc=5) _(google_news)_
 - 2026-10-30 — **Hogeschool Utrecht**: [Eind van liedje: Renteplafond blijft, genoeg steun voor minister](https://news.google.com/rss/articles/CBMikAFBVV95cUxOVlBZbG1RWnlvZTV0X2YyN0FYNVZhT09tRFFpQklXTEx6ZEZRNlBXb1NadTZnSDg5ZUxiY3RTenROLXczdWVQMzRfbFRaS0Q2RkxOaklidmZsNmFVTzFJR3JyTjdNNE44akNJd0VnWFRvWEdpeXNlam9fYkVHOWFhdmZuWHhKV2JCNE1tTHAtclQ?oc=5) _(google_news)_
@@ -138,7 +140,6 @@ Bijgewerkt: 2026-11-03 06:08 UTC
 - 2026-10-19 — **IP | vakblad voor informatieprofessionals**: [Hogeschool Utrecht houdt Data Horror Week](https://news.google.com/rss/articles/CBMiggFBVV95cUxQMF8zdTl1dUpqampZdkZ1dHBlUEJGYWlmcmJJbjBZMzVGOVh1QXZSLVlMa3V5ZTBwTDFFcUlsSDd6S0NGMDduYXdEa1h5ZUlKV2s0ejYzSUR1azJuNk1iNEZWTFRXOU5yU1g4cG5NT1JHbzE0MjlDS0NtYXdkR1pmNmFB?oc=5) _(google_news)_
 - 2026-10-16 — **De Utrechtse Internet Courant**: [Hogeschool Utrecht blijft voorlopig actief op TikTok ondanks eerder aangekondigd vertrek](https://news.google.com/rss/articles/CBMizAFBVV95cUxQR3dzdEQteVZYSjBpQUtfS1RkWDNfUFNleVVDcW82VHp5dFVEXzJnd0NTOG5UcFd6N2Y5cEZXbzNnemV5RFdJRmsySXRWZmlGVlJvODRfOUdReDZBNWVFYzNCOHBycW8xNEh1eEpFVDRJUW9TQUpuRVBpejVudU9EUC1KZUZoNllrbTR6LWV5VFRpc0p4eHQwYUN0dklnMU9nNEJ1X0tnSV9ZQnJ2eG5RWnRDYmNrcnlHYVM5cTdtcjFvQ0hFaWt4ZHJUMEY?oc=5) _(google_news)_
 - 2026-10-16 — **ScienceGuide**: ['Je trekt de discriminatiekaart': Mensenrechtencollege onderzoekt handelen van de Hogeschool Utrecht](https://news.google.com/rss/articles/CBMizwFBVV95cUxOVHprWHFoVlEwNnJSRmJMOGRJaFpGSnZWajdrczRYVWI5NEVwejZYY2ZGSldSUVJaWV9TQUVINHJUZnRkdFVJVG9zQlJCZ0JGMUh4QkRtczhOU3FOekQ1X2Z4aW9yWHVqa2V3MFg2YTVTT1R5MnJ2ck93ZHV0Y0kzT01kSnVPTnZKUXlLaWRPV1FscXdZb2NfbXZ6Nmdlb0JZOGpzTjdqN1B6MHRkTzl2dkRqd0NmSWFtaHgyZUpQdDFwcU9xV0lpNEExSUpSSTg?oc=5) _(google_news)_
-- 2026-10-13 — **Accountancy Vanmorgen ·**: [Opleidingen accountancy en finance Hogeschool Utrecht onder druk](https://news.google.com/rss/articles/CBMisgFBVV95cUxNN0FQajlTUkhvdUpzYkxuN0lTWW50WkZ6QWJzUXhfWUNaNEw0Q0tvWGNCM3NJc0ZnV1lEUHJJUXNlcUl6VUMxNmJISV9OdVhKa19HRkw1cFV2M3NrSmhudDBUeXc2bUNtQ3ZnaG80UDFCMnNrQlJobHBHcVMzSk9JT1N6VUhVdGdWQzhEbFBrWmVvekcyTnZIUVhrZk1UQ2hXb0RDT2VDeDZ3NDgzamdwMmdR?oc=5) _(google_news)_
 
 ## LUMEX
 
