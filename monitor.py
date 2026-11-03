@@ -147,40 +147,51 @@ def search_wordpress(source, client, since, log):
     return hits
 
 
+GN_EDITIONS = [("nl", "NL", "NL:nl"), ("en-GB", "GB", "GB:en")]  # Nederlands + internationaal (Engelstalig)
+
+
 def search_google_news(client, since, log):
-    hits = []
+    hits, seen = [], set()
     q = " OR ".join(f'"{t}"' for t in client["match"])
-    url = ("https://news.google.com/rss/search?"
-           + urllib.parse.urlencode({"q": q, "hl": "nl", "gl": "NL", "ceid": "NL:nl"}))
-    try:
-        root = ET.fromstring(fetch(url))
-    except Exception as e:
-        log.append(f"Google News: fout ({type(e).__name__})")
-        return hits
-    items = root.findall("./channel/item")
-    for it in items:
-        title = it.findtext("title", "")
-        source = it.findtext("source", "")
-        # Google zet " - Bron" achter de titel
-        if source and title.endswith(" - " + source):
-            title = title[: -len(" - " + source)]
-        matched = match_client(client, title + " " + it.findtext("description", ""))
-        if not matched:
-            continue
-        pub_raw = it.findtext("pubDate", "")
+    total = 0
+    for hl, gl, ceid in GN_EDITIONS:
+        url = ("https://news.google.com/rss/search?"
+               + urllib.parse.urlencode({"q": q, "hl": hl, "gl": gl, "ceid": ceid}))
         try:
-            pub = parsedate_to_datetime(pub_raw)
-            if pub < since:
+            root = ET.fromstring(fetch(url))
+        except Exception as e:
+            log.append(f"Google News ({gl}): fout ({type(e).__name__})")
+            continue
+        items = root.findall("./channel/item")
+        total += len(items)
+        for it in items:
+            title = it.findtext("title", "")
+            source = it.findtext("source", "")
+            # Google zet " - Bron" achter de titel
+            if source and title.endswith(" - " + source):
+                title = title[: -len(" - " + source)]
+            k = (source.lower(), re.sub(r"\W+", " ", title.lower()).strip())
+            if k in seen:
                 continue
-            published = pub.date().isoformat()
-        except Exception:
-            published = ""
-        hits.append({
-            "client": client["name"], "outlet": source, "title": title,
-            "url": it.findtext("link", ""), "published": published,
-            "method": "google_news", "kind": "", "matched_on": matched,
-        })
-    log.append(f"Google News: {len(items)} items, {len(hits)} relevant ({client['name']})")
+            matched = match_client(client, title + " " + it.findtext("description", ""))
+            if not matched:
+                continue
+            pub_raw = it.findtext("pubDate", "")
+            try:
+                pub = parsedate_to_datetime(pub_raw)
+                if pub < since:
+                    continue
+                published = pub.date().isoformat()
+            except Exception:
+                published = ""
+            seen.add(k)
+            hits.append({
+                "client": client["name"], "outlet": source, "title": title,
+                "url": it.findtext("link", ""), "published": published,
+                "method": "google_news", "kind": "", "matched_on": matched,
+            })
+        time.sleep(1)
+    log.append(f"Google News: {total} items, {len(hits)} relevant ({client['name']})")
     return hits
 
 
