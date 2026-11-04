@@ -1,1 +1,19 @@
-Doors Open: 83 gecontroleerd, 83 als ruis gemarkeerd, 0 blijven staan
+Doors Open: 0 gecontroleerd, 0 als ruis gemarkeerd, 0 blijven staan
+Equip: 58 gecontroleerd, 52 als ruis gemarkeerd, 6 blijven staan
+  blijft: quasa.io | Dust – Plataforma d’agents d’IA, connexions amb el coneixement de l’empresa i col·laboració en equip
+  blijft: Headliner.nl | EGO Commercial presenteert nieuwe zero-turn maaiers en PGX-batterijhub op EQUIP Expo
+  blijft: Unite.AI | RC Mowers presenteert nieuwe autonome maaier en accessoires op Equip Expo
+  blijft: Banken.nl | Fintech Equip lanceert AI-platform voor pensioenadviseurs en -uitvoerders
+  blijft: InFinance | Equip lanceert AI-platform voor pensioenadvies
+  blijft: VVP online - | Equip lanceert AI-platform voor pensioensector
+LUMEX: 9 gecontroleerd, 5 als ruis gemarkeerd, 4 blijven staan
+  blijft: Notebookcheck.nl | De nieuwe Googlebook-chip van MediaTek laat Lumex links liggen ten gunste van oude Cortex-kernen
+  blijft: CashCow.nl | Lumex wil met overnames doorgroeien naar 75 miljoen euro omzet
+  blijft: CashCow.nl | CashcowTV: duurzame beleggingskansen bij Lumex
+  blijft: CashCow.nl | Van groeibedrijf naar landelijke verduurzamingsgroep: de strategie achter Lumex
+MediKIT: 3 gecontroleerd, 3 als ruis gemarkeerd, 0 blijven staan
+TAB: 0 gecontroleerd, 0 als ruis gemarkeerd, 0 blijven staan
+Verdi Fit: 3 gecontroleerd, 1 als ruis gemarkeerd, 2 blijven staan
+  blijft: Wees Meer | Verdi Fit verhuist naar kantoor in Amsterdam Sloterdijk
+  blijft: Amsterdamsdagblad.nl | Verdi Fit naar kantoor in Amsterdam Sloterdijk verhuisd
+Xlens: 0 gecontroleerd, 0 als ruis gemarkeerd, 0 blijven staan
