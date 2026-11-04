@@ -1,6 +1,6 @@
 # Overzicht monitor
 
-Bijgewerkt: 2026-11-04 06:14 UTC
+Bijgewerkt: 2026-11-04 14:27 UTC
 
 | Klant | Lijst | Publicaties | Automatisch | Handmatig | Via Google News |
 |---|---|---|---|---|---|
@@ -10,20 +10,20 @@ Bijgewerkt: 2026-11-04 06:14 UTC
 | Straight Line Leadership | vast | 0 | 0 | 0 | 0 |
 | Machiel Hoek | vast | 0 | 0 | 0 | 0 |
 | Verdi Fit | vast | 3 | 3 | 0 | 0 |
-| Doors Open | vast | 83 | 83 | 0 | 83 |
+| Doors Open | vast | 84 | 84 | 0 | 84 |
 | TAB | vast | 0 | 0 | 0 | 0 |
 | Robbers & van den Hoogen | los | 1 | 1 | 0 | 0 |
 | Multitint | los | 2 | 2 | 0 | 1 |
 | ECO NV | los | 0 | 0 | 0 | 0 |
 | PR Goeroes | eigen | 5 | 5 | 0 | 2 |
-| Jennifer Delano | eigen | 3 | 3 | 0 | 0 |
+| Jennifer Delano | eigen | 4 | 4 | 0 | 0 |
 | Nee zeggen loont | eigen | 0 | 0 | 0 | 0 |
 | John Barzilaij | oud | 5 | 5 | 0 | 0 |
 | Waarderen.nl | oud | 3 | 3 | 0 | 0 |
 | Novateq | oud | 0 | 0 | 0 | 0 |
 | FlowQI | oud | 0 | 0 | 0 | 0 |
 | Equip | oud | 58 | 58 | 0 | 55 |
-| Hogeschool Utrecht | oud | 48 | 48 | 0 | 42 |
+| Hogeschool Utrecht | oud | 50 | 50 | 0 | 44 |
 | RISE Labs | oud | 0 | 0 | 0 | 0 |
 | MediKIT | oud | 3 | 3 | 0 | 3 |
 | FloraNL | oud | 0 | 0 | 0 | 0 |
@@ -85,14 +85,14 @@ Bijgewerkt: 2026-11-04 06:14 UTC
 ## Doors Open
 
 - 2026-11-04 — **TAPinto**: [GoFundMe Started to Keep Kenilworth's Opa Grill's Doors Open](https://news.google.com/rss/articles/CBMizwFBVV95cUxNeUxWRkh4Y2xsR0NCcHV2UG5jYTlXWjhJakd2S002XzM1WGdLVUNVMEh2dHZ6X3I3THMwb3lrQmFRUGZVUi1zWlJtRmUyLVNfRWRBeTNsTjk4cjh3M0pZc3ZIay1ST0dKOVRqU3Jsbk9LU1N5bHhoLU1iZ29zMmJfUXJDZnVRWmxaR1JpMVY3bDVRZnJmUHdBZWlzSFZYZWUxcUdzOWY5emtQMmZhdlFzZF8yQ2FNNHUxcnpBUUJSRzRIS29mZ2lIc1dfVERka1E?oc=5) _(google_news)_
-- 2026-11-03 — **Brownwood News**: [Doors open at 4:30 p.m. for Brownwood Kiwanis Club Pancake Supper at Coliseum](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY3hTWFFVV2ptNVVfaW1ncThnd3pqOUxaa0hzVENNNmJWMjlYRndFNXk5LUo3MjVFZEdvVHRvbXg3MlVfdWxSZ2NKRTgtb0xIWTMxdVBJRk5TV3dZUEZmc042dk9aTENzQ2RuaFczNGNvWTRQanNZRjlHaGJHLXNlR1pJWl9pUHU5eTBQbDhiZk1ScmcxUWpoaHA2YVBmbENYSERmbk04d05sNkV1SjduWlhlelM5ZmNm?oc=5) _(google_news)_
 - 2026-11-03 — **InMaricopa.com**: [Maricopa’s housing market has a lot of doors open](https://news.google.com/rss/articles/CBMifEFVX3lxTFBwZ3pSNjZMTUJ6Y3d6MzZSWmRPOFlmenMyUWVzb2NGaWxKTDR6NUlRU1ZPQ0ozQVZ3MTF0Si1kSTcxOE5SY254V1NVdFE5VnlmZHNpWEFOLU1odU5ZQ0tOUU02aHk4MmE1UC1TQVFXbXE3Y202R2t3OHlSNGM?oc=5) _(google_news)_
-- 2026-11-03 — **VA.gov Home | Veterans Affairs**: [Doors Open, Doors Opened | VA Houston Health Care | Veterans Affairs](https://news.google.com/rss/articles/CBMie0FVX3lxTE5lT2R0VnhCaVBIeUZEaE9FV1ZtRUVOX254MEZPZjV6SkR0V0JYdF93cnlmX0I0cVVHZEZZT0hpSTdBZzZETHdIVlN0M2NtTTRwUmZaekxmek9Jb3pvellFVGxNamZnOFNZMDB5d2tEOHpGajB3dVdlSWF3WQ?oc=5) _(google_news)_
 - 2026-11-03 — **Sportsnet.ca**: [CHL navigates new era of movement as NCAA, AHL doors open wider](https://news.google.com/rss/articles/CBMipwFBVV95cUxOeDFQVjlkSjgtOHhtSTllMU1EaUZiZFRYSnFWZjVBQTJaam5WaUVFRzN5N2NsLXF3cFVaX1lEbGMyZXp5ZklqVW5GRlRaRHZqNnJNZ0dIbmhIbWk2R3JrTFNGM2NILWxZUGtITkYtU0xBckZIU01Ra3pSeWU0YkxaU3kzOGlKTU9ScUR3ell0SGpEbS1Ecms0N09ua1VKU05KNmh1RW9waw?oc=5) _(google_news)_
+- 2026-11-03 — **Brownwood News**: [Doors open at 4:30 p.m. for Brownwood Kiwanis Club Pancake Supper at Coliseum](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY3hTWFFVV2ptNVVfaW1ncThnd3pqOUxaa0hzVENNNmJWMjlYRndFNXk5LUo3MjVFZEdvVHRvbXg3MlVfdWxSZ2NKRTgtb0xIWTMxdVBJRk5TV3dZUEZmc042dk9aTENzQ2RuaFczNGNvWTRQanNZRjlHaGJHLXNlR1pJWl9pUHU5eTBQbDhiZk1ScmcxUWpoaHA2YVBmbENYSERmbk04d05sNkV1SjduWlhlelM5ZmNm?oc=5) _(google_news)_
+- 2026-11-03 — **VA.gov Home | Veterans Affairs**: [Doors Open, Doors Opened | VA Houston Health Care | Veterans Affairs](https://news.google.com/rss/articles/CBMie0FVX3lxTE5lT2R0VnhCaVBIeUZEaE9FV1ZtRUVOX254MEZPZjV6SkR0V0JYdF93cnlmX0I0cVVHZEZZT0hpSTdBZzZETHdIVlN0M2NtTTRwUmZaekxmek9Jb3pvellFVGxNamZnOFNZMDB5d2tEOHpGajB3dVdlSWF3WQ?oc=5) _(google_news)_
 - 2026-11-02 — **Church News**: [Doors open to tour sixth temple in Texas](https://news.google.com/rss/articles/CBMirwFBVV95cUxQUHdnR092dmlNWVV1Q2Nuc0ctSExLN05rbmlRVWdUSEJVaWFNNVIzYmI5cDItZnJJYmdGY2FpQUtVLUtKLUZVc3BCMWtBU3NrZDBhTjVwTXpUNW0yUjhKR2tESG1uSFZPaE84SENpOW9XQS1VM1N5QXo3Y3huN3lTYnVmTzdkaUJMazN5YlV3VG5iSVktQml1dlVOc2N3Tk5lOEVCel9wQlQ1VU1BT2Zj?oc=5) _(google_news)_
+- 2026-11-02 — **Fast Food Club**: [When Snow Hits, These 6 Northwest Ohio Diners Keep Their Doors Open For Regulars](https://news.google.com/rss/articles/CBMitwFBVV95cUxPb1IyYVBIWFNkWDhEXzNqRmR6U1JIYVdFMW9jRE5mdzZTS3d1cDh6RmZZVVZuU28tMGNYU0VhczBpY3pwMlJjWTkwOFlXeHBPaExaSDhDS3NwNlo5d05uS0NOVElKUXJHNG4tWHJOOXI1YjhxLVNsZXZnVU43UzBfTlJlVF9RQ1MyWlRtMU1UMVRyaU9KTFRndUVBYUdQTHlMbkNOb1dnaGFFTlNFRjVVRmNVNDZxNXM?oc=5) _(google_news)_
 - 2026-11-02 — **DeeperBlue.com**: [DEMA Show 2026: Everything Announced Before The Doors Open](https://news.google.com/rss/articles/CBMic0FVX3lxTE5jXzZ0MlZtUUJQLVpFLW90dmVDTXo5cXluWE4xVmh5NmpaN0lsMlJReTRQeG5GVHQ0UWt3VUEzWGpkeUNZVnRMcGN1RWJlRG9tYVlJR2EwbHJoTHhYdEZMMlJDVWpwY3JHc2FzTkoxaDRfQ3M?oc=5) _(google_news)_
 - 2026-11-02 — **Baltimore Fishbowl**: [Im-PRESSED: Panini shop in Hampden goes from idea to doors open in just 27 days](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSFRQekllTG1KQWtSRjgwRXJUVVFQaTBlckhwZmpuQXV2VWoyMDJIZEtrWWlac3F6cjU5RHNmOWhYRnJ3SVU5eUdWeC1uYXVOMW1YWjF1QjZ0VTd6UGxhWWdNdjdXbVE0WGRsdE9LWjZZaWxGT1RtZk1sV0MySUdrSmhZWVlYOFZPVV9fOTRYTzduUW9KWmpZVHZZcnpfX09qVjVoR1Y0TVJ5YjZmMTg5T2lLa2VmOVVp?oc=5) _(google_news)_
-- 2026-11-02 — **Fast Food Club**: [When Snow Hits, These 6 Northwest Ohio Diners Keep Their Doors Open For Regulars](https://news.google.com/rss/articles/CBMitwFBVV95cUxPb1IyYVBIWFNkWDhEXzNqRmR6U1JIYVdFMW9jRE5mdzZTS3d1cDh6RmZZVVZuU28tMGNYU0VhczBpY3pwMlJjWTkwOFlXeHBPaExaSDhDS3NwNlo5d05uS0NOVElKUXJHNG4tWHJOOXI1YjhxLVNsZXZnVU43UzBfTlJlVF9RQ1MyWlRtMU1UMVRyaU9KTFRndUVBYUdQTHlMbkNOb1dnaGFFTlNFRjVVRmNVNDZxNXM?oc=5) _(google_news)_
 - 2026-10-30 — **Florida Today**: [Doors open at Ocean Center in Daytona Beach for Trump rally](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdm1xWTVnMHpzTmhEaEJFa3ZPcWFEVExHX2ZsU0JERHBkQlREQ0hfR2pqc212RjRSZXZMMl9CTklGWEh4WkVHekFfNTRoTGVLTHMwVmxnUlRzUEljeWdYR3NtekgwcHRIaHhQQm9ZbDZFb0V0ak9OdTNWd19YRGM4M1hqRGx5NDJoZFdEQWRJRFJWRlE5a0Z4YUhLWmhWR1dMTUlETXk1ZnZsME1acjRxVEdmeWY4TjVkclR4ZW52aGZIUk56UnFCZFlqOHJYQXc1WXVsNDhoMklva00?oc=5) _(google_news)_
 
 ## Robbers & van den Hoogen
@@ -114,6 +114,7 @@ Bijgewerkt: 2026-11-04 06:14 UTC
 
 ## Jennifer Delano
 
+- 2026-11-04 — **Wees Meer**: [‘Het genereren van een lead is één ding, maar het bouwen van een positieve reputatie is iets heel anders’](https://weesmeer.nl/het-genereren-van-een-lead-is-een-ding-maar-het-bouwen-van-een-positieve-reputatie-is-iets-heel-anders/) _(wordpress)_
 - 2026-10-27 — **Wees Meer**: [Het verplaatsen van een icoon: hoe Museum Batavialand met een spectaculaire marketingoperatie records verbreekt](https://weesmeer.nl/het-verplaatsen-van-een-icoon-hoe-museum-batavialand-met-een-spectaculaire-marketingoperatie-records-verbreekt/) _(wordpress)_
 - 2026-10-07 — **Wees Meer**: [Wendel Schulp (Aegon): ‘Van groene letters naar ‘happy longevity’: hoe de marketingwereld fundamenteel veranderde’](https://weesmeer.nl/wendel-schulp-aegon-van-groene-letters-naar-happy-longevity-hoe-de-marketingwereld-fundamenteel-veranderde/) _(wordpress)_
 - 2026-08-31 — **Mediacontent.nu**: [Booming Marketing Leaders Podcast bereikt direct tweede plaats marketingpodcasts](https://mediacontent.nu/booming-marketing-leaders-podcast-bereikt-direct-tweede-plaats-marketingpodcasts/) _(wordpress)_
@@ -136,7 +137,6 @@ Bijgewerkt: 2026-11-04 06:14 UTC
 
 - 2026-11-03 — **TheBusinessDesk.com**: [£800,000 fund to equip people with AI and employment skills](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ3lHcnF5eWdyMXBoQTVDQU5XcmN3ZVBucmxfTW5NeUpVNmxFTE1oaHF6cmpnOVFnY293NUNsNV9WajNWZGdUZlR6RTMxbHhWUzVSaGVvNllGSVBIWWYxN1hkZmp5RzIwU21BcDZhZ0t2S2xwRGtKVGxKRGZwd185NEVlalhlYjdldTdhSmRSV01jZk44eDE1RktuUWVPOVNqc3NSMEtJblRQSTlreEFTQlhB?oc=5) _(google_news)_
 - 2026-11-03 — **Telecompaper**: [Go Telecom awards SAR 185 mln deal to equip Saudi data centre](https://news.google.com/rss/articles/CBMipwFBVV95cUxPM1pYcmRlMlFRcDA1cFB6bHV0dEV5VUdvdEJhZzhVTjd2TTdLZUFwWkM5cnRXWEhvVVo4blMyekdrWi1lX0JxWEMwNmJJdFZkWGNrYS0taWNTNVNvVWtTcXdkQTFWNTdjdElSU3hiOTE2Y1ZNVmxDNm5qc0M4MFAzOHRkeFRTY1lEb3lVT1NIcWJpdVNsR0g3c2p4Y1VYd1ItNHdLSFNXYw?oc=5) _(google_news)_
-- 2026-11-03 — **Developing Telecoms**: [Beyon to equip third data centre to run entirely on solar power](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVzRYalpPNE4wNXJJOFlOM3lIdHJBNHM0WDBRRTVNTkJYQ1BQd2tqSUtSRnJyVmROdHl1VDE5OUwzcnR6ZUY2V3hVMll2N000Tjc0TlNaQnVYTkg1QkhDdFctaXM0N1g5TDVmb2NZQ21lWGlUN04xT2ZLOFJsYlhPRHZSaDVMX0kxVXZOSXR1V2NPb29wUzhEei1wNVl5ZFl5R1FFaml2VFR4aWpVME93UjNGVktzZC1jMXBhUklWV3ZPdDlwczFFMmdzSGkxWjFQOEJ1ZlZnWTFybjByZVJ0NzlWQVU?oc=5) _(google_news)_
 - 2026-11-03 — **The Peninsula Qatar**: [Universities urged to equip youth with future skills, promote critical thinking](https://news.google.com/rss/articles/CBMixgFBVV95cUxNLTl4cF9QM1JBWUFHdmtVVFlOZmY2d3ZOSDhkLUh3d1QwTm1UMHpNOU1VSWZ2ZE94UlFWeFJYMEZ4N3hfX2t6WkJnSTI3dzdXRmtJbGNsXzlueUZjR2RpZTdoQTB2QU5jTDNrVU5NTnZ2WXJaYmtyUUthdTgzRUZva1hYdHpHMXJCMXhyYlM0NV9pY19xa3dJM3VBUXFIX3FHalRaNTJnUXdZMFNDX3dscXBxMzg1Rkswdk5aY1A0d2ppaTFDa1E?oc=5) _(google_news)_
 - 2026-11-03 — **Fox News**: [Jewish leaders equip students to face antisemitism on campus](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xOXZmNWVNOElYa0tuWWFDYzQ4TDF6NU04bWtZNkc5LWlrOWZuN3RFaUU5Vjlva3Y3MHBzUWMtVFRsWVNMV2J0YzltNDNPTExoYWJuTkxR?oc=5) _(google_news)_
 - 2026-11-03 — **Durham Radio News**: [Help furnish and equip new hospice in Whitby](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JMmVDdWhqUW1mZWpYUzlUYkkyVE1UZmZqT3d0cmR6U1hwZEduWm12dU12UC1pMlp5RWJXSUtnWGpTSVBuVWxldU5RT05wNjdTWXdtYjZtWXRlSHc?oc=5) _(google_news)_
@@ -144,9 +144,11 @@ Bijgewerkt: 2026-11-04 06:14 UTC
 - 2026-11-03 — **https://www.autohebdof1.com/**: [ECR becomes the first IndyCar team to publicly equip itself with a simulator](https://news.google.com/rss/articles/CBMixAFBVV95cUxQUnN1Wlc5UmgxaDlVRFB4UEtDLVJvaGI5UVFfNjJueFdwZVh0QzIxNVNLMWNRVzM0SHZuZ2xwWklFWnVOT0o5bmF5Q1NGUG1MbENtRlZua19aMktmUlRfQWdnWC15Q1NsQzAzc2l6a1JpbE0tMlpaazFZRW0yVV9fT05acGhKWWVvUlAtQklUQzlEMVllSGxFTlNHUTlobDk5SXNkR3hGcVRKTFJQcWtaSlk5bDIwM2RHSWJ4ZkVYeXlLUTJu?oc=5) _(google_news)_
 - 2026-11-03 — **TradingView**: [Air Tahiti Nui Announces Agreement With SpaceX To Equip Its Entire Fleet With Starlink's Wi-Fi](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQ2EwQ0Rkb0ppWUpRMmtqYTFZQ0xNSW9zbWJHTzRWT3RTY2g5VE1Ja1UyNzZwd1V4R3NMZVJXallRSjV5RGQ3Y0Nzc3h3REVESkhxdWYzclJRLWtZYU9UVUVWcUR0RDRWSkZ1SHF4YzBWVzF6QWlwRXhyUWR6djZiaFdVTmlHWlo4NmVRcV9XeTZjT0ttUGlhbWxrbHM2WFpQMjRiWE5zaWJPUTdkajl6SW5MclE4WTBRRFV1UjRWYnVMQV8tMVNMVVNhZXdUX3l2WEZCM3lyeTNaaGQ2X3J2ejRDMWFUM3gtVzdTY2ZRU0RwNGIydjBv?oc=5) _(google_news)_
 - 2026-11-03 — **Emory News**: [Future Proof will equip Emory students for an AI-powered workplace](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYTFUV2dNVGdPbEN5MFNTcjR6cFllbWlVSjdfdmFjdmpFZ0VZem5ES01nOVI3SkE3YVlrVlpWUGVXM000MTFKSDFvVFNUdWNiNFpPaXlSNEduY1A3Q0tMRExHanAxbTBHWnp6UWVuVnBaOGVwcmZ5UXpoYnJYVDlrLWw2UmdISW5xZFdKVHVXekh3Z21tY3NLZjZMV3ZSNXM?oc=5) _(google_news)_
+- 2026-11-03 — **Business Jet Interiors**: [Jet Excellence to equip Citation X fleet with Gogo Galileo HDX](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVkF0cTJUeTNhakcwTF9oNDQwSXpUWTVZUlljbm1NbFdmZlJxYlFoR1pncHJzRGUwVVZoWHpuYmZUR3BDZjlJY244T0MxRmR5eGVSYlpOU0dqSXJMRnd2clRzaDUwTXNKejY2Q1h3dU42cS1zd2ltSl8wLUtuVFItWWIwNTZzNmZoMHpRb1F0MXZ6NnlfN09PNk80bUREVnpVNkpLVFpTSVBWRHBUTy1qZ1dYY3pWMVVxNHR3UXRoRzk4QWhIRWdKbHM5bzhROFBa?oc=5) _(google_news)_
 
 ## Hogeschool Utrecht
 
+- 2026-11-04 — **Hogeschool Utrecht**: [Tweede Kamer wil landelijke AI-strategie voor mbo en hoger onderwijs](https://news.google.com/rss/articles/CBMimAFBVV95cUxPS3E0NEtJV0hEOUtVd3VZM3lOTnFuRnRFMjEtRjJnX3BYeEwwWnRjOWpyNlJneGg3WjJZNW4xQXVqd2pZM3BKMDZmSE5ZZW00X1BxX09tTldhOHB6Q1g3eHZfNE1pc0ktS3lRU212bFYzNG1ZWU5qc09YSkxvRXFLNkxWSm9rRjlkZzgzOU1iV0NBUG54TEEtZw?oc=5) _(google_news)_
 - 2026-11-03 — **Hogeschool Utrecht**: [Omar al-Bashir heeft ons gescheiden, broeder.](https://news.google.com/rss/articles/CBMid0FVX3lxTE03YWRTRXAzNWRsTjdNMTNOZnRKZnY1bUhDVTh1V0dVZUhPWE4zSTlYNk9DVmFGNXBfYng4Q2ZheW01NXJ5MVJkM1YxUHUzaHlINmcyYVBDejBsdEdDNnVWa2xEc2RIVG5zeFZKQmdsSGhKb3lITllJ?oc=5) _(google_news)_
 - 2026-11-02 — **Hogeschool Utrecht**: [Verleen je mantelzorg? Dan krijg je een extra toetskans aan de HU](https://news.google.com/rss/articles/CBMikwFBVV95cUxQSzR0VW5nQTlTeV9ubXdveFluU01INWhLbWJhN1dqN2h2dkJYeFd3Y0lYZEdjZjVrR3ROUEtrUk52ang1T1NvU0YtYU92MVFZLXFCSVFZdWdVNDl1Ti1XOVItY0VyQ2MwQjhNU3RHcjZlc3ZjejdXemlSdk5DNkM1b3dpWnF3WDFGNGNCSGtyMjN4emc?oc=5) _(google_news)_
 - 2026-11-02 — **Hogeschool Utrecht**: [Studieschuld blijft op hypotheek drukken, en dat vindt Nibud verstandig](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMy1rTnFEZGdHbXFwcWRYSmRxMTFyaEhlRTBlWnh3YTVfeGZyOUpGSjgzcUxBMWk2YURpMTllUDdDYlBkY3B3Um5EMUR5ckRkRDZOeXltdmhlZkluMFZMSjNXMW51Tk9VdjVNZzJLY1FUM1A3MldlWlczMXhCSHU4V0kydGdwaEpwNXJqSk9rb3FrTGFwS2FDVk5jQQ?oc=5) _(google_news)_
@@ -156,7 +158,6 @@ Bijgewerkt: 2026-11-04 06:14 UTC
 - 2026-10-26 — **Hogeschool Utrecht**: [Vooruitblik: vooral D66 moet op eieren lopen in het debat over de OCW-begroting](https://news.google.com/rss/articles/CBMipgFBVV95cUxQakxleUwxMDNjMU1xN1VaaFZvUnExOU82X1R2S3FHaFNBSEVsZXlGSGNRWkJiaC1tU1Q5V1hMN3hoZnAtWkp3Y0ZxRTJqTmVRTjU5Z0w0RzRxWXZ1TXJBTDJjY3BPa3ppRmE0RWZ4d0lKVDNtcGF3WkJCVjhnMUpoRF9oSHpMRk1RZGYyOFpEU2VEd1lDRURUYUNfd0QtMVJoRGg2Uk1B?oc=5) _(google_news)_
 - 2026-10-19 — **IP | vakblad voor informatieprofessionals**: [Hogeschool Utrecht houdt Data Horror Week](https://news.google.com/rss/articles/CBMiggFBVV95cUxQMF8zdTl1dUpqampZdkZ1dHBlUEJGYWlmcmJJbjBZMzVGOVh1QXZSLVlMa3V5ZTBwTDFFcUlsSDd6S0NGMDduYXdEa1h5ZUlKV2s0ejYzSUR1azJuNk1iNEZWTFRXOU5yU1g4cG5NT1JHbzE0MjlDS0NtYXdkR1pmNmFB?oc=5) _(google_news)_
 - 2026-10-16 — **De Utrechtse Internet Courant**: [Hogeschool Utrecht blijft voorlopig actief op TikTok ondanks eerder aangekondigd vertrek](https://news.google.com/rss/articles/CBMizAFBVV95cUxQR3dzdEQteVZYSjBpQUtfS1RkWDNfUFNleVVDcW82VHp5dFVEXzJnd0NTOG5UcFd6N2Y5cEZXbzNnemV5RFdJRmsySXRWZmlGVlJvODRfOUdReDZBNWVFYzNCOHBycW8xNEh1eEpFVDRJUW9TQUpuRVBpejVudU9EUC1KZUZoNllrbTR6LWV5VFRpc0p4eHQwYUN0dklnMU9nNEJ1X0tnSV9ZQnJ2eG5RWnRDYmNrcnlHYVM5cTdtcjFvQ0hFaWt4ZHJUMEY?oc=5) _(google_news)_
-- 2026-10-16 — **ScienceGuide**: ['Je trekt de discriminatiekaart': Mensenrechtencollege onderzoekt handelen van de Hogeschool Utrecht](https://news.google.com/rss/articles/CBMizwFBVV95cUxOVHprWHFoVlEwNnJSRmJMOGRJaFpGSnZWajdrczRYVWI5NEVwejZYY2ZGSldSUVJaWV9TQUVINHJUZnRkdFVJVG9zQlJCZ0JGMUh4QkRtczhOU3FOekQ1X2Z4aW9yWHVqa2V3MFg2YTVTT1R5MnJ2ck93ZHV0Y0kzT01kSnVPTnZKUXlLaWRPV1FscXdZb2NfbXZ6Nmdlb0JZOGpzTjdqN1B6MHRkTzl2dkRqd0NmSWFtaHgyZUpQdDFwcU9xV0lpNEExSUpSSTg?oc=5) _(google_news)_
 
 ## MediKIT
 
