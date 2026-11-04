@@ -2,6 +2,14 @@
 
 Nieuwste punten bovenaan. Doorvoeren na beoordeling door Farrukh.
 
+## 2026-11-04
+
+### Straight Line Leadership — Wees Meer
+- **Titels:** Kristof Cuppens (Straight-Line Leadership): ‘Ondernemers krijgen dankzij ons meer mentale ruimte, lichtheid en overzicht' (3 nov) en Straight-Line Leadership geeft 1 miljoen boeken weg aan ondernemers (3 nov)
+- **Oorzaak:** (b) medium wordt wel doorzocht, maar de zoekterm matchte niet. Beide artikelen schrijven "Straight-Line" met streepje. Onze term is "Straight Line Leadership" zonder streepje. De zoekfunctie van Wees Meer gaf in beide runs 2 resultaten, daarna keurde match_client ze af; getest met de titels uit de Agility-mail. Google News gaf om dezelfde reden 0 relevant.
+- **Voorgestelde oplossing:** in de database "Straight-Line Leadership" als zoekterm toevoegen, plus woordvoerder Kristof Cuppens (Managing Partner). Bredere optie: match_client streepje en spatie als gelijk laten behandelen, zodat dit ook bij andere klantnamen niet meer gebeurt. Na de wijziging beide artikelen controleren in de eerstvolgende run; de artikelen: https://weesmeer.nl/kristof-cuppens-straight-line-leadership-ondernemers-krijgen-dankzij-ons-meer-mentale-ruimte-lichtheid-en-overzicht/ en https://weesmeer.nl/straight-line-leadership-geeft-1-miljoen-boeken-weg-aan-ondernemers/
+- **Status:** open
+
 ## 2026-11-02
 
 ### Ecoware — Streekomroep Zoetermeer Lansingerland
