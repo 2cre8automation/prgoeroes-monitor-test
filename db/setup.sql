@@ -84,6 +84,9 @@ left join media md
   or lower(regexp_replace(md.outlet, '\.(nl|com)$', '')) = lower(regexp_replace(m.outlet, '\.(nl|com)$', ''));
 
 -- Alleen de server (service role) mag erbij; geen publieke toegang.
+-- Alleen Nederlandstalige vermeldingen tellen (tegen ruis bij generieke namen zoals "Doors Open"); woordvoerder telt altijd.
+alter table clients add column if not exists only_dutch boolean not null default false;
+
 alter table clients  enable row level security;
 alter table sources  enable row level security;
 alter table media    enable row level security;

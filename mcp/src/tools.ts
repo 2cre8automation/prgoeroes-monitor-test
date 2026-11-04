@@ -286,6 +286,7 @@ export const tools: Tool[] = [
         website: str("Website van de klant (voor foto's in het rapport)"),
         huisstijlkleur: str("Hex-kleur, bv. #1F6FEB"),
         actief: { type: "boolean" },
+        alleen_nederlands: { type: "boolean", description: "Alleen Nederlandstalige vermeldingen tellen (tegen buitenlandse ruis bij generieke namen). Vermeldingen van een woordvoerder tellen altijd." },
       },
     },
     async run(db, a) {
@@ -298,6 +299,7 @@ export const tools: Tool[] = [
       if (a.website) v.website = a.website;
       if (a.huisstijlkleur) v.brand_color = a.huisstijlkleur;
       if (a.actief !== undefined) v.active = a.actief;
+      if (a.alleen_nederlands !== undefined) v.only_dutch = a.alleen_nederlands;
       if (c) {
         const [r] = await db.update("clients", `id=eq.${c.id}`, v);
         return { bijgewerkt: r.name, ...v };

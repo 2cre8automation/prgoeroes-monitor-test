@@ -77,13 +77,30 @@ def strip_tags(s):
     return html.unescape(re.sub(r"<[^>]+>", " ", s or "")).strip()
 
 
+_NL = {"het", "een", "van", "voor", "met", "niet", "zijn", "naar", "bij", "ook", "wordt", "deze", "dat", "die",
+       "en", "op", "aan", "uit", "nieuwe", "heeft", "werd", "kan", "maar", "nog", "over", "door", "worden", "hun"}
+_EN = {"the", "of", "and", "to", "for", "with", "from", "at", "by", "this", "that", "are", "was", "new", "has",
+       "your", "you", "will", "its", "their", "after", "before", "into", "how", "what", "who", "be", "days", "day"}
+
+
+def looks_dutch(text):
+    """Grove taalcheck: meer Nederlandse dan Engelse functiewoorden."""
+    words = re.findall(r"[a-zà-ÿ]+", text.lower())
+    return sum(w in _NL for w in words) > sum(w in _EN for w in words)
+
+
 def match_client(client, text):
-    """True als een zoekterm als heel woord voorkomt en geen uitsluiting."""
+    """Zoekterm als heel woord, geen uitsluitwoord; bij only_dutch alleen Nederlandstalige tekst (woordvoerder telt altijd)."""
     for ex in client.get("exclude", []):
         if ex.lower() in text.lower():
             return None
-    for term in client["match"] + client.get("spokespersons", []):
+    for term in client.get("spokespersons", []):
         if re.search(r"(?<![\w-])" + re.escape(term) + r"(?![\w-])", text, re.I):
+            return term
+    for term in client["match"]:
+        if re.search(r"(?<![\w-])" + re.escape(term) + r"(?![\w-])", text, re.I):
+            if client.get("only_dutch") and not looks_dutch(text):
+                return None
             return term
     return None
 
@@ -152,7 +169,7 @@ GN_EDITIONS = [("nl", "NL", "NL:nl"), ("en-GB", "GB", "GB:en")]  # Nederlands + 
 
 def search_google_news(client, since, log):
     hits, seen = [], set()
-    q = " OR ".join(f'"{t}"' for t in client["match"])
+    q = " OR ".join(f'"{t}"' for t in client["match"] + client.get("spokespersons", []))
     total = 0
     for hl, gl, ceid in GN_EDITIONS:
         url = ("https://news.google.com/rss/search?"
@@ -362,7 +379,7 @@ def load_from_db(cfg):
     clients = supa.select("clients", active="eq.true", order="id")
     cfg["clients"] = [{"name": c["name"], "list": c["list"], "match": c["match"] or [c["name"]],
                        "spokespersons": c["spokespersons"] or [], "exclude": c["exclude"] or [],
-                       "id": c["id"]} for c in clients]
+                       "only_dutch": bool(c.get("only_dutch")), "id": c["id"]} for c in clients]
     sources = supa.select("sources", active="eq.true", order="id")
     cfg["wordpress_sources"] = [{"outlet": s["outlet"], "base": s["url"]}
                                 for s in sources if s["type"] == "wordpress"]
