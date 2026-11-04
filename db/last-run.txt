@@ -1,4 +1,4 @@
-Tue Nov  3 15:22:41 UTC 2026
+Wed Nov  4 09:03:26 UTC 2026
 DB-URL lengte: 142, begint met: postgresql, host: aws-1-eu-central-1.pooler.supabase.com
 psql:db/setup.sql:15: NOTICE:  relation "clients" already exists, skipping
 psql:db/setup.sql:27: NOTICE:  relation "sources" already exists, skipping
@@ -6,7 +6,7 @@ psql:db/setup.sql:43: NOTICE:  relation "media" already exists, skipping
 psql:db/setup.sql:61: NOTICE:  relation "mentions" already exists, skipping
 psql:db/setup.sql:62: NOTICE:  relation "mentions_client_published" already exists, skipping
 psql:db/setup.sql:63: NOTICE:  relation "mentions_found_at" already exists, skipping
-psql:db/setup.sql:99: NOTICE:  relation "style_rules" already exists, skipping
+psql:db/setup.sql:102: NOTICE:  relation "style_rules" already exists, skipping
     table_name     
 -------------------
  clients
@@ -18,4 +18,4 @@ psql:db/setup.sql:99: NOTICE:  relation "style_rules" already exists, skipping
 (6 rows)
 
 mediatabel: 8 media
-klanten: 32, bronnen: 9, publicaties overgezet: 121
+klanten: 32, bronnen: 9, publicaties overgezet: 270
