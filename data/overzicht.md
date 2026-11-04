@@ -1,6 +1,6 @@
 # Overzicht monitor
 
-Bijgewerkt: 2026-11-03 22:00 UTC
+Bijgewerkt: 2026-11-04 06:14 UTC
 
 | Klant | Lijst | Publicaties | Automatisch | Handmatig | Via Google News |
 |---|---|---|---|---|---|
@@ -10,7 +10,7 @@ Bijgewerkt: 2026-11-03 22:00 UTC
 | Straight Line Leadership | vast | 0 | 0 | 0 | 0 |
 | Machiel Hoek | vast | 0 | 0 | 0 | 0 |
 | Verdi Fit | vast | 3 | 3 | 0 | 0 |
-| Doors Open | vast | 72 | 72 | 0 | 72 |
+| Doors Open | vast | 83 | 83 | 0 | 83 |
 | TAB | vast | 0 | 0 | 0 | 0 |
 | Robbers & van den Hoogen | los | 1 | 1 | 0 | 0 |
 | Multitint | los | 2 | 2 | 0 | 1 |
@@ -22,7 +22,7 @@ Bijgewerkt: 2026-11-03 22:00 UTC
 | Waarderen.nl | oud | 3 | 3 | 0 | 0 |
 | Novateq | oud | 0 | 0 | 0 | 0 |
 | FlowQI | oud | 0 | 0 | 0 | 0 |
-| Equip | oud | 55 | 55 | 0 | 52 |
+| Equip | oud | 58 | 58 | 0 | 55 |
 | Hogeschool Utrecht | oud | 48 | 48 | 0 | 42 |
 | RISE Labs | oud | 0 | 0 | 0 | 0 |
 | MediKIT | oud | 3 | 3 | 0 | 3 |
@@ -84,16 +84,16 @@ Bijgewerkt: 2026-11-03 22:00 UTC
 
 ## Doors Open
 
+- 2026-11-04 — **TAPinto**: [GoFundMe Started to Keep Kenilworth's Opa Grill's Doors Open](https://news.google.com/rss/articles/CBMizwFBVV95cUxNeUxWRkh4Y2xsR0NCcHV2UG5jYTlXWjhJakd2S002XzM1WGdLVUNVMEh2dHZ6X3I3THMwb3lrQmFRUGZVUi1zWlJtRmUyLVNfRWRBeTNsTjk4cjh3M0pZc3ZIay1ST0dKOVRqU3Jsbk9LU1N5bHhoLU1iZ29zMmJfUXJDZnVRWmxaR1JpMVY3bDVRZnJmUHdBZWlzSFZYZWUxcUdzOWY5emtQMmZhdlFzZF8yQ2FNNHUxcnpBUUJSRzRIS29mZ2lIc1dfVERka1E?oc=5) _(google_news)_
 - 2026-11-03 — **Brownwood News**: [Doors open at 4:30 p.m. for Brownwood Kiwanis Club Pancake Supper at Coliseum](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY3hTWFFVV2ptNVVfaW1ncThnd3pqOUxaa0hzVENNNmJWMjlYRndFNXk5LUo3MjVFZEdvVHRvbXg3MlVfdWxSZ2NKRTgtb0xIWTMxdVBJRk5TV3dZUEZmc042dk9aTENzQ2RuaFczNGNvWTRQanNZRjlHaGJHLXNlR1pJWl9pUHU5eTBQbDhiZk1ScmcxUWpoaHA2YVBmbENYSERmbk04d05sNkV1SjduWlhlelM5ZmNm?oc=5) _(google_news)_
 - 2026-11-03 — **InMaricopa.com**: [Maricopa’s housing market has a lot of doors open](https://news.google.com/rss/articles/CBMifEFVX3lxTFBwZ3pSNjZMTUJ6Y3d6MzZSWmRPOFlmenMyUWVzb2NGaWxKTDR6NUlRU1ZPQ0ozQVZ3MTF0Si1kSTcxOE5SY254V1NVdFE5VnlmZHNpWEFOLU1odU5ZQ0tOUU02aHk4MmE1UC1TQVFXbXE3Y202R2t3OHlSNGM?oc=5) _(google_news)_
+- 2026-11-03 — **VA.gov Home | Veterans Affairs**: [Doors Open, Doors Opened | VA Houston Health Care | Veterans Affairs](https://news.google.com/rss/articles/CBMie0FVX3lxTE5lT2R0VnhCaVBIeUZEaE9FV1ZtRUVOX254MEZPZjV6SkR0V0JYdF93cnlmX0I0cVVHZEZZT0hpSTdBZzZETHdIVlN0M2NtTTRwUmZaekxmek9Jb3pvellFVGxNamZnOFNZMDB5d2tEOHpGajB3dVdlSWF3WQ?oc=5) _(google_news)_
+- 2026-11-03 — **Sportsnet.ca**: [CHL navigates new era of movement as NCAA, AHL doors open wider](https://news.google.com/rss/articles/CBMipwFBVV95cUxOeDFQVjlkSjgtOHhtSTllMU1EaUZiZFRYSnFWZjVBQTJaam5WaUVFRzN5N2NsLXF3cFVaX1lEbGMyZXp5ZklqVW5GRlRaRHZqNnJNZ0dIbmhIbWk2R3JrTFNGM2NILWxZUGtITkYtU0xBckZIU01Ra3pSeWU0YkxaU3kzOGlKTU9ScUR3ell0SGpEbS1Ecms0N09ua1VKU05KNmh1RW9waw?oc=5) _(google_news)_
 - 2026-11-02 — **Church News**: [Doors open to tour sixth temple in Texas](https://news.google.com/rss/articles/CBMirwFBVV95cUxQUHdnR092dmlNWVV1Q2Nuc0ctSExLN05rbmlRVWdUSEJVaWFNNVIzYmI5cDItZnJJYmdGY2FpQUtVLUtKLUZVc3BCMWtBU3NrZDBhTjVwTXpUNW0yUjhKR2tESG1uSFZPaE84SENpOW9XQS1VM1N5QXo3Y3huN3lTYnVmTzdkaUJMazN5YlV3VG5iSVktQml1dlVOc2N3Tk5lOEVCel9wQlQ1VU1BT2Zj?oc=5) _(google_news)_
 - 2026-11-02 — **DeeperBlue.com**: [DEMA Show 2026: Everything Announced Before The Doors Open](https://news.google.com/rss/articles/CBMic0FVX3lxTE5jXzZ0MlZtUUJQLVpFLW90dmVDTXo5cXluWE4xVmh5NmpaN0lsMlJReTRQeG5GVHQ0UWt3VUEzWGpkeUNZVnRMcGN1RWJlRG9tYVlJR2EwbHJoTHhYdEZMMlJDVWpwY3JHc2FzTkoxaDRfQ3M?oc=5) _(google_news)_
 - 2026-11-02 — **Baltimore Fishbowl**: [Im-PRESSED: Panini shop in Hampden goes from idea to doors open in just 27 days](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSFRQekllTG1KQWtSRjgwRXJUVVFQaTBlckhwZmpuQXV2VWoyMDJIZEtrWWlac3F6cjU5RHNmOWhYRnJ3SVU5eUdWeC1uYXVOMW1YWjF1QjZ0VTd6UGxhWWdNdjdXbVE0WGRsdE9LWjZZaWxGT1RtZk1sV0MySUdrSmhZWVlYOFZPVV9fOTRYTzduUW9KWmpZVHZZcnpfX09qVjVoR1Y0TVJ5YjZmMTg5T2lLa2VmOVVp?oc=5) _(google_news)_
 - 2026-11-02 — **Fast Food Club**: [When Snow Hits, These 6 Northwest Ohio Diners Keep Their Doors Open For Regulars](https://news.google.com/rss/articles/CBMitwFBVV95cUxPb1IyYVBIWFNkWDhEXzNqRmR6U1JIYVdFMW9jRE5mdzZTS3d1cDh6RmZZVVZuU28tMGNYU0VhczBpY3pwMlJjWTkwOFlXeHBPaExaSDhDS3NwNlo5d05uS0NOVElKUXJHNG4tWHJOOXI1YjhxLVNsZXZnVU43UzBfTlJlVF9RQ1MyWlRtMU1UMVRyaU9KTFRndUVBYUdQTHlMbkNOb1dnaGFFTlNFRjVVRmNVNDZxNXM?oc=5) _(google_news)_
 - 2026-10-30 — **Florida Today**: [Doors open at Ocean Center in Daytona Beach for Trump rally](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdm1xWTVnMHpzTmhEaEJFa3ZPcWFEVExHX2ZsU0JERHBkQlREQ0hfR2pqc212RjRSZXZMMl9CTklGWEh4WkVHekFfNTRoTGVLTHMwVmxnUlRzUEljeWdYR3NtekgwcHRIaHhQQm9ZbDZFb0V0ak9OdTNWd19YRGM4M1hqRGx5NDJoZFdEQWRJRFJWRlE5a0Z4YUhLWmhWR1dMTUlETXk1ZnZsME1acjRxVEdmeWY4TjVkclR4ZW52aGZIUk56UnFCZFlqOHJYQXc1WXVsNDhoMklva00?oc=5) _(google_news)_
-- 2026-10-29 — **Pharmaceutical Technology**: [UK Budget light on life sciences but more doors open for biotech startups](https://news.google.com/rss/articles/CBMivgFBVV95cUxPYVM2Z25kbU1PcWl6YWlRTkhXSEdZWGhWSVFtaDlNbTZPLXlXSUZvbF9pTk1kelpSTXQ0MGxSanNsdFdSOFRLSFRYWTVtSUhEWTRyUjVJYUZON2VEeXd4VlVPYU0zWHUzdmNwbjdQS1RqMnBVbzRwTTZBRkZ2Si1ERVdZSndCb0FMSHBGQzNZYkpzX3hRR3l2TEQ0dG1WYWtWdU9yMEdkdkZWLVJWbmxIWXZNVTlMcVNURlVaeTBR?oc=5) _(google_news)_
-- 2026-10-29 — **Derbyshire Times**: [We visited new tap room in Derbyshire town – and these photos offer glimpse inside before its doors open tomorrow](https://news.google.com/rss/articles/CBMiigJBVV95cUxQZllIV1NCejZxT05ma1h4WXJ5eUFjSVpvem1hck11NUdPMlpncHhqeXBjX05JV2RSVWVuQ0hUYngtcjVEbGJfc0VkWUNHZHBJMThvdU1YMUpGdjVKckp5MUVaTkNsZkVZZE9PTmg4QnRud2c4UlBhUFpQOFNVVFBwaGRaT3FtVGVCazVLdDQ5dVlaODR2d2s0WWxnakh0R2xPYUtXZmI3X29SalZUVkVtcndSLThYZXRXRkpoVEU1WTc2aWJhTHJaZENKTFNUQnA5Q1ZqY2o5MzNtTmh5eW8zSG96YnpnTl9HLXFYcjFzY1lweGdOdzdLQUZENXpRTUswMmFmOTcybGp2dw?oc=5) _(google_news)_
-- 2026-10-28 — **ScottishNews.com**: [6 Glasgow city centre buildings you should visit during Doors Open Day 2026](https://news.google.com/rss/articles/CBMiswFBVV95cUxQWU1mNVd2TThxUmFRdWo1VDRuTF94VE9RZ3kyNkdVNDMzS2FGZmlDSkNZMFZWejNZYTN6eTFnbEFHb0V4b19WLTlZS3BrUmtmSVJrX2dDSUpjSEZzTXdGZC1DNkFTN2tORkhtRUVYRFB4TExRX2ptNzhaRl9fazItSjNYQW9GUVoyNmhxbU01U094RWZBdW12VnJWUUxFSUFTamhESFhZYzdwbEh1Y3hEdXliWQ?oc=5) _(google_news)_
 
 ## Robbers & van den Hoogen
 
