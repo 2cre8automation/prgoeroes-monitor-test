@@ -2,6 +2,20 @@
 
 Nieuwste punten bovenaan. Doorvoeren na beoordeling door Farrukh.
 
+## 2026-11-05
+
+### Drukwerkdeal — Fonk Magazine
+- **Titel:** Drukwerkdeal genomineerd voor B2B Award bij Shopping Awards (4 nov)
+- **Oorzaak:** (a) medium staat niet in onze bronnen (niet in data/runs.log). Google News vond eerder wel FONK-artikelen (zie mentions.csv: Drukwerkdeal 31 aug, Multitint 30 jul), maar dit artikel kwam in de runs tot en met 5 nov 07:15 niet mee: 44 items, 3 relevant, maar geen nieuwe publicatie (runs van 4 nov 23:00 en 5 nov 07:15: 0 nieuw).
+- **Voorgestelde oplossing:** https://fonkmagazine.com als bron toevoegen. Route nog vaststellen: eerst de WordPress-zoekfunctie proberen, anders RSS of sitemap, en robots.txt controleren. De site was vanuit deze run niet te openen, dus dit is niet getest. Extra te controleren: Emerce heeft mogelijk hetzelfde bericht (https://www.emerce.nl/wire/drukwerkdeal-genomineerd-b2b-award-shopping-awards-2); datum onbekend, kan ook een oudere nominatie zijn.
+- **Status:** open
+
+### Straight Line Leadership — Fonk Magazine
+- **Titel:** Van creatieve chaos naar concrete resultaten: de kracht van Straight-Line Leadership (4 nov)
+- **Oorzaak:** (a) medium staat niet in onze bronnen (niet in data/runs.log). Daarnaast zou de bron alleen niet genoeg zijn: match_client keurt deze titel af vanwege het streepje (getest met de huidige config.json), net als bij Wees Meer op 4 nov. Google News: 12 items, 0 relevant.
+- **Voorgestelde oplossing:** dezelfde bron als hierboven toevoegen en eerst het open punt van 4 nov doorvoeren ("Straight-Line Leadership" als zoekterm, Kristof Cuppens als woordvoerder, of streepje en spatie gelijk behandelen). Dat punt heeft nu 3 gemiste publicaties op 2 media.
+- **Status:** open
+
 ## 2026-11-04
 
 ### Straight Line Leadership — Wees Meer

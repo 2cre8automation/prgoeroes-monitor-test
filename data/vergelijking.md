@@ -2,6 +2,142 @@
 
 Nieuwste sectie bovenaan. Tijden in Nederlandse tijd.
 
+## 5 november 2026
+
+**Agility-mail:** Daily PR Briefing - All Clients (5 nov 09:00:26). Geen maandagmail vandaag.
+**Periode:** 2 t/m 5 nov (standaard 3 dagen).
+
+Stand: Agility meldt vandaag 2 relevante publicaties, allebei in Fonk Magazine (Drukwerkdeal en Straight Line Leadership). Wij hadden ze geen van beide: Fonk staat niet in onze bronnen en Google News leverde ze niet op. Bij de overige 11 klanten in de mail staat "No Relevant Content". Daar vonden wij ook niets zekers, wel een mogelijke vondst bij Jennifer Delano op Wees Meer.
+
+Vandaag is er dus geen gedeelde publicatie uit de mail. De 2 gedeelde publicaties in de tabel (Katapull) komen uit de Agility-mail van 4 nov en zijn gisteren al geteld; beide hadden wij vóór die mail.
+
+Beperking: externe sites waren vanuit deze run niet te openen. Daarom zijn de Fonk-artikelen en het Wees Meer-artikel niet gelezen, en is niet getest of Fonk een zoekfunctie, feed of sitemap heeft.
+
+Let op: Aspyre, Equip en Hogeschool Utrecht staan niet in deze mail. Equip en Hogeschool Utrecht zijn eerdere samenwerkingen (alleen in de maandagmail) en Aspyre heeft geen sectie in de briefing.
+
+### Drukwerkdeal
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Fonk Magazine | Drukwerkdeal genomineerd voor B2B Award bij Shopping Awards | 4 nov | alleen Agility | relevant | gemist | n.v.t. | 5 nov 09:00:26 | Nee, gemist |
+
+### Straight Line Leadership
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Fonk Magazine | Van creatieve chaos naar concrete resultaten: de kracht van Straight-Line Leadership | 4 nov | alleen Agility | relevant | gemist | n.v.t. | 5 nov 09:00:26 | Nee, gemist |
+| Wees Meer | Kristof Cuppens (Straight-Line Leadership): ‘Ondernemers krijgen dankzij ons meer mentale ruimte, lichtheid en overzicht' | 3 nov | alleen Agility (mail 4 nov) | relevant | gemist | n.v.t. | 4 nov 09:00:44 | Nee, gemist |
+| Wees Meer | Straight-Line Leadership geeft 1 miljoen boeken weg aan ondernemers | 3 nov | alleen Agility (mail 4 nov) | relevant | gemist | n.v.t. | 4 nov 09:00:44 | Nee, gemist |
+
+De twee Wees Meer-regels zijn gisteren al geteld. Het verbeterpunt daarvoor staat nog open; de run van 5 nov gaf op Wees Meer opnieuw 2 zoekresultaten en 0 relevant.
+
+### Katapull
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Arnhem.nieuws.nl | Arnhems e-commercesucces Picqer overgenomen door softwaregroep Katapull | 3 nov | beide (mail 4 nov) | relevant | google_news | 3 nov 15:25 | 4 nov 09:00:44 | Ja, ruim 17 uur eerder |
+| Drimble | Arnhems e-commercesucces Picqer overgenomen door softwaregroep Katapull | 3 nov | beide (mail 4 nov) | relevant | google_news | 3 nov 23:00 | 4 nov 09:00:44 | Ja, bijna 10 uur eerder |
+
+Niet in de mail van vandaag, wel in die van 4 nov; gisteren al geteld.
+
+### Jennifer Delano
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Wees Meer | ‘Het genereren van een lead is één ding, maar het bouwen van een positieve reputatie is iets heel anders’ | 4 nov | alleen wij | mogelijk relevant: naam staat in de artikeltekst, niet in de titel; artikel niet gelezen | wordpress | 4 nov 15:27 | 5 nov 09:00:26 (No Relevant Content) | Ja, 17,5 uur vóór de mail |
+
+Controleerbaar in de repo: commit e620e82 (4 nov 15:55). Agility meldde hier niets. Of Jennifer het onderwerp is of alleen genoemd wordt, moet nog bekeken worden.
+
+### Aspyre
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Computable | Fintech-platform Aspyre en Twinfield slaan handen ineen | 3 nov | alleen wij | relevant | wordpress | 3 nov 23:00 | n.v.t. | Klant niet in deze mail |
+| Computable.be | Fintech-platform Aspyre en Twinfield slaan handen ineen | 3 nov | alleen wij | relevant | wordpress | 3 nov 23:00 | n.v.t. | Klant niet in deze mail |
+| Emerce | Fintech-platform Aspyre en Twinfield slaan handen ineen voor slimme automatisering van accountantskantoren | 3 nov | alleen wij | relevant | google_news | 3 nov 23:00 | n.v.t. | Klant niet in deze mail |
+
+Eigen vondsten, al gemeld op 4 nov. Bij deze klant zegt "alleen wij" niets over Agility.
+
+### Doors Open
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| TAPinto | GoFundMe Started to Keep Kenilworth's Opa Grill's Doors Open | 4 nov | alleen wij | ruis: Engelstalig, "doors open" als gewone woorden, niet over de klant | google_news | 4 nov 07:14 | n.v.t. | n.v.t. (ruis) |
+| Sportsnet.ca | CHL navigates new era of movement as NCAA, AHL doors open wider | 3 nov | alleen wij | ruis: Engelstalig, "doors open" als gewone woorden, niet over de klant | google_news | 4 nov 07:14 | n.v.t. | n.v.t. (ruis) |
+| VA.gov Home / Veterans Affairs | Doors Open, Doors Opened / VA Houston Health Care / Veterans Affairs | 3 nov | alleen wij | ruis: Engelstalig, "doors open" als gewone woorden, niet over de klant | google_news | 4 nov 07:14 | n.v.t. | n.v.t. (ruis) |
+| InMaricopa.com | Maricopa’s housing market has a lot of doors open | 3 nov | alleen wij | ruis: Engelstalig, "doors open" als gewone woorden, niet over de klant | google_news | 3 nov 23:00 | n.v.t. | n.v.t. (ruis) |
+| Brownwood News | Doors open at 4:30 p.m. for Brownwood Kiwanis Club Pancake Supper at Coliseum | 3 nov | alleen wij | ruis: Engelstalig, "doors open" als gewone woorden, niet over de klant | google_news | 3 nov 23:00 | n.v.t. | n.v.t. (ruis) |
+| Fast Food Club | When Snow Hits, These 6 Northwest Ohio Diners Keep Their Doors Open For Regulars | 2 nov | alleen wij | ruis: Engelstalig, "doors open" als gewone woorden, niet over de klant | google_news | 3 nov 23:00 | n.v.t. | n.v.t. (ruis) |
+| Church News | Doors open to tour sixth temple in Texas | 2 nov | alleen wij | ruis: Engelstalig, "doors open" als gewone woorden, niet over de klant | google_news | 3 nov 15:53 | n.v.t. | n.v.t. (ruis) |
+| DeeperBlue.com | DEMA Show 2026: Everything Announced Before The Doors Open | 2 nov | alleen wij | ruis: Engelstalig, "doors open" als gewone woorden, niet over de klant | google_news | 3 nov 15:53 | n.v.t. | n.v.t. (ruis) |
+| Baltimore Fishbowl | Im-PRESSED: Panini shop in Hampden goes from idea to doors open in just 27 days | 2 nov | alleen wij | ruis: Engelstalig, "doors open" als gewone woorden, niet over de klant | google_news | 3 nov 15:53 | n.v.t. | n.v.t. (ruis) |
+
+### Hogeschool Utrecht
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Hogeschool Utrecht | Tweede Kamer wil landelijke AI-strategie voor mbo en hoger onderwijs | 4 nov | alleen wij | ruis: medium is de HU zelf, geen externe publicatie | google_news | 4 nov 15:27 | n.v.t. | Klant niet in deze mail |
+| Hogeschool Utrecht | Omar al-Bashir heeft ons gescheiden, broeder. | 3 nov | alleen wij | ruis: medium is de HU zelf, geen externe publicatie | google_news | 3 nov 15:25 | n.v.t. | Klant niet in deze mail |
+| Hogeschool Utrecht | Verleen je mantelzorg? Dan krijg je een extra toetskans aan de HU | 2 nov | alleen wij | ruis: medium is de HU zelf, geen externe publicatie | google_news | 2 nov 15:28 | n.v.t. | Klant niet in deze mail |
+| Hogeschool Utrecht | Studieschuld blijft op hypotheek drukken, en dat vindt Nibud verstandig | 2 nov | alleen wij | ruis: medium is de HU zelf, geen externe publicatie | google_news | 2 nov 15:28 | n.v.t. | Klant niet in deze mail |
+
+Beoordeeld op titel en bron, niet op het volledige artikel.
+
+### Equip
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Equipment World | Top zero-turn mowers from Equip Expo 2026 (Video) | 3 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 4 nov 07:14 | n.v.t. | Klant niet in deze mail |
+| The Fast Mode | SES to Equip Finnair Aircraft with Multi-Orbit In-Flight Connectivity | 3 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 4 nov 07:14 | n.v.t. | Klant niet in deze mail |
+| https://www.autohebdof1.com/ | ECR becomes the first IndyCar team to publicly equip itself with a simulator | 3 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 3 nov 23:00 | n.v.t. | Klant niet in deze mail |
+| TradingView | Air Tahiti Nui Announces Agreement With SpaceX To Equip Its Entire Fleet With Starlink's Wi-Fi | 3 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 3 nov 23:00 | n.v.t. | Klant niet in deze mail |
+| Emory News | Future Proof will equip Emory students for an AI-powered workplace | 3 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 3 nov 23:00 | n.v.t. | Klant niet in deze mail |
+| Business Jet Interiors | Jet Excellence to equip Citation X fleet with Gogo Galileo HDX | 3 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 3 nov 23:00 | n.v.t. | Klant niet in deze mail |
+| Turf & Rec | Equip Expo continues to break records, drawing 30,000 attendees to Louisville | 3 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 3 nov 23:00 | n.v.t. | Klant niet in deze mail |
+| Landscape Management | Three landscaping organizations unite for joint Equip Expo networking | 3 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 3 nov 23:00 | n.v.t. | Klant niet in deze mail |
+| Nerd's Chalk | Gun Forge Warden Mask Crafting: Recipe, Rarity Chances, and How to Equip | 3 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 3 nov 23:00 | n.v.t. | Klant niet in deze mail |
+| The Hindu | State’s responsibility is to equip people for emerging opportunities, not just for current jobs: Sharanprakash Patil | 3 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 3 nov 23:00 | n.v.t. | Klant niet in deze mail |
+| TheBusinessDesk.com | £800,000 fund to equip people with AI and employment skills | 3 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 3 nov 15:53 | n.v.t. | Klant niet in deze mail |
+| Telecompaper | Go Telecom awards SAR 185 mln deal to equip Saudi data centre | 3 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 3 nov 15:53 | n.v.t. | Klant niet in deze mail |
+| The Peninsula Qatar | Universities urged to equip youth with future skills, promote critical thinking | 3 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 3 nov 15:53 | n.v.t. | Klant niet in deze mail |
+| Fox News | Jewish leaders equip students to face antisemitism on campus | 3 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 3 nov 15:53 | n.v.t. | Klant niet in deze mail |
+| Durham Radio News | Help furnish and equip new hospice in Whitby | 3 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 3 nov 15:53 | n.v.t. | Klant niet in deze mail |
+| Vietnam.vn | Thanh Hoa: Ten competitions organized to equip students with skills to prevent school depression. | 3 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 3 nov 15:53 | n.v.t. | Klant niet in deze mail |
+| Developing Telecoms | Beyon to equip third data centre to run entirely on solar power | 3 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 3 nov 15:53 | n.v.t. | Klant niet in deze mail |
+| Business Recorder | Punjab CM decides to equip 1m youth with skills | 2 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 3 nov 23:00 | n.v.t. | Klant niet in deze mail |
+| NC State University | Organizational Changes Equip NC Food Innovation Lab for Closer Collaboration, Expanded Statewide Service | 2 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 3 nov 15:53 | n.v.t. | Klant niet in deze mail |
+| Defence Industry Europe | L3Harris to equip German and Norwegian submarines with mast systems under TKMS contracts | 2 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 3 nov 15:53 | n.v.t. | Klant niet in deze mail |
+| Trevecca Nazarene University | Grandma’s Influence, Trevecca MBA Equip Richardson for Impactful Career in Education and Entrepreneurship | 2 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 3 nov 15:53 | n.v.t. | Klant niet in deze mail |
+| Nairametrics | Before the flames: Ebby-Tek, Johnson Controls equip industries for informed fire safety decisions | 2 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 3 nov 15:53 | n.v.t. | Klant niet in deze mail |
+| Landscape Management | Behind the wheel of the Polaris Pro XD at Equip Expo 2026 | 2 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 3 nov 15:53 | n.v.t. | Klant niet in deze mail |
+| The Star, Kenya | AICAD steps up drive to equip East African youth with jobs skills | 2 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 3 nov 15:53 | n.v.t. | Klant niet in deze mail |
+| Landscape Management | Exmark shows Vertex E-Series mower, Z-Turbo blower and patriotic giveaway at Equip Expo 2026 | 2 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 3 nov 15:53 | n.v.t. | Klant niet in deze mail |
+| PR Newswire | Greenworks® Commercial Names Three Landscaping Pros Winners of Nearly $34,000 in OPTIMUS™ Crew Equipment at Equip Exposi… | 2 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 3 nov 15:53 | n.v.t. | Klant niet in deze mail |
+| Army Recognition | Leonardo to equip Proteus uncrewed helicopter with Shield AI Hivemind for autonomous maritime missions | 2 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 3 nov 15:53 | n.v.t. | Klant niet in deze mail |
+| Adomonline.com | Sunyani Central Prison opens car wash, vulcanising centre to equip inmates with employable skills | 2 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 3 nov 15:53 | n.v.t. | Klant niet in deze mail |
+| Facebook | Bad actors continue to use emerging technologies to spread disinformation, threatening communities every day. Help equip… | 2 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 3 nov 15:53 | n.v.t. | Klant niet in deze mail |
+| Landscape Management | BusyBusy by AlignOps helps landscape contractors track time at Equip Expo 2026 | 2 nov | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | google_news | 3 nov 15:53 | n.v.t. | Klant niet in deze mail |
+| quasa.io | Dust – Plataforma d’agents d’IA, connexions amb el coneixement de l’empresa i col·laboració en equip | onbekend (database: 2 nov) | alleen wij | ruis: buitenlands, "equip" als gewoon woord of "Equip Expo", niet over de klant | sitemap | 2 nov 22:55 | n.v.t. | Klant niet in deze mail |
+
+Beoordeeld op titel en bron, niet op het volledige artikel.
+
+### Totaal 5 november
+
+| | Agility | Wij |
+|---:|---:|---:|
+| Relevant in de mail van vandaag | 2 | 0 van die 2 |
+| Relevant in de periode (zeker) | 6 | 5 |
+| Waarvan klanten die in de Agility-mail staan | 6 | 2 |
+| Mogelijk relevant (nog te controleren) | 0 | 1 |
+| Relevant, handmatig van Jennifer (apart) | n.v.t. | 0 |
+| Ruis | 0 | 44 |
+| Gedeeld ("beide"), uit de mail van 4 nov | 2 | 2 |
+| Gedeelde publicaties die wij eerder hadden | n.v.t. | 2 van 2 |
+
+Geen handmatige publicaties in deze periode.
+
+**Verbeterlijst:** 2 nieuwe punten, beide Fonk Magazine (zie data/verbeteringen.md). Het punt over "Straight-Line" van 4 nov staat nog open en blokkeert ook de Fonk-vondst bij Straight Line Leadership. De ruis zit weer aan onze kant: 40 van de 44 treffers komen van "equip" en "doors open", vrijwel allemaal via Google News.
+
 ## 4 november 2026
 
 **Agility-mail:** Daily PR Briefing - All Clients (4 nov 09:00:44). Geen Daily Agility Briefing vandaag (die komt alleen op maandag).
