@@ -1,11 +1,11 @@
 # Overzicht monitor
 
-Bijgewerkt: 2026-11-05 14:28 UTC
+Bijgewerkt: 2026-11-05 22:00 UTC
 
 | Klant | Lijst | Publicaties | Automatisch | Handmatig | Via Google News |
 |---|---|---|---|---|---|
 | Aspyre | vast | 15 | 13 | 2 | 4 |
-| Katapull | vast | 22 | 21 | 1 | 12 |
+| Katapull | vast | 22 | 21 | 1 | 11 |
 | Drukwerkdeal | vast | 10 | 10 | 0 | 2 |
 | Straight Line Leadership | vast | 0 | 0 | 0 | 0 |
 | Machiel Hoek | vast | 0 | 0 | 0 | 0 |
