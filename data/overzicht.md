@@ -1,10 +1,10 @@
 # Overzicht monitor
 
-Bijgewerkt: 2026-11-05 06:15 UTC
+Bijgewerkt: 2026-11-05 14:28 UTC
 
 | Klant | Lijst | Publicaties | Automatisch | Handmatig | Via Google News |
 |---|---|---|---|---|---|
-| Aspyre | vast | 13 | 11 | 2 | 4 |
+| Aspyre | vast | 15 | 13 | 2 | 4 |
 | Katapull | vast | 22 | 21 | 1 | 12 |
 | Drukwerkdeal | vast | 10 | 10 | 0 | 2 |
 | Straight Line Leadership | vast | 0 | 0 | 0 | 0 |
@@ -23,7 +23,7 @@ Bijgewerkt: 2026-11-05 06:15 UTC
 | Novateq | oud | 0 | 0 | 0 | 0 |
 | FlowQI | oud | 0 | 0 | 0 | 0 |
 | Equip | oud | 58 | 58 | 0 | 55 |
-| Hogeschool Utrecht | oud | 50 | 50 | 0 | 44 |
+| Hogeschool Utrecht | oud | 52 | 52 | 0 | 46 |
 | RISE Labs | oud | 0 | 0 | 0 | 0 |
 | MediKIT | oud | 3 | 3 | 0 | 3 |
 | FloraNL | oud | 0 | 0 | 0 | 0 |
@@ -39,6 +39,8 @@ Bijgewerkt: 2026-11-05 06:15 UTC
 
 ## Aspyre
 
+- 2026-11-05 — **Wees Meer**: [Fintech-platform Aspyre en Twinfield slaan handen ineen voor slimme automatisering van accountantskantoren](https://weesmeer.nl/fintech-platform-aspyre-en-twinfield-slaan-handen-ineen-voor-slimme-automatisering-van-accountantskantoren/) _(wordpress)_
+- 2026-11-05 — **Persberichten.com**: [Fintech-platform Aspyre en Twinfield slaan handen ineen voor slimme automatisering van accountantskantoren](https://www.persberichten.com/persbericht/115870/fintech-platform-aspyre-en-twinfield-slaan-handen-ineen-voor-slimme-automatisering-van-accountantskantoren) _(rss)_
 - 2026-11-03 — **Computable**: [Fintech-platform Aspyre en Twinfield slaan handen ineen](https://www.computable.nl/persberichten/fintech-platform-aspyre-en-twinfield-slaan-handen-ineen/) _(wordpress)_
 - 2026-11-03 — **Computable.be**: [Fintech-platform Aspyre en Twinfield slaan handen ineen](https://www.computable.be/persberichten/fintech-platform-aspyre-en-twinfield-slaan-handen-ineen/) _(wordpress)_
 - 2026-11-03 — **Emerce**: [Fintech-platform Aspyre en Twinfield slaan handen ineen voor slimme automatisering van accountantskantoren](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVkFoX1BZajdRN2Jjd0tMdmVHbUs0Ul9MenM4SFoxS1p1dzFaVkhKTVQ4c0xXSHFEY1djZ3VpdVhqVEF5RUdRdkc4a3hqU3dIOG1xR1V6c0pxemlHMkZobEFCYkdIYmo2WWhUZGFCLVVpSXhxSDg5TzZKM1pNWjRGdko2UV9DalNscXpxZ1ZsLUFDcUZxWnZ1UDJ0TlFoOW5sR1ZZYWNRRTBSTnNGNkwtclloU3VfOXRkazFkbQ?oc=5) _(google_news)_
@@ -47,8 +49,6 @@ Bijgewerkt: 2026-11-05 06:15 UTC
 - 2026-10-22 — **Computable**: [Aspyre lanceert orkestratielaag voor accountants en administratiekantoren](https://www.computable.nl/persberichten/aspyre-lanceert-orkestratielaag-voor-accountants-en-administratiekantoren/) _(wordpress)_
 - 2026-10-22 — **Computable.be**: [Aspyre lanceert orkestratielaag voor accountants en administratiekantoren](https://www.computable.be/persberichten/aspyre-lanceert-orkestratielaag-voor-accountants-en-administratiekantoren/) _(wordpress)_
 - 2026-10-22 — **Wees Meer**: [Nieuw fintech-platform Aspyre lanceert slimme orkestratielaag voor accountancy en administratiekantoren](https://weesmeer.nl/nieuw-fintech-platform-aspyre-lanceert-slimme-orkestratielaag-voor-accountancy-en-administratiekantoren/) _(wordpress)_
-- 2026-10-22 — **AccountancyWorld**: [Nieuw fintech platform Aspyre voor accountancy en administratiekantoren](https://www.accountancyworld.nl/nieuws/10427/nieuw-fintech-platform-aspyre-voor-accountancy-en-administratiekantoren) _(rss)_
-- 2026-10-22 — **Persberichten.com**: [Nieuw fintech-platform Aspyre lanceert slimme orkestratielaag voor accountancy en administratiekantoren](https://www.persberichten.com/persbericht/115760/nieuw-fintech-platform-aspyre-lanceert-slimme-orkestratielaag-voor-accountancy-en-administratiekantoren) _(handmatig)_
 
 ## Katapull
 
@@ -148,6 +148,8 @@ Bijgewerkt: 2026-11-05 06:15 UTC
 
 ## Hogeschool Utrecht
 
+- 2026-11-05 — **Hogeschool Utrecht**: [Nieuwe structuur bij Hogeschool Utrecht vermindert het aantal directeuren naar 10](https://news.google.com/rss/articles/CBMiqgFBVV95cUxObkNzQTdQUmotWERWUWRPZVFJWEwtSDdNT09UUk1oM2dfcUlVV1o4MmNJeld3LUVxZW0taGdVVDZRekg5b2k4NUZWY1lueUxFbFh4SjdsSkxXNUJpcVJNN21IcVBWZ2xYd3lkNzlnUVZGWVdmR3NqUko4NnZqX013UUNHUkFHcThVWnRtNmU1Q3NlbjBRV05OQmZzR0RubkN2ajNWRlk2V29fUQ?oc=5) _(google_news)_
+- 2026-11-05 — **Drimble**: [Nieuwe structuur bij Hogeschool Utrecht vermindert het aantal directeuren naar 10](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQal82NElnS3pCUER6V2gwZW9ndV9jYzFtc2pYZHRVM25vUkRkUHM0YllJOHZ6Vi1nU1pySXF5WndFTGhQRFNlSWV4UGFHUTRRVjlUOTRHRDAyMFVYRGp1Yy15aEVnNDM0V0lpV1VDZ3lpU1hQMmtXYkFhS3pac0o0QkxXdXhJMzA4QUZISlM0VXFJVVI0NDF4YVhQby1YMUs3dk9oTEx2bm90eHUzaFFhNEVZdTNZd1R6UzN2UG16V0JZR3dhZ1BETllEcXJDMWtTVjk0?oc=5) _(google_news)_
 - 2026-11-04 — **Hogeschool Utrecht**: [Tweede Kamer wil landelijke AI-strategie voor mbo en hoger onderwijs](https://news.google.com/rss/articles/CBMimAFBVV95cUxPS3E0NEtJV0hEOUtVd3VZM3lOTnFuRnRFMjEtRjJnX3BYeEwwWnRjOWpyNlJneGg3WjJZNW4xQXVqd2pZM3BKMDZmSE5ZZW00X1BxX09tTldhOHB6Q1g3eHZfNE1pc0ktS3lRU212bFYzNG1ZWU5qc09YSkxvRXFLNkxWSm9rRjlkZzgzOU1iV0NBUG54TEEtZw?oc=5) _(google_news)_
 - 2026-11-03 — **Hogeschool Utrecht**: [Omar al-Bashir heeft ons gescheiden, broeder.](https://news.google.com/rss/articles/CBMid0FVX3lxTE03YWRTRXAzNWRsTjdNMTNOZnRKZnY1bUhDVTh1V0dVZUhPWE4zSTlYNk9DVmFGNXBfYng4Q2ZheW01NXJ5MVJkM1YxUHUzaHlINmcyYVBDejBsdEdDNnVWa2xEc2RIVG5zeFZKQmdsSGhKb3lITllJ?oc=5) _(google_news)_
 - 2026-11-02 — **Hogeschool Utrecht**: [Verleen je mantelzorg? Dan krijg je een extra toetskans aan de HU](https://news.google.com/rss/articles/CBMikwFBVV95cUxQSzR0VW5nQTlTeV9ubXdveFluU01INWhLbWJhN1dqN2h2dkJYeFd3Y0lYZEdjZjVrR3ROUEtrUk52ang1T1NvU0YtYU92MVFZLXFCSVFZdWdVNDl1Ti1XOVItY0VyQ2MwQjhNU3RHcjZlc3ZjejdXemlSdk5DNkM1b3dpWnF3WDFGNGNCSGtyMjN4emc?oc=5) _(google_news)_
@@ -156,8 +158,6 @@ Bijgewerkt: 2026-11-05 06:15 UTC
 - 2026-10-30 — **Hogeschool Utrecht**: [We mogen de nieuwe generatie in Srebrenica niet vergeten](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenYzT2NGYVBTNWNESDNhbk9hOFRpbF9BbjFDRXl3OTJKT1V5alp5b19xSWRQX2RhejU3VWlXTXlJazI5VEhRQnhwU1U2dmR6YVJnbHhXa3FxZ3ZOa1NZOVliRm5aZFZKejhxaW13Y1kxcm8tMFFxNUd4UEZady1WMXN5VDlWSmJp?oc=5) _(google_news)_
 - 2026-10-29 — **Hogeschool Utrecht**: [Insluiper, urine in het trappenhuis en onvrede over digitale sleutels: studentencomplex High Five kampt met problemen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV3pSeURJWmhZSFBvYUo3M294UEtvSzhTQTZ0UklVVmRPTk5zWFdvWHRSeTczWXYwcF9ibHhQdWd3bWRiT1BqVWVxN0VjT3VxWVRYYjV2WDNKVXlfb0VLR0t4RUpPT0tJQy11Tmpibkc0VkxpUFByNF9OUHpKQ2VucVg0ZDRhckhSNlBOTTZpMmdSc09ldGR5QXQzWlJUeW1SajJPamdHMlowMUstSlBNbktlWm83Z0JrZzNiWjRfS3p1cTA3UDVYejFEYnhtTTcxNTR6c2dISQ?oc=5) _(google_news)_
 - 2026-10-26 — **Hogeschool Utrecht**: [Vooruitblik: vooral D66 moet op eieren lopen in het debat over de OCW-begroting](https://news.google.com/rss/articles/CBMipgFBVV95cUxQakxleUwxMDNjMU1xN1VaaFZvUnExOU82X1R2S3FHaFNBSEVsZXlGSGNRWkJiaC1tU1Q5V1hMN3hoZnAtWkp3Y0ZxRTJqTmVRTjU5Z0w0RzRxWXZ1TXJBTDJjY3BPa3ppRmE0RWZ4d0lKVDNtcGF3WkJCVjhnMUpoRF9oSHpMRk1RZGYyOFpEU2VEd1lDRURUYUNfd0QtMVJoRGg2Uk1B?oc=5) _(google_news)_
-- 2026-10-19 — **IP | vakblad voor informatieprofessionals**: [Hogeschool Utrecht houdt Data Horror Week](https://news.google.com/rss/articles/CBMiggFBVV95cUxQMF8zdTl1dUpqampZdkZ1dHBlUEJGYWlmcmJJbjBZMzVGOVh1QXZSLVlMa3V5ZTBwTDFFcUlsSDd6S0NGMDduYXdEa1h5ZUlKV2s0ejYzSUR1azJuNk1iNEZWTFRXOU5yU1g4cG5NT1JHbzE0MjlDS0NtYXdkR1pmNmFB?oc=5) _(google_news)_
-- 2026-10-16 — **De Utrechtse Internet Courant**: [Hogeschool Utrecht blijft voorlopig actief op TikTok ondanks eerder aangekondigd vertrek](https://news.google.com/rss/articles/CBMizAFBVV95cUxQR3dzdEQteVZYSjBpQUtfS1RkWDNfUFNleVVDcW82VHp5dFVEXzJnd0NTOG5UcFd6N2Y5cEZXbzNnemV5RFdJRmsySXRWZmlGVlJvODRfOUdReDZBNWVFYzNCOHBycW8xNEh1eEpFVDRJUW9TQUpuRVBpejVudU9EUC1KZUZoNllrbTR6LWV5VFRpc0p4eHQwYUN0dklnMU9nNEJ1X0tnSV9ZQnJ2eG5RWnRDYmNrcnlHYVM5cTdtcjFvQ0hFaWt4ZHJUMEY?oc=5) _(google_news)_
 
 ## MediKIT
 
