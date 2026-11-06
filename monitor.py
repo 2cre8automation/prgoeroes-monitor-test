@@ -377,6 +377,7 @@ def norm_key(row):
     t = re.sub(r"\W+", " ", row["title"].lower()).strip()
     outlet = row["outlet"].lower().replace("/", "").replace("www.", "").strip()
     outlet = re.sub(r"\.nl$", "", outlet)  # "Computable.nl" (Google) == "Computable" (site)
+    outlet = re.sub(r"[\s\u00b7|\-\u2013]+$", "", outlet)  # "Accountancy Vanmorgen ·" (Google) == "Accountancy Vanmorgen"
     return (row["client"].lower(), outlet, t)
 
 
