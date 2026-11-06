@@ -89,16 +89,22 @@ def looks_dutch(text):
     return sum(w in _NL for w in words) > sum(w in _EN for w in words)
 
 
+def _term_pattern(term):
+    """Heel woord; spatie en streepje gelden als gelijk ("Straight Line" = "Straight-Line")."""
+    parts = [re.escape(p) for p in re.split(r"[\s\-\u2010-\u2014]+", term.strip()) if p]
+    return r"(?<![\w-])" + r"[\s\-\u2010-\u2014]+".join(parts) + r"(?![\w-])"
+
+
 def match_client(client, text):
     """Zoekterm als heel woord, geen uitsluitwoord; bij only_dutch alleen Nederlandstalige tekst (woordvoerder telt altijd)."""
     for ex in client.get("exclude", []):
         if ex.lower() in text.lower():
             return None
     for term in client.get("spokespersons", []):
-        if re.search(r"(?<![\w-])" + re.escape(term) + r"(?![\w-])", text, re.I):
+        if re.search(_term_pattern(term), text, re.I):
             return term
     for term in client["match"]:
-        if re.search(r"(?<![\w-])" + re.escape(term) + r"(?![\w-])", text, re.I):
+        if re.search(_term_pattern(term), text, re.I):
             if client.get("only_dutch") and not looks_dutch(text):
                 return None
             return term
