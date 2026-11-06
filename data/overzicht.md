@@ -1,10 +1,10 @@
 # Overzicht monitor
 
-Bijgewerkt: 2026-11-06 06:14 UTC
+Bijgewerkt: 2026-11-06 09:40 UTC
 
 | Klant | Lijst | Publicaties | Automatisch | Handmatig | Via Google News |
 |---|---|---|---|---|---|
-| Aspyre | vast | 15 | 13 | 2 | 4 |
+| Aspyre | vast | 16 | 14 | 2 | 5 |
 | Katapull | vast | 22 | 21 | 1 | 11 |
 | Drukwerkdeal | vast | 10 | 10 | 0 | 2 |
 | Straight Line Leadership | vast | 0 | 0 | 0 | 0 |
@@ -41,6 +41,7 @@ Bijgewerkt: 2026-11-06 06:14 UTC
 
 - 2026-11-05 — **Wees Meer**: [Fintech-platform Aspyre en Twinfield slaan handen ineen voor slimme automatisering van accountantskantoren](https://weesmeer.nl/fintech-platform-aspyre-en-twinfield-slaan-handen-ineen-voor-slimme-automatisering-van-accountantskantoren/) _(wordpress)_
 - 2026-11-05 — **Persberichten.com**: [Fintech-platform Aspyre en Twinfield slaan handen ineen voor slimme automatisering van accountantskantoren](https://www.persberichten.com/persbericht/115870/fintech-platform-aspyre-en-twinfield-slaan-handen-ineen-voor-slimme-automatisering-van-accountantskantoren) _(rss)_
+- 2026-11-04 — **Accountancy Vanmorgen ·**: [Fintech-platform Aspyre en Twinfield slaan handen ineen voor slimme automatisering van accountantskantoren](https://news.google.com/rss/articles/CBMiggJBVV95cUxOMzh6MGY2S1k1M2JpRU5rZTBtSVFwQ2Vnb2VGc2lFR3NuY1FlU0hIOGVCVTFaTzVqeFYwSm15akV0NFRjM29Ja056NGVXMENhMElBSGdHTWttZ3RwZkJhYVBDUjVUeDI1LUE3YUdYcUxzVjFCSXFsMm0wU2FHeGRsXzdSWnNiQi1RcVpZcFpGU2UwMGFva3RNcUh1WGpGekRaUVVmd1dLOFVGMlRKUG0zb3BBSzlvLTEzWFlnUm1BTHh6VWVwNm0wSW1nTFVUVzZaYUNJY3Y0WXpJYlVOYW92bHVlRTdEdjA5VHBaSWdSaE9fZUtwMWZYNDFaVTA1TS02alE?oc=5) _(google_news)_
 - 2026-11-03 — **Computable**: [Fintech-platform Aspyre en Twinfield slaan handen ineen](https://www.computable.nl/persberichten/fintech-platform-aspyre-en-twinfield-slaan-handen-ineen/) _(wordpress)_
 - 2026-11-03 — **Computable.be**: [Fintech-platform Aspyre en Twinfield slaan handen ineen](https://www.computable.be/persberichten/fintech-platform-aspyre-en-twinfield-slaan-handen-ineen/) _(wordpress)_
 - 2026-11-03 — **Emerce**: [Fintech-platform Aspyre en Twinfield slaan handen ineen voor slimme automatisering van accountantskantoren](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVkFoX1BZajdRN2Jjd0tMdmVHbUs0Ul9MenM4SFoxS1p1dzFaVkhKTVQ4c0xXSHFEY1djZ3VpdVhqVEF5RUdRdkc4a3hqU3dIOG1xR1V6c0pxemlHMkZobEFCYkdIYmo2WWhUZGFCLVVpSXhxSDg5TzZKM1pNWjRGdko2UV9DalNscXpxZ1ZsLUFDcUZxWnZ1UDJ0TlFoOW5sR1ZZYWNRRTBSTnNGNkwtclloU3VfOXRkazFkbQ?oc=5) _(google_news)_
@@ -48,7 +49,6 @@ Bijgewerkt: 2026-11-06 06:14 UTC
 - 2026-10-23 — **ICT/Magazine**: [Haags Aspyre automatiseert workflows van administratiekantoren](https://news.google.com/rss/articles/CBMingFBVV95cUxQWUg5SU12TlljR1ZmazVWdUR3RUxjYzdnTWlGZUpsZ1dDMXNlS0xJbVhaRHhNeFQyV0tvaVBNb2pSZXpuYzlsRmZzbU9lVV9vZmh1WFhBZDk5SHFDa184dEFWcnpRTHdFVktmbzh2SUgwekVzNjZvT1N0X2otMjFsOVFkb19HRTdqNlhtYjZ4V1JZVjU1Z1VkR1B0aVNKUQ?oc=5) _(google_news)_
 - 2026-10-22 — **Computable**: [Aspyre lanceert orkestratielaag voor accountants en administratiekantoren](https://www.computable.nl/persberichten/aspyre-lanceert-orkestratielaag-voor-accountants-en-administratiekantoren/) _(wordpress)_
 - 2026-10-22 — **Computable.be**: [Aspyre lanceert orkestratielaag voor accountants en administratiekantoren](https://www.computable.be/persberichten/aspyre-lanceert-orkestratielaag-voor-accountants-en-administratiekantoren/) _(wordpress)_
-- 2026-10-22 — **Wees Meer**: [Nieuw fintech-platform Aspyre lanceert slimme orkestratielaag voor accountancy en administratiekantoren](https://weesmeer.nl/nieuw-fintech-platform-aspyre-lanceert-slimme-orkestratielaag-voor-accountancy-en-administratiekantoren/) _(wordpress)_
 
 ## Katapull
 
