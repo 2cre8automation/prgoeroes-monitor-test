@@ -10,6 +10,7 @@ Alleen standaardbibliotheek, zodat het zonder installatie draait.
 """
 
 import csv
+from concurrent.futures import ThreadPoolExecutor
 import html
 import json
 import re
@@ -24,6 +25,9 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
+
+MAX_WORKERS = 10  # aantal bronnen dat tegelijk wordt doorzocht
+
 
 def norm_date(value):
     """Datum naar JJJJ-MM-DD; onbekende of ongeldige notaties worden leeg (nooit een fout)."""
@@ -413,6 +417,43 @@ def load_from_db(cfg):
     return existing
 
 
+def gather_parallel(cfg, since, log):
+    """Alle bronnen tegelijk doorzoeken: één taak per bron (die alle klanten na elkaar doet).
+    Zo blijft elke site netjes één verzoek tegelijk krijgen, terwijl verschillende sites parallel lopen."""
+    clients = cfg["clients"]
+    tasks = []
+    for src in cfg["wordpress_sources"]:
+        tasks.append((src.get("outlet", "wordpress"), lambda c, s=src: (search_wordpress(s, c, since, log), time.sleep(1))[0]))
+    for src in cfg.get("rss_sources", []):
+        tasks.append((src.get("outlet", "rss"), lambda c, s=src: search_rss(s, c, since, log)))
+    for src in cfg.get("sitemap_sources", []):
+        tasks.append((src.get("outlet", "sitemap"), lambda c, s=src: search_sitemap(s, c, since, log)))
+    if cfg.get("google_news"):
+        tasks.append(("Google News", lambda c: search_google_news(c, since, log)))
+
+    def run(task):
+        name, fn = task
+        t0, out = time.time(), {}
+        for c in clients:
+            try:
+                out[c["name"]] = fn(c) or []
+            except Exception as e:  # één kapotte bron mag de rest niet stoppen
+                log.append(f"{name}: fout bij {c['name']}: {e}")
+                out[c["name"]] = []
+        return name, time.time() - t0, out
+
+    found = {c["name"]: [] for c in clients}
+    t_start = time.time()
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as pool:
+        for name, secs, out in pool.map(run, tasks):
+            if secs > 120:
+                print(f"Traag: {name} {secs:.0f}s", file=sys.stderr)
+            for cname, rows in out.items():
+                found[cname] += rows
+    print(f"Alle bronnen doorzocht in {time.time() - t_start:.0f}s ({len(tasks)} bronnen, {MAX_WORKERS} tegelijk)", file=sys.stderr)
+    return found
+
+
 def main():
     cfg = json.loads((ROOT / "config.json").read_text())
     DATA.mkdir(exist_ok=True)
@@ -439,17 +480,9 @@ def main():
     existing = kept
 
     log, new_rows, replaced = [], [], []
+    found_by_client = gather_parallel(cfg, since, log)
     for client in cfg["clients"]:
-        found = []
-        for src in cfg["wordpress_sources"]:
-            found += search_wordpress(src, client, since, log)
-            time.sleep(1)
-        for src in cfg.get("rss_sources", []):
-            found += search_rss(src, client, since, log)
-        for src in cfg.get("sitemap_sources", []):
-            found += search_sitemap(src, client, since, log)
-        if cfg.get("google_news"):
-            found += search_google_news(client, since, log)
+        found = list(found_by_client[client["name"]])
         if not use_db:
             found += manual_links(client, log)
         found.sort(key=lambda r: r["method"] == "google_news")
