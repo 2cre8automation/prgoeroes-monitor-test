@@ -25,6 +25,19 @@ from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
+def norm_date(value):
+    """Datum naar JJJJ-MM-DD; onbekende of ongeldige notaties worden leeg (nooit een fout)."""
+    v = (value or "").strip()[:10]
+    if not v:
+        return ""
+    for fmt in ("%Y-%m-%d", "%d-%m-%Y", "%d/%m/%Y", "%Y/%m/%d", "%d.%m.%Y"):
+        try:
+            return datetime.strptime(v, fmt).date().isoformat()
+        except ValueError:
+            pass
+    return ""
+
+
 import supa
 
 ROOT = Path(__file__).parent
@@ -315,13 +328,9 @@ def search_sitemap(source, client, since, log):
         title = re.sub(r"\s*[|\-–]\s*Logimerce.*$", "", title)
         d = (re.search(r'"datePublished"\s*:\s*"([^"]+)"', page)
              or re.search(r'article:published_time" content="([^"]+)"', page))
-        published = d.group(1)[:10] if d else ""
-        if published:
-            try:
-                if datetime.fromisoformat(published).replace(tzinfo=timezone.utc) < since:
-                    continue
-            except ValueError:
-                pass
+        published = norm_date(d.group(1)) if d else ""
+        if published and datetime.fromisoformat(published).replace(tzinfo=timezone.utc) < since:
+            continue
         matched = match_client(client, title + " " + strip_tags(page)) or match_client(client, slug)
         hits.append({
             "client": client["name"], "outlet": source["outlet"], "title": title,
@@ -470,11 +479,21 @@ def main():
                     "published": old["published"] or None, "method": old["method"],
                     "kind": old["kind"] or None, "matched_on": old["matched_on"] or None})
         payload = [{"client_id": ids[r["client"]], "outlet": r["outlet"], "title": r["title"],
-                    "url": r["url"], "published": r["published"] or None, "method": r["method"],
+                    "url": r["url"], "published": norm_date(r["published"]) or None, "method": r["method"],
                     "kind": r["kind"] or None, "matched_on": r["matched_on"] or None,
                     "found_at": r["found_at"]} for r in new_rows]
         for i in range(0, len(payload), 200):
-            supa.insert("mentions", payload[i:i + 200], on_conflict="client_id,url", ignore_duplicates=True)
+            batch = payload[i:i + 200]
+            try:
+                supa.insert("mentions", batch, on_conflict="client_id,url", ignore_duplicates=True)
+            except RuntimeError as e:
+                # Eén foute regel mag nooit de hele run kosten: dan per regel opslaan en de foute overslaan
+                print(f"Batch opslaan mislukt ({e}); per regel opnieuw", file=sys.stderr)
+                for row in batch:
+                    try:
+                        supa.insert("mentions", [row], on_conflict="client_id,url", ignore_duplicates=True)
+                    except RuntimeError as e2:
+                        print(f"Overgeslagen: {row['url']} ({e2})", file=sys.stderr)
         # CSV blijft als leesbare export naast de database
         existing = [{k: v for k, v in r.items() if k in FIELDS} for r in load_from_db(cfg)]
         new_rows_export = []
