@@ -1,16 +1,16 @@
 # Overzicht monitor
 
-Bijgewerkt: 2026-11-06 10:07 UTC
+Bijgewerkt: 2026-11-07 08:42 UTC
 
 | Klant | Lijst | Publicaties | Automatisch | Handmatig | Via Google News |
 |---|---|---|---|---|---|
-| Aspyre | vast | 17 | 15 | 2 | 5 |
-| Katapull | vast | 22 | 21 | 1 | 11 |
-| Drukwerkdeal | vast | 10 | 10 | 0 | 2 |
+| Aspyre | vast | 18 | 16 | 2 | 5 |
+| Katapull | vast | 22 | 21 | 1 | 10 |
+| Drukwerkdeal | vast | 11 | 11 | 0 | 2 |
 | Straight Line Leadership | vast | 3 | 3 | 0 | 0 |
 | Machiel Hoek | vast | 0 | 0 | 0 | 0 |
 | Verdi Fit | vast | 3 | 3 | 0 | 0 |
-| Doors Open | vast | 84 | 84 | 0 | 84 |
+| Doors Open | vast | 85 | 85 | 0 | 85 |
 | TAB | vast | 0 | 0 | 0 | 0 |
 | Robbers & van den Hoogen | los | 1 | 1 | 0 | 0 |
 | Multitint | los | 2 | 2 | 0 | 1 |
@@ -22,8 +22,8 @@ Bijgewerkt: 2026-11-06 10:07 UTC
 | Waarderen.nl | oud | 3 | 3 | 0 | 0 |
 | Novateq | oud | 0 | 0 | 0 | 0 |
 | FlowQI | oud | 0 | 0 | 0 | 0 |
-| Equip | oud | 58 | 58 | 0 | 55 |
-| Hogeschool Utrecht | oud | 52 | 52 | 0 | 46 |
+| Equip | oud | 59 | 59 | 0 | 54 |
+| Hogeschool Utrecht | oud | 54 | 54 | 0 | 48 |
 | RISE Labs | oud | 0 | 0 | 0 | 0 |
 | MediKIT | oud | 3 | 3 | 0 | 3 |
 | FloraNL | oud | 0 | 0 | 0 | 0 |
@@ -39,20 +39,20 @@ Bijgewerkt: 2026-11-06 10:07 UTC
 
 ## Aspyre
 
+- 2026-11-06 — **Mediacontent.nu**: [Fintech-platform Aspyre en Twinfield slaan handen ineen voor slimme automatisering van accountantskantoren](https://mediacontent.nu/fintech-platform-aspyre-en-twinfield-slaan-handen-ineen-voor-slimme-automatisering-van-accountantskantoren/) _(wordpress)_
 - 2026-11-05 — **Wees Meer**: [Fintech-platform Aspyre en Twinfield slaan handen ineen voor slimme automatisering van accountantskantoren](https://weesmeer.nl/fintech-platform-aspyre-en-twinfield-slaan-handen-ineen-voor-slimme-automatisering-van-accountantskantoren/) _(wordpress)_
 - 2026-11-05 — **Persberichten.com**: [Fintech-platform Aspyre en Twinfield slaan handen ineen voor slimme automatisering van accountantskantoren](https://www.persberichten.com/persbericht/115870/fintech-platform-aspyre-en-twinfield-slaan-handen-ineen-voor-slimme-automatisering-van-accountantskantoren) _(rss)_
-- 2026-11-04 — **Accountancy Vanmorgen ·**: [Fintech-platform Aspyre en Twinfield slaan handen ineen voor slimme automatisering van accountantskantoren](https://news.google.com/rss/articles/CBMiggJBVV95cUxOMzh6MGY2S1k1M2JpRU5rZTBtSVFwQ2Vnb2VGc2lFR3NuY1FlU0hIOGVCVTFaTzVqeFYwSm15akV0NFRjM29Ja056NGVXMENhMElBSGdHTWttZ3RwZkJhYVBDUjVUeDI1LUE3YUdYcUxzVjFCSXFsMm0wU2FHeGRsXzdSWnNiQi1RcVpZcFpGU2UwMGFva3RNcUh1WGpGekRaUVVmd1dLOFVGMlRKUG0zb3BBSzlvLTEzWFlnUm1BTHh6VWVwNm0wSW1nTFVUVzZaYUNJY3Y0WXpJYlVOYW92bHVlRTdEdjA5VHBaSWdSaE9fZUtwMWZYNDFaVTA1TS02alE?oc=5) _(google_news)_
 - 2026-11-04 — **Accountancy Vanmorgen**: [Fintech-platform Aspyre en Twinfield slaan handen ineen voor slimme automatisering van accountantskantoren · Accountancy Vanmorgen](https://www.accountancyvanmorgen.nl/2026/11/04/partner-twinfield-fintech-platform-aspyre-en-twinfield-slaan-handen-ineen-voor-slimme-automatisering-van-accountantskantoren/) _(sitemap)_
+- 2026-11-04 — **Accountancy Vanmorgen ·**: [Fintech-platform Aspyre en Twinfield slaan handen ineen voor slimme automatisering van accountantskantoren](https://news.google.com/rss/articles/CBMiggJBVV95cUxOMzh6MGY2S1k1M2JpRU5rZTBtSVFwQ2Vnb2VGc2lFR3NuY1FlU0hIOGVCVTFaTzVqeFYwSm15akV0NFRjM29Ja056NGVXMENhMElBSGdHTWttZ3RwZkJhYVBDUjVUeDI1LUE3YUdYcUxzVjFCSXFsMm0wU2FHeGRsXzdSWnNiQi1RcVpZcFpGU2UwMGFva3RNcUh1WGpGekRaUVVmd1dLOFVGMlRKUG0zb3BBSzlvLTEzWFlnUm1BTHh6VWVwNm0wSW1nTFVUVzZaYUNJY3Y0WXpJYlVOYW92bHVlRTdEdjA5VHBaSWdSaE9fZUtwMWZYNDFaVTA1TS02alE?oc=5) _(google_news)_
 - 2026-11-03 — **Computable**: [Fintech-platform Aspyre en Twinfield slaan handen ineen](https://www.computable.nl/persberichten/fintech-platform-aspyre-en-twinfield-slaan-handen-ineen/) _(wordpress)_
 - 2026-11-03 — **Computable.be**: [Fintech-platform Aspyre en Twinfield slaan handen ineen](https://www.computable.be/persberichten/fintech-platform-aspyre-en-twinfield-slaan-handen-ineen/) _(wordpress)_
 - 2026-11-03 — **Emerce**: [Fintech-platform Aspyre en Twinfield slaan handen ineen voor slimme automatisering van accountantskantoren](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVkFoX1BZajdRN2Jjd0tMdmVHbUs0Ul9MenM4SFoxS1p1dzFaVkhKTVQ4c0xXSHFEY1djZ3VpdVhqVEF5RUdRdkc4a3hqU3dIOG1xR1V6c0pxemlHMkZobEFCYkdIYmo2WWhUZGFCLVVpSXhxSDg5TzZKM1pNWjRGdko2UV9DalNscXpxZ1ZsLUFDcUZxWnZ1UDJ0TlFoOW5sR1ZZYWNRRTBSTnNGNkwtclloU3VfOXRkazFkbQ?oc=5) _(google_news)_
 - 2026-10-27 — **Mediacontent.nu**: [Nieuw fintech-platform Aspyre lanceert slimme orkestratielaag voor accountancy en administratiekantoren](https://mediacontent.nu/nieuw-fintech-platform-aspyre-lanceert-slimme-orkestratielaag-voor-accountancy-en-administratiekantoren/) _(wordpress)_
 - 2026-10-23 — **ICT/Magazine**: [Haags Aspyre automatiseert workflows van administratiekantoren](https://news.google.com/rss/articles/CBMingFBVV95cUxQWUg5SU12TlljR1ZmazVWdUR3RUxjYzdnTWlGZUpsZ1dDMXNlS0xJbVhaRHhNeFQyV0tvaVBNb2pSZXpuYzlsRmZzbU9lVV9vZmh1WFhBZDk5SHFDa184dEFWcnpRTHdFVktmbzh2SUgwekVzNjZvT1N0X2otMjFsOVFkb19HRTdqNlhtYjZ4V1JZVjU1Z1VkR1B0aVNKUQ?oc=5) _(google_news)_
-- 2026-10-22 — **Computable**: [Aspyre lanceert orkestratielaag voor accountants en administratiekantoren](https://www.computable.nl/persberichten/aspyre-lanceert-orkestratielaag-voor-accountants-en-administratiekantoren/) _(wordpress)_
 
 ## Katapull
 
-- 2026-11-03 — **Arnhem.nieuws.nl**: [Arnhems e-commercesucces Picqer overgenomen door softwaregroep Katapull](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT0l2OEJMY1ZPZURqSWY2MXVSNjdqSEhPTzBvdzV5VnlCUE93RWJQeXVfM2VFQVpFZm1NQnFjbmJMQkdLbkM5UGpFVDN3MnYtb0Z0WnhfY2U3ajg4Sk1wX0tMYnVPUjBnN3lHcldON05GalU3TUloNkoyY0RjN3R0a00tYjJBZWtzV1pxZmw3dXNoSDQ3Q1BwUk0ySHdjZmZNZUNLUHREeXY?oc=5) _(google_news)_
+- 2026-11-03 — **Arnhem.Nieuws.nl**: [Arnhems e-commercesucces Picqer overgenomen door softwaregroep Katapull](https://arnhem.nieuws.nl/zakelijk/arnhems-e-commercesucces-picqer-overgenomen-door-softwaregroep-katapull) _(rss)_
 - 2026-11-03 — **Drimble**: [Arnhems e-commercesucces Picqer overgenomen door softwaregroep Katapull](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeU15WkVxME5JS3Z4aUh1aU56dEdrenhPUjVBbHRKN1pVa1M0cVhIQ1BRbXozU2QtOW5PLXg5R3hzM1ZJUnNpRm14TUFPcUJyQkMxNjZQXzJQN2xGWHpDdTc4bklnQVJGbkNRNHlRNndyeGpKU29sU2pRaTRSOVhMaURQVUlTRnY0a3BwZi1jVDNsc3dzdG81dHZEZHlpUXhKRncyY2JSWi1hVzFQUHlpd1FLYm0xV2NoQnZwMUVETXA2Z25nbEtsYg?oc=5) _(google_news)_
 - 2026-10-30 — **Warehouse Totaal**: [Katapull neemt Picqer over](https://www.warehousetotaal.nl/automatisering-en-robotisering/wms/katapull-neemt-picqer-over/146082/) _(wordpress)_
 - 2026-10-28 — **Logimerce**: [Katapull blijft softwarespecialisten stapelen: ook Picqer ingelijfd](https://logimerce.nl/news/7324/katapull-blijft-softwarespecialisten-stapelen-ook-picqer-ingelijfd) _(sitemap)_
@@ -67,6 +67,7 @@ Bijgewerkt: 2026-11-06 10:07 UTC
 
 - 2026-09-29 — **Mediacontent.nu**: [Drukwerkdeal haalt grootste productielocatie van het gas af: ‘Overduidelijke energiebesparing’](https://mediacontent.nu/drukwerkdeal-haalt-grootste-productielocatie-van-het-gas-af-overduidelijke-energiebesparing/) _(wordpress)_
 - 2026-09-28 — **Wees Meer**: [Drukwerkdeal haalt grootste productielocatie van het gas af: ‘Overduidelijke energiebesparing’](https://weesmeer.nl/drukwerkdeal-haalt-grootste-productielocatie-van-het-gas-af-overduidelijke-energiebesparing/) _(wordpress)_
+- 2026-09-26 — **Centraal+**: [Niet Amsterdam, maar Leiden is dé winkelstad van Nederland](https://centraalplus.nl/2026/09/26/niet-amsterdam-maar-leiden-is-de-winkelstad-van-nederland/) _(wordpress)_
 - 2026-09-21 — **Mediacontent.nu**: [Onderzoek Drukwerkdeal: ‘Niet Amsterdam, maar Leiden is dé winkelstad van Nederland’](https://mediacontent.nu/onderzoek-drukwerkdeal-niet-amsterdam-maar-leiden-is-de-winkelstad-van-nederland/) _(wordpress)_
 - 2026-09-01 — **Wees Meer**: [Drukwerkdeal speelt met nieuwe campagne in op behoefte aan online gemak én menselijke service](https://weesmeer.nl/drukwerkdeal-speelt-met-nieuwe-campagne-in-op-behoefte-aan-online-gemak-en-menselijke-service/) _(wordpress)_
 - 2026-09-01 — **Mediacontent.nu**: [Drukwerkdeal speelt met nieuwe campagne in op behoefte aan online gemak én menselijke service](https://mediacontent.nu/drukwerkdeal-speelt-met-nieuwe-campagne-in-op-behoefte-aan-online-gemak-en-menselijke-service/) _(wordpress)_
@@ -74,7 +75,6 @@ Bijgewerkt: 2026-11-06 10:07 UTC
 - 2026-08-31 — **FONK magazine**: [Drukwerkdeal lanceert nieuwe campagne gericht op deskundige ondersteuning](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN2pDN184eU1IYm1Sd3M2UVY5WEFha3pqVkVUdkh4Y3RyOEVOQk1qbzlFRlY4eUp3Ui1yVG9teU0yS2N2a21ib2c5dlFwZ2NYNVFxejRLM0o3OXlLZTNPbk9xQ2lndFBRSjZVUzgtNFJyLW50VWdiN1RoWTNVUjdmN0xtODQzTktxOTIzcm9XaHNxVmM5WFgtd0ZTRW1OX1A1alhKVS03S3hDci14OTNXdUtYMHhKdVFYbDI3T3ZRUTRLc2hKYnRuag?oc=5) _(google_news)_
 - 2026-07-24 — **Mediacontent.nu**: [Drukwerkdeal behaalt B Corp™-certificering en schrapt waterflesjes uit het assortiment](https://mediacontent.nu/drukwerkdeal-behaalt-b-corp-certificering-en-schrapt-waterflesjes-uit-het-assortiment/) _(wordpress)_
 - 2026-07-21 — **Wees Meer**: [Drukwerkdeal behaalt B Corp™-certificering en schrapt waterflesjes uit het assortiment](https://weesmeer.nl/drukwerkdeal-behaalt-b-corp-certificering-en-schrapt-waterflesjes-uit-het-assortiment/) _(wordpress)_
-- 2026-07-21 — **Duurzaam Ondernemen**: [Drukwerkdeal behaalt B Corp™-certificering en schrapt waterflesjes uit het assortiment](https://www.duurzaam-ondernemen.nl/drukwerkdeal-behaalt-b-corp-certificering-en-schrapt-waterflesjes-uit-het-assortiment/) _(wordpress)_
 
 ## Straight Line Leadership
 
@@ -90,6 +90,7 @@ Bijgewerkt: 2026-11-06 10:07 UTC
 
 ## Doors Open
 
+- 2026-11-06 — **Curaçao Chronicle**: [Author Suzanne Mau-Asam Returns to Curaçao With New Book on Leadership, Identity and Personal Growth](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUXB5UnV2NEhfVzZlbW05NTBCNEVIRkZwYlB1dDU4NFdOblBZN3hnYkhjTjFndWUxYzVyQzlzSG9fMGl0WG14TDk0X3otMmZxYVdORWZvZl9oZmtobE1FczRLN1N1UTMyWkFDX0ZmXzlJc0ROZ0FlT3RRTzZxZDFMS2M1UGR3anQ2WTlsaFlDUEVLU0h1MTNyVkttekYweFJ2alRQSVNaRThITjBad3l2Tk5MbnVDSVpHeEEzOGZGLXg3ZXZ4WGxqQW42NXpnQWlvUThvSXdkMlY1MUt1WGc?oc=5) _(google_news)_
 - 2026-11-04 — **TAPinto**: [GoFundMe Started to Keep Kenilworth's Opa Grill's Doors Open](https://news.google.com/rss/articles/CBMizwFBVV95cUxNeUxWRkh4Y2xsR0NCcHV2UG5jYTlXWjhJakd2S002XzM1WGdLVUNVMEh2dHZ6X3I3THMwb3lrQmFRUGZVUi1zWlJtRmUyLVNfRWRBeTNsTjk4cjh3M0pZc3ZIay1ST0dKOVRqU3Jsbk9LU1N5bHhoLU1iZ29zMmJfUXJDZnVRWmxaR1JpMVY3bDVRZnJmUHdBZWlzSFZYZWUxcUdzOWY5emtQMmZhdlFzZF8yQ2FNNHUxcnpBUUJSRzRIS29mZ2lIc1dfVERka1E?oc=5) _(google_news)_
 - 2026-11-03 — **InMaricopa.com**: [Maricopa’s housing market has a lot of doors open](https://news.google.com/rss/articles/CBMifEFVX3lxTFBwZ3pSNjZMTUJ6Y3d6MzZSWmRPOFlmenMyUWVzb2NGaWxKTDR6NUlRU1ZPQ0ozQVZ3MTF0Si1kSTcxOE5SY254V1NVdFE5VnlmZHNpWEFOLU1odU5ZQ0tOUU02aHk4MmE1UC1TQVFXbXE3Y202R2t3OHlSNGM?oc=5) _(google_news)_
 - 2026-11-03 — **Sportsnet.ca**: [CHL navigates new era of movement as NCAA, AHL doors open wider](https://news.google.com/rss/articles/CBMipwFBVV95cUxOeDFQVjlkSjgtOHhtSTllMU1EaUZiZFRYSnFWZjVBQTJaam5WaUVFRzN5N2NsLXF3cFVaX1lEbGMyZXp5ZklqVW5GRlRaRHZqNnJNZ0dIbmhIbWk2R3JrTFNGM2NILWxZUGtITkYtU0xBckZIU01Ra3pSeWU0YkxaU3kzOGlKTU9ScUR3ell0SGpEbS1Ecms0N09ua1VKU05KNmh1RW9waw?oc=5) _(google_news)_
@@ -99,7 +100,6 @@ Bijgewerkt: 2026-11-06 10:07 UTC
 - 2026-11-02 — **Fast Food Club**: [When Snow Hits, These 6 Northwest Ohio Diners Keep Their Doors Open For Regulars](https://news.google.com/rss/articles/CBMitwFBVV95cUxPb1IyYVBIWFNkWDhEXzNqRmR6U1JIYVdFMW9jRE5mdzZTS3d1cDh6RmZZVVZuU28tMGNYU0VhczBpY3pwMlJjWTkwOFlXeHBPaExaSDhDS3NwNlo5d05uS0NOVElKUXJHNG4tWHJOOXI1YjhxLVNsZXZnVU43UzBfTlJlVF9RQ1MyWlRtMU1UMVRyaU9KTFRndUVBYUdQTHlMbkNOb1dnaGFFTlNFRjVVRmNVNDZxNXM?oc=5) _(google_news)_
 - 2026-11-02 — **DeeperBlue.com**: [DEMA Show 2026: Everything Announced Before The Doors Open](https://news.google.com/rss/articles/CBMic0FVX3lxTE5jXzZ0MlZtUUJQLVpFLW90dmVDTXo5cXluWE4xVmh5NmpaN0lsMlJReTRQeG5GVHQ0UWt3VUEzWGpkeUNZVnRMcGN1RWJlRG9tYVlJR2EwbHJoTHhYdEZMMlJDVWpwY3JHc2FzTkoxaDRfQ3M?oc=5) _(google_news)_
 - 2026-11-02 — **Baltimore Fishbowl**: [Im-PRESSED: Panini shop in Hampden goes from idea to doors open in just 27 days](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSFRQekllTG1KQWtSRjgwRXJUVVFQaTBlckhwZmpuQXV2VWoyMDJIZEtrWWlac3F6cjU5RHNmOWhYRnJ3SVU5eUdWeC1uYXVOMW1YWjF1QjZ0VTd6UGxhWWdNdjdXbVE0WGRsdE9LWjZZaWxGT1RtZk1sV0MySUdrSmhZWVlYOFZPVV9fOTRYTzduUW9KWmpZVHZZcnpfX09qVjVoR1Y0TVJ5YjZmMTg5T2lLa2VmOVVp?oc=5) _(google_news)_
-- 2026-10-30 — **Florida Today**: [Doors open at Ocean Center in Daytona Beach for Trump rally](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdm1xWTVnMHpzTmhEaEJFa3ZPcWFEVExHX2ZsU0JERHBkQlREQ0hfR2pqc212RjRSZXZMMl9CTklGWEh4WkVHekFfNTRoTGVLTHMwVmxnUlRzUEljeWdYR3NtekgwcHRIaHhQQm9ZbDZFb0V0ak9OdTNWd19YRGM4M1hqRGx5NDJoZFdEQWRJRFJWRlE5a0Z4YUhLWmhWR1dMTUlETXk1ZnZsME1acjRxVEdmeWY4TjVkclR4ZW52aGZIUk56UnFCZFlqOHJYQXc1WXVsNDhoMklva00?oc=5) _(google_news)_
 
 ## Robbers & van den Hoogen
 
@@ -154,6 +154,8 @@ Bijgewerkt: 2026-11-06 10:07 UTC
 
 ## Hogeschool Utrecht
 
+- 2026-11-06 — **Hogeschool Utrecht**: [Student kan straks baanbrekend idee pitchen bij Defensie](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR2twVDVKQ09oTl9CTTBycnMycElmQzB0NmYyYjFSU0VjcWthUzNYYWgxbmRyTEY0blJkLUJZS0JuX2xvVlRpWnJpaDBLampUTmZ6MmRpUnpsZTNIVXdUR2pmTW9XbTZWWnRjM1VZeXBvYkc0RmxDLVozcFVqVFNaaTlTbmI0N2ct?oc=5) _(google_news)_
+- 2026-11-06 — **Hogeschool Utrecht**: [Tweede Kamer wil wegbezuinigde ambtenaren voor de klas zetten](https://news.google.com/rss/articles/CBMijwFBVV95cUxNeTF1TW80X1BDeGtwQWZFS2tTOW1IVEx6SmxDaEk5dVRVMi1MYVJtSVdjZ2tHZ2w2anV5TjdqaXZyc1djRXZzcjZEcEdaX2M0QUpYckxhNndsNG1OY2tzb1d3MFc0ZUhnNGMwNzBLejlfc2puck1Wd0hHTGRBTkM3Nl82ZEZIeTM1Y0dSMjJNSQ?oc=5) _(google_news)_
 - 2026-11-05 — **Hogeschool Utrecht**: [Nieuwe structuur bij Hogeschool Utrecht vermindert het aantal directeuren naar 10](https://news.google.com/rss/articles/CBMiqgFBVV95cUxObkNzQTdQUmotWERWUWRPZVFJWEwtSDdNT09UUk1oM2dfcUlVV1o4MmNJeld3LUVxZW0taGdVVDZRekg5b2k4NUZWY1lueUxFbFh4SjdsSkxXNUJpcVJNN21IcVBWZ2xYd3lkNzlnUVZGWVdmR3NqUko4NnZqX013UUNHUkFHcThVWnRtNmU1Q3NlbjBRV05OQmZzR0RubkN2ajNWRlk2V29fUQ?oc=5) _(google_news)_
 - 2026-11-05 — **Drimble**: [Nieuwe structuur bij Hogeschool Utrecht vermindert het aantal directeuren naar 10](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQal82NElnS3pCUER6V2gwZW9ndV9jYzFtc2pYZHRVM25vUkRkUHM0YllJOHZ6Vi1nU1pySXF5WndFTGhQRFNlSWV4UGFHUTRRVjlUOTRHRDAyMFVYRGp1Yy15aEVnNDM0V0lpV1VDZ3lpU1hQMmtXYkFhS3pac0o0QkxXdXhJMzA4QUZISlM0VXFJVVI0NDF4YVhQby1YMUs3dk9oTEx2bm90eHUzaFFhNEVZdTNZd1R6UzN2UG16V0JZR3dhZ1BETllEcXJDMWtTVjk0?oc=5) _(google_news)_
 - 2026-11-04 — **Hogeschool Utrecht**: [Tweede Kamer wil landelijke AI-strategie voor mbo en hoger onderwijs](https://news.google.com/rss/articles/CBMimAFBVV95cUxPS3E0NEtJV0hEOUtVd3VZM3lOTnFuRnRFMjEtRjJnX3BYeEwwWnRjOWpyNlJneGg3WjJZNW4xQXVqd2pZM3BKMDZmSE5ZZW00X1BxX09tTldhOHB6Q1g3eHZfNE1pc0ktS3lRU212bFYzNG1ZWU5qc09YSkxvRXFLNkxWSm9rRjlkZzgzOU1iV0NBUG54TEEtZw?oc=5) _(google_news)_
@@ -162,8 +164,6 @@ Bijgewerkt: 2026-11-06 10:07 UTC
 - 2026-11-02 — **Hogeschool Utrecht**: [Studieschuld blijft op hypotheek drukken, en dat vindt Nibud verstandig](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMy1rTnFEZGdHbXFwcWRYSmRxMTFyaEhlRTBlWnh3YTVfeGZyOUpGSjgzcUxBMWk2YURpMTllUDdDYlBkY3B3Um5EMUR5ckRkRDZOeXltdmhlZkluMFZMSjNXMW51Tk9VdjVNZzJLY1FUM1A3MldlWlczMXhCSHU4V0kydGdwaEpwNXJqSk9rb3FrTGFwS2FDVk5jQQ?oc=5) _(google_news)_
 - 2026-10-30 — **Hogeschool Utrecht**: [Eind van liedje: Renteplafond blijft, genoeg steun voor minister](https://news.google.com/rss/articles/CBMikAFBVV95cUxOVlBZbG1RWnlvZTV0X2YyN0FYNVZhT09tRFFpQklXTEx6ZEZRNlBXb1NadTZnSDg5ZUxiY3RTenROLXczdWVQMzRfbFRaS0Q2RkxOaklidmZsNmFVTzFJR3JyTjdNNE44akNJd0VnWFRvWEdpeXNlam9fYkVHOWFhdmZuWHhKV2JCNE1tTHAtclQ?oc=5) _(google_news)_
 - 2026-10-30 — **Hogeschool Utrecht**: [We mogen de nieuwe generatie in Srebrenica niet vergeten](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenYzT2NGYVBTNWNESDNhbk9hOFRpbF9BbjFDRXl3OTJKT1V5alp5b19xSWRQX2RhejU3VWlXTXlJazI5VEhRQnhwU1U2dmR6YVJnbHhXa3FxZ3ZOa1NZOVliRm5aZFZKejhxaW13Y1kxcm8tMFFxNUd4UEZady1WMXN5VDlWSmJp?oc=5) _(google_news)_
-- 2026-10-29 — **Hogeschool Utrecht**: [Insluiper, urine in het trappenhuis en onvrede over digitale sleutels: studentencomplex High Five kampt met problemen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV3pSeURJWmhZSFBvYUo3M294UEtvSzhTQTZ0UklVVmRPTk5zWFdvWHRSeTczWXYwcF9ibHhQdWd3bWRiT1BqVWVxN0VjT3VxWVRYYjV2WDNKVXlfb0VLR0t4RUpPT0tJQy11Tmpibkc0VkxpUFByNF9OUHpKQ2VucVg0ZDRhckhSNlBOTTZpMmdSc09ldGR5QXQzWlJUeW1SajJPamdHMlowMUstSlBNbktlWm83Z0JrZzNiWjRfS3p1cTA3UDVYejFEYnhtTTcxNTR6c2dISQ?oc=5) _(google_news)_
-- 2026-10-26 — **Hogeschool Utrecht**: [Vooruitblik: vooral D66 moet op eieren lopen in het debat over de OCW-begroting](https://news.google.com/rss/articles/CBMipgFBVV95cUxQakxleUwxMDNjMU1xN1VaaFZvUnExOU82X1R2S3FHaFNBSEVsZXlGSGNRWkJiaC1tU1Q5V1hMN3hoZnAtWkp3Y0ZxRTJqTmVRTjU5Z0w0RzRxWXZ1TXJBTDJjY3BPa3ppRmE0RWZ4d0lKVDNtcGF3WkJCVjhnMUpoRF9oSHpMRk1RZGYyOFpEU2VEd1lDRURUYUNfd0QtMVJoRGg2Uk1B?oc=5) _(google_news)_
 
 ## MediKIT
 
