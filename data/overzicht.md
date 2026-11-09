@@ -1,6 +1,6 @@
 # Overzicht monitor
 
-Bijgewerkt: 2026-11-09 06:22 UTC
+Bijgewerkt: 2026-11-09 14:27 UTC
 
 | Klant | Lijst | Publicaties | Automatisch | Handmatig | Via Google News |
 |---|---|---|---|---|---|
@@ -10,7 +10,7 @@ Bijgewerkt: 2026-11-09 06:22 UTC
 | Straight Line Leadership | vast | 3 | 3 | 0 | 0 |
 | Machiel Hoek | vast | 0 | 0 | 0 | 0 |
 | Verdi Fit | vast | 3 | 3 | 0 | 0 |
-| Doors Open | vast | 85 | 85 | 0 | 85 |
+| Doors Open | vast | 86 | 86 | 0 | 85 |
 | TAB | vast | 0 | 0 | 0 | 0 |
 | Robbers & van den Hoogen | los | 1 | 1 | 0 | 0 |
 | Multitint | los | 2 | 2 | 0 | 1 |
@@ -23,7 +23,7 @@ Bijgewerkt: 2026-11-09 06:22 UTC
 | Novateq | oud | 0 | 0 | 0 | 0 |
 | FlowQI | oud | 0 | 0 | 0 | 0 |
 | Equip | oud | 60 | 60 | 0 | 54 |
-| Hogeschool Utrecht | oud | 54 | 54 | 0 | 48 |
+| Hogeschool Utrecht | oud | 55 | 55 | 0 | 49 |
 | RISE Labs | oud | 0 | 0 | 0 | 0 |
 | MediKIT | oud | 3 | 3 | 0 | 3 |
 | FloraNL | oud | 0 | 0 | 0 | 0 |
@@ -90,6 +90,7 @@ Bijgewerkt: 2026-11-09 06:22 UTC
 
 ## Doors Open
 
+- 2026-11-09 — **Mediacontent.nu**: [Suzanne Mau-Asam brengt boek over leiderschap en persoonlijke ontwikkeling naar Curaçao](https://mediacontent.nu/suzanne-mau-asam-brengt-boek-over-leiderschap-en-persoonlijke-ontwikkeling-naar-curacao/) _(wordpress)_
 - 2026-11-06 — **Curaçao Chronicle**: [Author Suzanne Mau-Asam Returns to Curaçao With New Book on Leadership, Identity and Personal Growth](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUXB5UnV2NEhfVzZlbW05NTBCNEVIRkZwYlB1dDU4NFdOblBZN3hnYkhjTjFndWUxYzVyQzlzSG9fMGl0WG14TDk0X3otMmZxYVdORWZvZl9oZmtobE1FczRLN1N1UTMyWkFDX0ZmXzlJc0ROZ0FlT3RRTzZxZDFMS2M1UGR3anQ2WTlsaFlDUEVLU0h1MTNyVkttekYweFJ2alRQSVNaRThITjBad3l2Tk5MbnVDSVpHeEEzOGZGLXg3ZXZ4WGxqQW42NXpnQWlvUThvSXdkMlY1MUt1WGc?oc=5) _(google_news)_
 - 2026-11-04 — **TAPinto**: [GoFundMe Started to Keep Kenilworth's Opa Grill's Doors Open](https://news.google.com/rss/articles/CBMizwFBVV95cUxNeUxWRkh4Y2xsR0NCcHV2UG5jYTlXWjhJakd2S002XzM1WGdLVUNVMEh2dHZ6X3I3THMwb3lrQmFRUGZVUi1zWlJtRmUyLVNfRWRBeTNsTjk4cjh3M0pZc3ZIay1ST0dKOVRqU3Jsbk9LU1N5bHhoLU1iZ29zMmJfUXJDZnVRWmxaR1JpMVY3bDVRZnJmUHdBZWlzSFZYZWUxcUdzOWY5emtQMmZhdlFzZF8yQ2FNNHUxcnpBUUJSRzRIS29mZ2lIc1dfVERka1E?oc=5) _(google_news)_
 - 2026-11-03 — **InMaricopa.com**: [Maricopa’s housing market has a lot of doors open](https://news.google.com/rss/articles/CBMifEFVX3lxTFBwZ3pSNjZMTUJ6Y3d6MzZSWmRPOFlmenMyUWVzb2NGaWxKTDR6NUlRU1ZPQ0ozQVZ3MTF0Si1kSTcxOE5SY254V1NVdFE5VnlmZHNpWEFOLU1odU5ZQ0tOUU02aHk4MmE1UC1TQVFXbXE3Y202R2t3OHlSNGM?oc=5) _(google_news)_
@@ -99,7 +100,6 @@ Bijgewerkt: 2026-11-09 06:22 UTC
 - 2026-11-02 — **Church News**: [Doors open to tour sixth temple in Texas](https://news.google.com/rss/articles/CBMirwFBVV95cUxQUHdnR092dmlNWVV1Q2Nuc0ctSExLN05rbmlRVWdUSEJVaWFNNVIzYmI5cDItZnJJYmdGY2FpQUtVLUtKLUZVc3BCMWtBU3NrZDBhTjVwTXpUNW0yUjhKR2tESG1uSFZPaE84SENpOW9XQS1VM1N5QXo3Y3huN3lTYnVmTzdkaUJMazN5YlV3VG5iSVktQml1dlVOc2N3Tk5lOEVCel9wQlQ1VU1BT2Zj?oc=5) _(google_news)_
 - 2026-11-02 — **Fast Food Club**: [When Snow Hits, These 6 Northwest Ohio Diners Keep Their Doors Open For Regulars](https://news.google.com/rss/articles/CBMitwFBVV95cUxPb1IyYVBIWFNkWDhEXzNqRmR6U1JIYVdFMW9jRE5mdzZTS3d1cDh6RmZZVVZuU28tMGNYU0VhczBpY3pwMlJjWTkwOFlXeHBPaExaSDhDS3NwNlo5d05uS0NOVElKUXJHNG4tWHJOOXI1YjhxLVNsZXZnVU43UzBfTlJlVF9RQ1MyWlRtMU1UMVRyaU9KTFRndUVBYUdQTHlMbkNOb1dnaGFFTlNFRjVVRmNVNDZxNXM?oc=5) _(google_news)_
 - 2026-11-02 — **DeeperBlue.com**: [DEMA Show 2026: Everything Announced Before The Doors Open](https://news.google.com/rss/articles/CBMic0FVX3lxTE5jXzZ0MlZtUUJQLVpFLW90dmVDTXo5cXluWE4xVmh5NmpaN0lsMlJReTRQeG5GVHQ0UWt3VUEzWGpkeUNZVnRMcGN1RWJlRG9tYVlJR2EwbHJoTHhYdEZMMlJDVWpwY3JHc2FzTkoxaDRfQ3M?oc=5) _(google_news)_
-- 2026-11-02 — **Baltimore Fishbowl**: [Im-PRESSED: Panini shop in Hampden goes from idea to doors open in just 27 days](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSFRQekllTG1KQWtSRjgwRXJUVVFQaTBlckhwZmpuQXV2VWoyMDJIZEtrWWlac3F6cjU5RHNmOWhYRnJ3SVU5eUdWeC1uYXVOMW1YWjF1QjZ0VTd6UGxhWWdNdjdXbVE0WGRsdE9LWjZZaWxGT1RtZk1sV0MySUdrSmhZWVlYOFZPVV9fOTRYTzduUW9KWmpZVHZZcnpfX09qVjVoR1Y0TVJ5YjZmMTg5T2lLa2VmOVVp?oc=5) _(google_news)_
 
 ## Robbers & van den Hoogen
 
@@ -154,6 +154,7 @@ Bijgewerkt: 2026-11-09 06:22 UTC
 
 ## Hogeschool Utrecht
 
+- 2026-11-09 — **Hogeschool Utrecht**: [Begroting HU: bijna 10 miljoen euro meer over dan verwacht dit jaar](https://news.google.com/rss/articles/CBMilgFBVV95cUxQNERCeE5Sa2V0bDBpR0Q0Z3gtNGEtUG5IZlNRLVB1ME9kSWkwOGVrU2lUUWJtNm9lbmhTcWFBY3FZeVloQnVScTJaS1VHbEJqb3BCMXNwRl9DYVVWeEpJbzBIdVFlQTRMY0xSWFUzYk4yTlBYLXhkT2RMYmxLS0Itc1czNGp4NjgzMXZlNkljajJjcEswSmc?oc=5) _(google_news)_
 - 2026-11-06 — **Hogeschool Utrecht**: [Student kan straks baanbrekend idee pitchen bij Defensie](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR2twVDVKQ09oTl9CTTBycnMycElmQzB0NmYyYjFSU0VjcWthUzNYYWgxbmRyTEY0blJkLUJZS0JuX2xvVlRpWnJpaDBLampUTmZ6MmRpUnpsZTNIVXdUR2pmTW9XbTZWWnRjM1VZeXBvYkc0RmxDLVozcFVqVFNaaTlTbmI0N2ct?oc=5) _(google_news)_
 - 2026-11-06 — **Hogeschool Utrecht**: [Tweede Kamer wil wegbezuinigde ambtenaren voor de klas zetten](https://news.google.com/rss/articles/CBMijwFBVV95cUxNeTF1TW80X1BDeGtwQWZFS2tTOW1IVEx6SmxDaEk5dVRVMi1MYVJtSVdjZ2tHZ2w2anV5TjdqaXZyc1djRXZzcjZEcEdaX2M0QUpYckxhNndsNG1OY2tzb1d3MFc0ZUhnNGMwNzBLejlfc2puck1Wd0hHTGRBTkM3Nl82ZEZIeTM1Y0dSMjJNSQ?oc=5) _(google_news)_
 - 2026-11-05 — **Hogeschool Utrecht**: [Nieuwe structuur bij Hogeschool Utrecht vermindert het aantal directeuren naar 10](https://news.google.com/rss/articles/CBMiqgFBVV95cUxObkNzQTdQUmotWERWUWRPZVFJWEwtSDdNT09UUk1oM2dfcUlVV1o4MmNJeld3LUVxZW0taGdVVDZRekg5b2k4NUZWY1lueUxFbFh4SjdsSkxXNUJpcVJNN21IcVBWZ2xYd3lkNzlnUVZGWVdmR3NqUko4NnZqX013UUNHUkFHcThVWnRtNmU1Q3NlbjBRV05OQmZzR0RubkN2ajNWRlk2V29fUQ?oc=5) _(google_news)_
@@ -163,7 +164,6 @@ Bijgewerkt: 2026-11-09 06:22 UTC
 - 2026-11-02 — **Hogeschool Utrecht**: [Verleen je mantelzorg? Dan krijg je een extra toetskans aan de HU](https://news.google.com/rss/articles/CBMikwFBVV95cUxQSzR0VW5nQTlTeV9ubXdveFluU01INWhLbWJhN1dqN2h2dkJYeFd3Y0lYZEdjZjVrR3ROUEtrUk52ang1T1NvU0YtYU92MVFZLXFCSVFZdWdVNDl1Ti1XOVItY0VyQ2MwQjhNU3RHcjZlc3ZjejdXemlSdk5DNkM1b3dpWnF3WDFGNGNCSGtyMjN4emc?oc=5) _(google_news)_
 - 2026-11-02 — **Hogeschool Utrecht**: [Studieschuld blijft op hypotheek drukken, en dat vindt Nibud verstandig](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMy1rTnFEZGdHbXFwcWRYSmRxMTFyaEhlRTBlWnh3YTVfeGZyOUpGSjgzcUxBMWk2YURpMTllUDdDYlBkY3B3Um5EMUR5ckRkRDZOeXltdmhlZkluMFZMSjNXMW51Tk9VdjVNZzJLY1FUM1A3MldlWlczMXhCSHU4V0kydGdwaEpwNXJqSk9rb3FrTGFwS2FDVk5jQQ?oc=5) _(google_news)_
 - 2026-10-30 — **Hogeschool Utrecht**: [Eind van liedje: Renteplafond blijft, genoeg steun voor minister](https://news.google.com/rss/articles/CBMikAFBVV95cUxOVlBZbG1RWnlvZTV0X2YyN0FYNVZhT09tRFFpQklXTEx6ZEZRNlBXb1NadTZnSDg5ZUxiY3RTenROLXczdWVQMzRfbFRaS0Q2RkxOaklidmZsNmFVTzFJR3JyTjdNNE44akNJd0VnWFRvWEdpeXNlam9fYkVHOWFhdmZuWHhKV2JCNE1tTHAtclQ?oc=5) _(google_news)_
-- 2026-10-30 — **Hogeschool Utrecht**: [We mogen de nieuwe generatie in Srebrenica niet vergeten](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenYzT2NGYVBTNWNESDNhbk9hOFRpbF9BbjFDRXl3OTJKT1V5alp5b19xSWRQX2RhejU3VWlXTXlJazI5VEhRQnhwU1U2dmR6YVJnbHhXa3FxZ3ZOa1NZOVliRm5aZFZKejhxaW13Y1kxcm8tMFFxNUd4UEZady1WMXN5VDlWSmJp?oc=5) _(google_news)_
 
 ## MediKIT
 
