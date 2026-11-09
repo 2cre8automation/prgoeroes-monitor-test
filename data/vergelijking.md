@@ -2,6 +2,101 @@
 
 Nieuwste sectie bovenaan. Tijden in Nederlandse tijd.
 
+## 9 november 2026
+
+**Agility-mails:** Daily PR Briefing - All Clients (9 nov 09:00:37) en Daily Agility Briefing, wekelijkse update eerdere samenwerkingen (9 nov 09:00:45).
+**Periode:** vaste, losse en eigen klanten 6 t/m 9 nov (standaard 3 dagen); eerdere samenwerkingen 2 t/m 9 nov (de weekmail dekt die periode).
+
+Stand: de dagmail meldt bij alle 13 vaste, losse en eigen klanten "No Relevant Content". De weekmail heeft treffers bij 5 eerdere samenwerkingen, maar die zijn ruis of onzeker; geen ervan is aantoonbaar over de klant. Wij vonden 3 relevante publicaties die Agility niet meldt. De duidelijkste is Doors Open in Curaçao Chronicle (6 nov, gevonden 7 nov 09:42 via de woordvoerder Suzanne Mau-Asam). Agility meldt Doors Open vandaag als "No Relevant Content". Er zijn vandaag geen gedeelde publicaties en ook geen publicaties met methode "handmatig".
+
+Opvolging van eerdere verbeterpunten: na de aanpassing van 6 nov (spatie en streepje gelijk, commit 4a31c94) vond de run van 6 nov 11:07 alsnog de twee gemiste Straight-Line-artikelen op Wees Meer. Hij vond ook hetzelfde bericht op Mediacontent.nu (2 nov), dat Agility nooit meldde. Dat was ná de Agility-mail van 4 nov, dus het bewijst geen snelheid, wel dat de oplossing werkt. Deze publicaties vallen buiten de periode van vandaag en tellen niet mee. Fonk Magazine staat nog steeds niet in de bronnen (punt van 5 nov blijft open).
+
+Beperking: Agility-links lopen via een klikteller en zijn bewust niet aangeklikt. Onzekere regels zijn beoordeeld op titel, samenvatting en bron.
+
+### Doors Open
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Curaçao Chronicle | Author Suzanne Mau-Asam Returns to Curaçao With New Book on Leadership, Identity and Personal Growth | 6 nov | alleen wij | relevant: gevonden op woordvoerder Suzanne Mau-Asam (zelfde persoon als in Harper's BAZAAR 9 okt) | google_news | 7 nov 09:42 | 9 nov 09:00:37 ("No Relevant Content") | Agility meldt hem niet |
+
+### Aspyre
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Mediacontent.nu | Fintech-platform Aspyre en Twinfield slaan handen ineen voor slimme automatisering van accountantskantoren | 6 nov | alleen wij | relevant | wordpress | 7 nov 09:42 | n.v.t. | Klant niet in deze mail |
+
+Aspyre heeft geen sectie in de Agility-briefing; dit zegt dus niets over Agility.
+
+### Hogeschool Utrecht
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Drimble | Nieuwe structuur bij Hogeschool Utrecht vermindert het aantal directeuren naar 10 | 5 nov | alleen wij | relevant | google_news | 5 nov 15:28 | 9 nov 09:00:45 (niet gemeld) | Agility meldt hem niet |
+| PropertyNL | CBRE: 18.000 studentenkamers tekort in 2034 | 4 nov | alleen Agility | onzeker: CBRE-onderzoek over twaalf studentensteden, de samenvatting noemt de HU niet; vermoedelijk ruis | gemist | n.v.t. | 9 nov 09:00:45 | n.v.t. |
+| CorporatieGids Magazine | Nieuwsupdate - 4 november | 4 nov | alleen Agility | onzeker: nieuwsoverzicht van woningcorporaties, de samenvatting noemt de HU niet; vermoedelijk ruis | gemist | n.v.t. | 9 nov 09:00:45 | n.v.t. |
+| NieuwsBreak (Online) | Kamernood studenten blijft torenhoog: over acht jaar nog 18.000 kamers te weinig | 3 nov | alleen Agility | onzeker: hetzelfde CBRE-onderzoek, HU niet in de samenvatting; vermoedelijk ruis | gemist | n.v.t. | 9 nov 09:00:45 | n.v.t. |
+| Drimble | Kamernood studenten blijft torenhoog: over acht jaar nog 18.000 kamers te weinig | 3 nov | alleen Agility | onzeker: zelfde bericht; Drimble wordt wel doorzocht, maar zonder "Hogeschool Utrecht" in de tekst geen match; vermoedelijk ruis | gemist | n.v.t. | 9 nov 09:00:45 | n.v.t. |
+| The Headliner | Kamernood studenten blijft torenhoog: over acht jaar nog 18.000 kamers te weinig | 3 nov | alleen Agility | onzeker: samenvatting gaat over een AD-overzicht, HU niet genoemd; vermoedelijk ruis | gemist | n.v.t. | 9 nov 09:00:45 | n.v.t. |
+| Hogeschool Utrecht (eigen kanaal) | 7 berichten: Studieschuld blijft op hypotheek drukken…, Verleen je mantelzorg? Dan krijg je een extra toetskans aan de HU (2 nov); Omar al-Bashir heeft ons gescheiden, broeder. (3 nov); Tweede Kamer wil landelijke AI-strategie… (4 nov); Nieuwe structuur bij Hogeschool Utrecht… (5 nov); Student kan straks baanbrekend idee pitchen bij Defensie, Tweede Kamer wil wegbezuinigde ambtenaren voor de klas zetten (6 nov) | 2–6 nov | alleen wij | ruis (7×): medium is de HU zelf, geen externe publicatie | google_news | 2 nov 15:28 t/m 7 nov 09:42 | n.v.t. | n.v.t. (ruis) |
+
+PropertyNL meldt Agility twee keer (zelfde titel en datum); hier één keer geteld.
+
+### Equip
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| 27 Engelstalige media (o.a. Fox News, The Hindu, Landscape Management, PR Newswire) | 30 berichten met het werkwoord "equip" of over Equip Expo (VS) | 2–3 nov | alleen wij | ruis (30×): niet over de klant; in de database al op ruis gezet | google_news | 2 nov 22:55 t/m 4 nov 07:14 | n.v.t. | n.v.t. (ruis) |
+| quasa.io | Dust – … col·laboració en equip; Town – … col·laboració en equip | 2 en 7 nov | alleen wij | ruis (2×): Catalaans "en equip" = "in team" | sitemap | 2 nov 22:55 en 7 nov 22:51 | n.v.t. | n.v.t. (ruis) |
+
+Agility meldt Equip als "No Relevant Content", en dat klopt. Onze Google News-zoekterm "Equip" levert veel ruis op; het filter vangt het pas achteraf af.
+
+### Novateq
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| 4barsrest.com | Results: 2026 Siddis Championships | 8 nov | alleen Agility | ruis: Noorse brassbandwedstrijd, Novateq niet in de samenvatting | n.v.t. | n.v.t. | 9 nov 09:00:45 | n.v.t. |
+| 4barsrest.com | Live Wobplay coverage of Siddis Championships | 5 nov | alleen Agility | ruis: idem | n.v.t. | n.v.t. | 9 nov 09:00:45 | n.v.t. |
+
+Agility meldt beide titels twee keer; hier één keer geteld.
+
+### RISE Labs
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Tissue Pathology - Pathology News | Proscia: Choosing the Right Digital Pathology Platform: 7 Criteria for a Better Experience with Your AI Applications | 4 nov | alleen Agility | ruis: Engelstalig blogbericht van Proscia, niet over RISE Labs | n.v.t. | n.v.t. | 9 nov 09:00:45 | n.v.t. |
+
+### Ecoware
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| IDN Times | Kenapa Habis Hujan Jadi Ingin Makan Terus dan Cepat Lapar? | 3 nov | alleen Agility | ruis: Indonesisch, over eetlust na regen | n.v.t. | n.v.t. | 9 nov 09:00:45 | n.v.t. |
+
+### MIRhosting
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Dedoornenburger - Muziek | Ridderzaalconcert met Sofia Vasheruk | 6 nov | alleen Agility | onzeker: concertaankondiging, de samenvatting noemt MIRhosting niet (mogelijk als sponsor in de tekst); vermoedelijk ruis | gemist | n.v.t. | 9 nov 09:00:45 | n.v.t. |
+
+### Buiten de periode (wel nieuw gevonden sinds de vorige vergelijking, niet geteld)
+
+- Katapull — Dutch IT Leaders, "Katapull neemt warehouse-softwareleverancier Picqer over" (10 okt), google_news, gevonden 8 nov 14:59.
+- Drukwerkdeal — Centraal+, "Niet Amsterdam, maar Leiden is dé winkelstad van Nederland" (26 sep), wordpress, gevonden 7 nov 09:42; relevantie niet vastgesteld (klantnaam niet in de titel).
+- Equip — VVP online, "FFP Innovatie Award: veertien kanshebbers" (26 aug), wordpress, gevonden 7 nov 09:42.
+- Straight Line Leadership — 3 publicaties van 2 en 3 nov, gevonden 6 nov 11:07 (zie boven).
+
+### Totaal 9 november
+
+| | Agility | Wij |
+|---|---:|---:|
+| Relevant (zeker) | 0 | 3 |
+| Relevant, handmatig van Jennifer (apart) | n.v.t. | 0 |
+| Onzeker | 6 | 0 |
+| Ruis | 4 | 39 |
+| Gedeeld ("beide") | 0 | 0 |
+| Gedeelde publicaties die wij eerder hadden | n.v.t. | 0 van 0 |
+
+Onze ruis komt vrijwel helemaal van twee bronnen: de algemene Google News-term "Equip" (32) en het eigen nieuwskanaal van de HU (7). Bij Agility is alles wat vandaag gemeld werd ruis of onzeker.
+
 ## 6 november 2026
 
 **Agility-mail:** Daily PR Briefing - All Clients (6 nov 09:00:12). Geen maandagmail vandaag.

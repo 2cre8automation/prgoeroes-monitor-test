@@ -2,6 +2,20 @@
 
 Nieuwste punten bovenaan. Doorvoeren na beoordeling door Farrukh.
 
+## 2026-11-09
+
+### Hogeschool Utrecht — PropertyNL, CorporatieGids Magazine, NieuwsBreak, Drimble, The Headliner
+- **Titels:** CBRE: 18.000 studentenkamers tekort in 2034 (PropertyNL, 4 nov); Nieuwsupdate - 4 november (CorporatieGids Magazine, 4 nov); Kamernood studenten blijft torenhoog: over acht jaar nog 18.000 kamers te weinig (NieuwsBreak, Drimble, The Headliner, 3 nov)
+- **Oorzaak:** (a) PropertyNL, CorporatieGids, NieuwsBreak en The Headliner staan niet in onze bronnen (niet in data/runs.log). (b) Drimble wordt wel doorzocht (rechtstreeks en via Google News: 69 items, 17 relevant), maar het bericht matchte niet op "Hogeschool Utrecht". Vermoedelijk noemt het artikel de HU helemaal niet: het gaat om een CBRE-onderzoek over twaalf studentensteden en de samenvattingen in de Agility-mail noemen de HU niet. Dan is het ruis aan de kant van Agility.
+- **Voorgestelde oplossing:** eerst één artikel openen (bijvoorbeeld via de link in de weekmail van 9 nov) en controleren of de HU genoemd wordt. Zo niet: vervalt, telt als ruis voor Agility. Zo ja (bijvoorbeeld een HU-lector als bron): https://www.propertynl.com en https://www.nieuwsbreak.nl als bron toevoegen (route nog vaststellen: WordPress-zoekfunctie, RSS of sitemap; robots.txt controleren), en de naam van de geciteerde HU-woordvoerder als woordvoerder toevoegen. CorporatieGids Magazine en The Headliner zijn verzamelpagina's; alleen toevoegen als ze vaker de HU noemen. De url's zijn niet getest vanuit deze run.
+- **Status:** open
+
+### MIRhosting — Dedoornenburger
+- **Titel:** Ridderzaalconcert met Sofia Vasheruk (6 nov)
+- **Oorzaak:** (a) medium staat niet in onze bronnen (niet in data/runs.log). Onzeker of het artikel MIRhosting noemt; de samenvatting doet dat niet (mogelijk als sponsor of partner onderaan het artikel).
+- **Voorgestelde oplossing:** eerst het artikel openen via de link in de weekmail van 9 nov. Noemt het MIRhosting, voeg dan https://www.dedoornenburger.nl toe als bron (route nog vaststellen; url niet getest). Zo niet: vervalt, telt als ruis voor Agility.
+- **Status:** open
+
 ## 2026-11-05
 
 ### Drukwerkdeal — Fonk Magazine
