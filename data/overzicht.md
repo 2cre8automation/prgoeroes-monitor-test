@@ -1,6 +1,6 @@
 # Overzicht monitor
 
-Bijgewerkt: 2026-11-09 22:00 UTC
+Bijgewerkt: 2026-11-10 06:08 UTC
 
 | Klant | Lijst | Publicaties | Automatisch | Handmatig | Via Google News |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@ Bijgewerkt: 2026-11-09 22:00 UTC
 | Novateq | oud | 0 | 0 | 0 | 0 |
 | FlowQI | oud | 0 | 0 | 0 | 0 |
 | Equip | oud | 60 | 60 | 0 | 54 |
-| Hogeschool Utrecht | oud | 55 | 55 | 0 | 49 |
+| Hogeschool Utrecht | oud | 56 | 56 | 0 | 50 |
 | RISE Labs | oud | 0 | 0 | 0 | 0 |
 | MediKIT | oud | 3 | 3 | 0 | 3 |
 | FloraNL | oud | 0 | 0 | 0 | 0 |
@@ -154,6 +154,7 @@ Bijgewerkt: 2026-11-09 22:00 UTC
 
 ## Hogeschool Utrecht
 
+- 2026-11-10 — **Hogeschool Utrecht**: [Ik? Een cursist?](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VTi11TldQRmRNUjBGT0dyWkJSd0I3b3lqWFlDTC1sbmI1bmk1Rm5EUHRhVFZ1UnhNSFA5S3lISUFramlsRXk2eHFRY0RvN3N1?oc=5) _(google_news)_
 - 2026-11-09 — **Hogeschool Utrecht**: [Begroting HU: bijna 10 miljoen euro meer over dan verwacht dit jaar](https://news.google.com/rss/articles/CBMilgFBVV95cUxQNERCeE5Sa2V0bDBpR0Q0Z3gtNGEtUG5IZlNRLVB1ME9kSWkwOGVrU2lUUWJtNm9lbmhTcWFBY3FZeVloQnVScTJaS1VHbEJqb3BCMXNwRl9DYVVWeEpJbzBIdVFlQTRMY0xSWFUzYk4yTlBYLXhkT2RMYmxLS0Itc1czNGp4NjgzMXZlNkljajJjcEswSmc?oc=5) _(google_news)_
 - 2026-11-06 — **Hogeschool Utrecht**: [Student kan straks baanbrekend idee pitchen bij Defensie](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR2twVDVKQ09oTl9CTTBycnMycElmQzB0NmYyYjFSU0VjcWthUzNYYWgxbmRyTEY0blJkLUJZS0JuX2xvVlRpWnJpaDBLampUTmZ6MmRpUnpsZTNIVXdUR2pmTW9XbTZWWnRjM1VZeXBvYkc0RmxDLVozcFVqVFNaaTlTbmI0N2ct?oc=5) _(google_news)_
 - 2026-11-06 — **Hogeschool Utrecht**: [Tweede Kamer wil wegbezuinigde ambtenaren voor de klas zetten](https://news.google.com/rss/articles/CBMijwFBVV95cUxNeTF1TW80X1BDeGtwQWZFS2tTOW1IVEx6SmxDaEk5dVRVMi1MYVJtSVdjZ2tHZ2w2anV5TjdqaXZyc1djRXZzcjZEcEdaX2M0QUpYckxhNndsNG1OY2tzb1d3MFc0ZUhnNGMwNzBLejlfc2puck1Wd0hHTGRBTkM3Nl82ZEZIeTM1Y0dSMjJNSQ?oc=5) _(google_news)_
@@ -163,7 +164,6 @@ Bijgewerkt: 2026-11-09 22:00 UTC
 - 2026-11-03 — **Hogeschool Utrecht**: [Omar al-Bashir heeft ons gescheiden, broeder.](https://news.google.com/rss/articles/CBMid0FVX3lxTE03YWRTRXAzNWRsTjdNMTNOZnRKZnY1bUhDVTh1V0dVZUhPWE4zSTlYNk9DVmFGNXBfYng4Q2ZheW01NXJ5MVJkM1YxUHUzaHlINmcyYVBDejBsdEdDNnVWa2xEc2RIVG5zeFZKQmdsSGhKb3lITllJ?oc=5) _(google_news)_
 - 2026-11-02 — **Hogeschool Utrecht**: [Verleen je mantelzorg? Dan krijg je een extra toetskans aan de HU](https://news.google.com/rss/articles/CBMikwFBVV95cUxQSzR0VW5nQTlTeV9ubXdveFluU01INWhLbWJhN1dqN2h2dkJYeFd3Y0lYZEdjZjVrR3ROUEtrUk52ang1T1NvU0YtYU92MVFZLXFCSVFZdWdVNDl1Ti1XOVItY0VyQ2MwQjhNU3RHcjZlc3ZjejdXemlSdk5DNkM1b3dpWnF3WDFGNGNCSGtyMjN4emc?oc=5) _(google_news)_
 - 2026-11-02 — **Hogeschool Utrecht**: [Studieschuld blijft op hypotheek drukken, en dat vindt Nibud verstandig](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMy1rTnFEZGdHbXFwcWRYSmRxMTFyaEhlRTBlWnh3YTVfeGZyOUpGSjgzcUxBMWk2YURpMTllUDdDYlBkY3B3Um5EMUR5ckRkRDZOeXltdmhlZkluMFZMSjNXMW51Tk9VdjVNZzJLY1FUM1A3MldlWlczMXhCSHU4V0kydGdwaEpwNXJqSk9rb3FrTGFwS2FDVk5jQQ?oc=5) _(google_news)_
-- 2026-10-30 — **Hogeschool Utrecht**: [Eind van liedje: Renteplafond blijft, genoeg steun voor minister](https://news.google.com/rss/articles/CBMikAFBVV95cUxOVlBZbG1RWnlvZTV0X2YyN0FYNVZhT09tRFFpQklXTEx6ZEZRNlBXb1NadTZnSDg5ZUxiY3RTenROLXczdWVQMzRfbFRaS0Q2RkxOaklidmZsNmFVTzFJR3JyTjdNNE44akNJd0VnWFRvWEdpeXNlam9fYkVHOWFhdmZuWHhKV2JCNE1tTHAtclQ?oc=5) _(google_news)_
 
 ## MediKIT
 
