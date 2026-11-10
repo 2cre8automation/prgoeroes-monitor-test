@@ -2,6 +2,39 @@
 
 Nieuwste sectie bovenaan. Tijden in Nederlandse tijd.
 
+## 10 november 2026
+
+**Agility-mail:** Daily PR Briefing - All Clients (10 nov 09:00:05). Geen weekmail (dinsdag).
+**Periode:** vaste, losse en eigen klanten 7 t/m 10 nov (standaard 3 dagen).
+
+Stand: de dagmail meldt bij alle 13 vaste, losse en eigen klanten "No Relevant Content". Wij vonden in dezelfde periode 1 relevante publicatie die Agility niet meldt: het tweede Doors Open-artikel over Suzanne Mau-Asam, nu op Mediacontent.nu (9 nov, bij ons binnen op 9 nov 15:27, ruim 17 uur vóór de Agility-mail). Daarnaast 2 ruisregels van Hogeschool Utrecht (eigen kanaal, eerdere samenwerking, niet in de dagmail). Geen gedeelde publicaties, geen publicaties met methode "handmatig", geen nieuwe verbeterpunten.
+
+Open verbeterpunten blijven open: Fonk Magazine, PropertyNL en Dedoornenburger staan nog steeds niet in de bronnen (run van 10 nov 07:08).
+
+### Doors Open
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Mediacontent.nu | Suzanne Mau-Asam brengt boek over leiderschap en persoonlijke ontwikkeling naar Curaçao | 9 nov | alleen wij | relevant: gevonden op woordvoerder Suzanne Mau-Asam (zelfde onderwerp als Curaçao Chronicle 6 nov) | wordpress | 9 nov 15:27 | 10 nov 09:00:05 ("No Relevant Content") | ja, Agility meldt hem niet |
+
+### Hogeschool Utrecht
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Hogeschool Utrecht (eigen kanaal) | Begroting HU: bijna 10 miljoen euro meer over dan verwacht dit jaar | 9 nov | alleen wij | ruis: medium is de HU zelf, geen externe publicatie | google_news | 9 nov 15:27 | n.v.t. | n.v.t. (ruis) |
+| Hogeschool Utrecht (eigen kanaal) | Ik? Een cursist? | 10 nov | alleen wij | ruis: idem | google_news | 10 nov 07:08 | n.v.t. | n.v.t. (ruis) |
+
+Hogeschool Utrecht is een eerdere samenwerking en zit niet in de dagmail; dit zegt dus niets over Agility.
+
+### Totaal 10 november
+
+| | Agility | Wij |
+|---|---|---|
+| Relevante publicaties | 0 | 1 |
+| Ruis | 0 | 2 |
+| Gedeelde publicaties, door ons eerder gevonden | 0 van 0 | |
+| Handmatig (van Jennifer) | | 0 |
+
 ## 9 november 2026
 
 **Agility-mails:** Daily PR Briefing - All Clients (9 nov 09:00:37) en Daily Agility Briefing, wekelijkse update eerdere samenwerkingen (9 nov 09:00:45).
