@@ -2,6 +2,39 @@
 
 Nieuwste sectie bovenaan. Tijden in Nederlandse tijd.
 
+## 11 november 2026
+
+**Agility-mail:** Daily PR Briefing - All Clients (11 nov 09:00:05). Geen weekmail (woensdag).
+**Periode:** vaste, losse en eigen klanten 8 t/m 11 nov (standaard 3 dagen).
+
+Stand: de dagmail meldt bij alle 13 vaste, losse en eigen klanten "No Relevant Content". Wij hebben in deze periode 1 relevante publicatie die Agility niet meldt: het Doors Open-artikel over Suzanne Mau-Asam op Mediacontent.nu (9 nov). Die stond gisteren ook al in de vergelijking; Agility meldt hem ook vandaag niet. Er kwam sinds gisteren niets nieuws bij: de runs van 10 nov 15:24, 10 nov 22:55 en 11 nov 07:14 leverden 0 nieuwe publicaties op. Daarnaast 2 ruisregels van Hogeschool Utrecht (eigen kanaal, eerdere samenwerking, niet in de dagmail). Geen gedeelde publicaties, geen publicaties met methode "handmatig" en geen nieuwe verbeterpunten.
+
+Open verbeterpunten blijven open: Fonk Magazine, PropertyNL en Dedoornenburger staan nog steeds niet in de bronnen (run van 11 nov 07:14).
+
+### Doors Open
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Mediacontent.nu | Suzanne Mau-Asam brengt boek over leiderschap en persoonlijke ontwikkeling naar Curaçao | 9 nov | alleen wij | relevant: gevonden op woordvoerder Suzanne Mau-Asam (al gemeld op 10 nov) | wordpress | 9 nov 15:27 | 11 nov 09:00:05 ("No Relevant Content") | ja, Agility meldt hem niet |
+
+### Hogeschool Utrecht
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Hogeschool Utrecht (eigen kanaal) | Begroting HU: bijna 10 miljoen euro meer over dan verwacht dit jaar | 9 nov | alleen wij | ruis: medium is de HU zelf, geen externe publicatie | google_news | 9 nov 15:27 | n.v.t. | n.v.t. (ruis) |
+| Hogeschool Utrecht (eigen kanaal) | Ik? Een cursist? | 10 nov | alleen wij | ruis: idem | google_news | 10 nov 07:08 | n.v.t. | n.v.t. (ruis) |
+
+Hogeschool Utrecht is een eerdere samenwerking en zit niet in de dagmail; dit zegt dus niets over Agility. (Katapull, Dutch IT Leaders, werd 8 nov gevonden maar is gepubliceerd op 10 okt en valt buiten de periode.)
+
+### Totaal 11 november
+
+| | Agility | Wij |
+|---|---|---|
+| Relevante publicaties | 0 | 1 |
+| Ruis | 0 | 2 |
+| Gedeelde publicaties, door ons eerder gevonden | 0 van 0 | |
+| Handmatig (van Jennifer) | | 0 |
+
 ## 10 november 2026
 
 **Agility-mail:** Daily PR Briefing - All Clients (10 nov 09:00:05). Geen weekmail (dinsdag).
