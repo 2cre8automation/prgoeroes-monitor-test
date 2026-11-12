@@ -1,6 +1,6 @@
 # Overzicht monitor
 
-Bijgewerkt: 2026-11-12 06:17 UTC
+Bijgewerkt: 2026-11-12 14:26 UTC
 
 | Klant | Lijst | Publicaties | Automatisch | Handmatig | Via Google News |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@ Bijgewerkt: 2026-11-12 06:17 UTC
 | Novateq | oud | 0 | 0 | 0 | 0 |
 | FlowQI | oud | 0 | 0 | 0 | 0 |
 | Equip | oud | 60 | 60 | 0 | 54 |
-| Hogeschool Utrecht | oud | 57 | 57 | 0 | 51 |
+| Hogeschool Utrecht | oud | 58 | 58 | 0 | 52 |
 | RISE Labs | oud | 0 | 0 | 0 | 0 |
 | MediKIT | oud | 3 | 3 | 0 | 3 |
 | FloraNL | oud | 0 | 0 | 0 | 0 |
@@ -154,6 +154,7 @@ Bijgewerkt: 2026-11-12 06:17 UTC
 
 ## Hogeschool Utrecht
 
+- 2026-11-12 — **Hogeschool Utrecht**: [Nieuwe cao hogescholen: lonen stijgen met 3,5 procent](https://news.google.com/rss/articles/CBMiggFBVV95cUxQRER1Q055YkgwZkRjeVlMV2E3cGlUTThxUjBwTENGcEhvRFFpbS1OaWV4WGgtZDNRVVVYWEFYZ20wLVpvZV9ZNGRfUmdqZUVPOWhEWng3TmYybGduSTYwREp2a0V4RGs1Y3QzbVJKZm9BcHZGZS1lZThjSlZlV01QWlln?oc=5) _(google_news)_
 - 2026-11-11 — **Hogeschool Utrecht**: [HU, UU en UMCU maken samenwerken gemakkelijker](https://news.google.com/rss/articles/CBMiekFVX3lxTE1OaUtlM1hwZ01kNVNiT1lNajVGTTJjQW9JcWZTNjVlTWdZTFF4aG5HekpKMHczVElDa0YxTXNpRXlJNGw0WURuano2TnFRaGJKdk1NVEdCTnoxMFFXSFlTcmVMckhjNDNGYmx3MGdZZHVpSEg5V01xVjZ3?oc=5) _(google_news)_
 - 2026-11-10 — **Hogeschool Utrecht**: [Ik? Een cursist?](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VTi11TldQRmRNUjBGT0dyWkJSd0I3b3lqWFlDTC1sbmI1bmk1Rm5EUHRhVFZ1UnhNSFA5S3lISUFramlsRXk2eHFRY0RvN3N1?oc=5) _(google_news)_
 - 2026-11-09 — **Hogeschool Utrecht**: [Begroting HU: bijna 10 miljoen euro meer over dan verwacht dit jaar](https://news.google.com/rss/articles/CBMilgFBVV95cUxQNERCeE5Sa2V0bDBpR0Q0Z3gtNGEtUG5IZlNRLVB1ME9kSWkwOGVrU2lUUWJtNm9lbmhTcWFBY3FZeVloQnVScTJaS1VHbEJqb3BCMXNwRl9DYVVWeEpJbzBIdVFlQTRMY0xSWFUzYk4yTlBYLXhkT2RMYmxLS0Itc1czNGp4NjgzMXZlNkljajJjcEswSmc?oc=5) _(google_news)_
@@ -163,7 +164,6 @@ Bijgewerkt: 2026-11-12 06:17 UTC
 - 2026-11-05 — **Drimble**: [Nieuwe structuur bij Hogeschool Utrecht vermindert het aantal directeuren naar 10](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQal82NElnS3pCUER6V2gwZW9ndV9jYzFtc2pYZHRVM25vUkRkUHM0YllJOHZ6Vi1nU1pySXF5WndFTGhQRFNlSWV4UGFHUTRRVjlUOTRHRDAyMFVYRGp1Yy15aEVnNDM0V0lpV1VDZ3lpU1hQMmtXYkFhS3pac0o0QkxXdXhJMzA4QUZISlM0VXFJVVI0NDF4YVhQby1YMUs3dk9oTEx2bm90eHUzaFFhNEVZdTNZd1R6UzN2UG16V0JZR3dhZ1BETllEcXJDMWtTVjk0?oc=5) _(google_news)_
 - 2026-11-04 — **Hogeschool Utrecht**: [Tweede Kamer wil landelijke AI-strategie voor mbo en hoger onderwijs](https://news.google.com/rss/articles/CBMimAFBVV95cUxPS3E0NEtJV0hEOUtVd3VZM3lOTnFuRnRFMjEtRjJnX3BYeEwwWnRjOWpyNlJneGg3WjJZNW4xQXVqd2pZM3BKMDZmSE5ZZW00X1BxX09tTldhOHB6Q1g3eHZfNE1pc0ktS3lRU212bFYzNG1ZWU5qc09YSkxvRXFLNkxWSm9rRjlkZzgzOU1iV0NBUG54TEEtZw?oc=5) _(google_news)_
 - 2026-11-03 — **Hogeschool Utrecht**: [Omar al-Bashir heeft ons gescheiden, broeder.](https://news.google.com/rss/articles/CBMid0FVX3lxTE03YWRTRXAzNWRsTjdNMTNOZnRKZnY1bUhDVTh1V0dVZUhPWE4zSTlYNk9DVmFGNXBfYng4Q2ZheW01NXJ5MVJkM1YxUHUzaHlINmcyYVBDejBsdEdDNnVWa2xEc2RIVG5zeFZKQmdsSGhKb3lITllJ?oc=5) _(google_news)_
-- 2026-11-02 — **Hogeschool Utrecht**: [Verleen je mantelzorg? Dan krijg je een extra toetskans aan de HU](https://news.google.com/rss/articles/CBMikwFBVV95cUxQSzR0VW5nQTlTeV9ubXdveFluU01INWhLbWJhN1dqN2h2dkJYeFd3Y0lYZEdjZjVrR3ROUEtrUk52ang1T1NvU0YtYU92MVFZLXFCSVFZdWdVNDl1Ti1XOVItY0VyQ2MwQjhNU3RHcjZlc3ZjejdXemlSdk5DNkM1b3dpWnF3WDFGNGNCSGtyMjN4emc?oc=5) _(google_news)_
 
 ## MediKIT
 
