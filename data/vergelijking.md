@@ -2,6 +2,45 @@
 
 Nieuwste sectie bovenaan. Tijden in Nederlandse tijd.
 
+## 12 november 2026
+
+**Agility-mail:** Daily PR Briefing - All Clients (12 nov 09:00:18). Geen weekmail (donderdag).
+**Periode:** vaste, losse en eigen klanten 9 t/m 12 nov (standaard 3 dagen).
+
+Stand: Agility meldt vandaag 2 publicaties die wij niet hebben: een Papiamentstalig artikel over Suzanne Mau-Asam (Doors Open) op Extra Curaçao en een whiskyreview met een fles van Robbers & van den Hoogen op de blog Words of Whisky (beide 11 nov). Beide media staan niet in onze bronnen; zie data/verbeteringen.md. Wij hebben 1 relevante publicatie die Agility niet meldt: het Doors Open-artikel op Mediacontent.nu (9 nov; ook vandaag niet bij Agility). Daarnaast 3 ruisregels van Hogeschool Utrecht (eigen kanaal; eerdere samenwerking, niet in de dagmail), waarvan 1 nieuw sinds gisteren. Geen gedeelde publicaties en geen publicaties met methode "handmatig". De laatste run vóór de mail (12 nov 07:17) leverde 0 nieuwe publicaties op.
+
+### Doors Open
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Extra Curaçao | Suzanne Mau-Asam ta trese buki tokante liderato i desaroyo personal | 11 nov | alleen Agility | relevant: zelfde boekcampagne, in het Papiaments, op Curaçao | n.v.t. | n.v.t. | 12 nov 09:00:18 | n.v.t. (gemist, zie verbeterpunt) |
+| Mediacontent.nu | Suzanne Mau-Asam brengt boek over leiderschap en persoonlijke ontwikkeling naar Curaçao | 9 nov | alleen wij | relevant: gevonden op woordvoerder Suzanne Mau-Asam (al gemeld op 10 en 11 nov) | wordpress | 9 nov 15:27 | 12 nov 09:00:18 (meldt hem niet) | ja, Agility meldt hem niet |
+
+### Robbers & van den Hoogen
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Words of Whisky (blog, Thijs Klaverstijn) | 3x Glenrothes: Whisky Fair / Thompson Bros / RvdH | 11 nov | alleen Agility | relevant: Engelstalige review van een recente RvdH-bottling; de klantnaam staat in de tekst, in de titel alleen "RvdH" | n.v.t. | n.v.t. | 12 nov 09:00:18 | n.v.t. (gemist, zie verbeterpunt) |
+
+### Hogeschool Utrecht
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Hogeschool Utrecht (eigen kanaal) | Begroting HU: bijna 10 miljoen euro meer over dan verwacht dit jaar | 9 nov | alleen wij | ruis: medium is de HU zelf, geen externe publicatie | google_news | 9 nov 15:27 | n.v.t. | n.v.t. (ruis) |
+| Hogeschool Utrecht (eigen kanaal) | Ik? Een cursist? | 10 nov | alleen wij | ruis: idem | google_news | 10 nov 07:08 | n.v.t. | n.v.t. (ruis) |
+| Hogeschool Utrecht (eigen kanaal) | HU, UU en UMCU maken samenwerken gemakkelijker | 11 nov | alleen wij | ruis: idem (nieuw sinds gisteren) | google_news | 11 nov 15:27 | n.v.t. | n.v.t. (ruis) |
+
+Hogeschool Utrecht is een eerdere samenwerking en zit niet in de dagmail; dit zegt dus niets over Agility.
+
+### Totaal 12 november
+
+| | Agility | Wij |
+|---|---|---|
+| Relevante publicaties | 2 | 1 |
+| Ruis | 0 | 3 |
+| Gedeelde publicaties, door ons eerder gevonden | 0 van 0 | |
+| Handmatig (van Jennifer) | | 0 |
+
 ## 11 november 2026
 
 **Agility-mail:** Daily PR Briefing - All Clients (11 nov 09:00:05). Geen weekmail (woensdag).

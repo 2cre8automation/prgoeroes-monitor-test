@@ -2,6 +2,20 @@
 
 Nieuwste punten bovenaan. Doorvoeren na beoordeling door Farrukh.
 
+## 2026-11-12
+
+### Doors Open — Extra Curaçao
+- **Titel:** Suzanne Mau-Asam ta trese buki tokante liderato i desaroyo personal (11 nov)
+- **Oorzaak:** (a) medium staat niet in onze bronnen (niet in data/runs.log en niet in de bronnenlijst van de database). De zoekterm is niet het probleem: woordvoerder Suzanne Mau-Asam staat in de database en matcht op deze titel. Google News (57 items, 1 relevant in de run van 12 nov 07:17) bracht dit Papiamentstalige artikel niet mee.
+- **Voorgestelde oplossing:** https://extra.cw als bron toevoegen. Route nog vaststellen: eerst de WordPress-zoekfunctie proberen, anders RSS of sitemap; robots.txt controleren. De site was vanuit deze run niet te openen (proxy), dus url en route zijn niet getest. Overweeg daarna ook andere Curaçaose media voor deze campagne (Antilliaans Dagblad, Amigoe, Curaçao.nu), want daar landt de boekcampagne.
+- **Status:** open
+
+### Robbers & van den Hoogen — Words of Whisky
+- **Titel:** 3x Glenrothes: Whisky Fair / Thompson Bros / RvdH (11 nov)
+- **Oorzaak:** (a) medium staat niet in onze bronnen (niet in data/runs.log en niet in de bronnenlijst). Let op: de titel noemt alleen "RvdH"; de volledige naam staat in de tekst ("Dutch bottler Robbers & van den Hoogen"). Een bron met alleen de titel (sitemap, Google News) vindt hem dus niet; de WordPress-zoekfunctie of RSS met samenvatting wel. Google News: 12 items, 0 relevant.
+- **Voorgestelde oplossing:** https://wordsofwhisky.com als bron toevoegen, bij voorkeur via de WordPress-zoekfunctie (zoekt in de tekst), anders RSS (/feed/). Niet getest: de site was vanuit deze run niet te openen. "RvdH" niet als zoekterm toevoegen (te dubbelzinnig). Overweeg ook andere whiskyblogs/-media waar RvdH-bottlings besproken worden (bijv. Whiskybase-nieuws, Whisky Notes), na beoordeling.
+- **Status:** open
+
 ## 2026-11-09
 
 ### Hogeschool Utrecht — PropertyNL, CorporatieGids Magazine, NieuwsBreak, Drimble, The Headliner
