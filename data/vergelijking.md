@@ -2,6 +2,40 @@
 
 Nieuwste sectie bovenaan. Tijden in Nederlandse tijd.
 
+## 13 november 2026
+
+**Agility-mail:** Daily PR Briefing - All Clients (13 nov 09:00:18). Geen weekmail (vrijdag).
+**Periode:** vaste, losse en eigen klanten 10 t/m 13 nov (standaard 3 dagen).
+
+Stand: Agility meldt vandaag 1 vermelding, bij Verdi Fit: een Turks artikel op CNN Türk over actrice Bergüzar Korel ("20 kilo verdi! Fit haliyle…"). Dat is ruis: "verdi" is Turks voor "verloor" en "fit" is een bijvoeglijk naamwoord; het gaat niet over de klant. Alle andere 12 klanten: "No Relevant Content". Wij hebben in deze periode geen relevante publicaties; het Doors Open-artikel op Mediacontent.nu (9 nov) valt nu buiten de periode. Daarnaast 3 ruisregels van Hogeschool Utrecht (eigen kanaal; eerdere samenwerking, niet in de dagmail), waarvan 1 nieuw sinds gisteren (cao-bericht, 12 nov). Geen gedeelde publicaties, geen publicaties met methode "handmatig" en geen nieuwe verbeterpunten. De laatste run vóór de mail (13 nov 07:16) leverde 0 nieuwe publicaties op.
+
+Open verbeterpunten blijven open: Extra Curaçao, Words of Whisky, Fonk Magazine, PropertyNL en Dedoornenburger staan nog niet in de bronnen (run van 13 nov 07:16).
+
+### Verdi Fit
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| CNN Türk | 13. 16 Bergüzar Korel 20 kilo verdi! Fit haliyle dikkat çekti | 12 nov | alleen Agility | ruis: Turks artikel over een actrice; "verdi" (verloor) en "fit" zijn gewone Turkse/Engelse woorden, geen verwijzing naar Verdi Fit | n.v.t. | n.v.t. | 13 nov 09:00:18 | n.v.t. (ruis, terecht niet gevonden) |
+
+### Hogeschool Utrecht
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Hogeschool Utrecht (eigen kanaal) | Ik? Een cursist? | 10 nov | alleen wij | ruis: medium is de HU zelf, geen externe publicatie | google_news | 10 nov 07:08 | n.v.t. | n.v.t. (ruis) |
+| Hogeschool Utrecht (eigen kanaal) | HU, UU en UMCU maken samenwerken gemakkelijker | 11 nov | alleen wij | ruis: idem | google_news | 11 nov 15:27 | n.v.t. | n.v.t. (ruis) |
+| Hogeschool Utrecht (eigen kanaal) | Nieuwe cao hogescholen: lonen stijgen met 3,5 procent | 12 nov | alleen wij | ruis: idem (nieuw sinds gisteren) | google_news | 12 nov 15:26 | n.v.t. | n.v.t. (ruis) |
+
+Hogeschool Utrecht is een eerdere samenwerking en zit niet in de dagmail; dit zegt dus niets over Agility.
+
+### Totaal 13 november
+
+| | Agility | Wij |
+|---|---|---|
+| Relevante publicaties | 0 | 0 |
+| Ruis | 1 | 3 |
+| Gedeelde publicaties, door ons eerder gevonden | 0 van 0 | |
+| Handmatig (van Jennifer) | | 0 |
+
 ## 12 november 2026
 
 **Agility-mail:** Daily PR Briefing - All Clients (12 nov 09:00:18). Geen weekmail (donderdag).
