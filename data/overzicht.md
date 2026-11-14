@@ -1,6 +1,6 @@
 # Overzicht monitor
 
-Bijgewerkt: 2026-11-14 14:03 UTC
+Bijgewerkt: 2026-11-14 21:52 UTC
 
 | Klant | Lijst | Publicaties | Automatisch | Handmatig | Via Google News |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@ Bijgewerkt: 2026-11-14 14:03 UTC
 | Novateq | oud | 0 | 0 | 0 | 0 |
 | FlowQI | oud | 0 | 0 | 0 | 0 |
 | Equip | oud | 61 | 61 | 0 | 54 |
-| Hogeschool Utrecht | oud | 62 | 62 | 0 | 56 |
+| Hogeschool Utrecht | oud | 63 | 63 | 0 | 57 |
 | RISE Labs | oud | 0 | 0 | 0 | 0 |
 | MediKIT | oud | 3 | 3 | 0 | 3 |
 | FloraNL | oud | 0 | 0 | 0 | 0 |
