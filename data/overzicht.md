@@ -1,6 +1,6 @@
 # Overzicht monitor
 
-Bijgewerkt: 2026-11-14 21:52 UTC
+Bijgewerkt: 2026-11-15 06:06 UTC
 
 | Klant | Lijst | Publicaties | Automatisch | Handmatig | Via Google News |
 |---|---|---|---|---|---|
