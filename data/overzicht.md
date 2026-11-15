@@ -1,6 +1,6 @@
 # Overzicht monitor
 
-Bijgewerkt: 2026-11-15 06:06 UTC
+Bijgewerkt: 2026-11-15 14:05 UTC
 
 | Klant | Lijst | Publicaties | Automatisch | Handmatig | Via Google News |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@ Bijgewerkt: 2026-11-15 06:06 UTC
 | Multitint | los | 2 | 2 | 0 | 1 |
 | ECO NV | los | 0 | 0 | 0 | 0 |
 | PR Goeroes | eigen | 5 | 5 | 0 | 2 |
-| Jennifer Delano | eigen | 4 | 4 | 0 | 0 |
+| Jennifer Delano | eigen | 5 | 4 | 1 | 0 |
 | Nee zeggen loont | eigen | 0 | 0 | 0 | 0 |
 | John Barzilaij | oud | 5 | 5 | 0 | 0 |
 | Waarderen.nl | oud | 3 | 3 | 0 | 0 |
@@ -120,6 +120,7 @@ Bijgewerkt: 2026-11-15 06:06 UTC
 
 ## Jennifer Delano
 
+- 2026-11-12 — **De Telegraaf**: [Wilfred Genee maakt een ware VI-show van ondernemersgala: 'U bent hartstikke goed'](https://www.telegraaf.nl/financieel/journaal/wilfred-genee-maakt-een-ware-vi-show-van-ondernemersgala-u-bent-hartstikke-goed/164414374.html) _(handmatig)_
 - 2026-11-04 — **Wees Meer**: [‘Het genereren van een lead is één ding, maar het bouwen van een positieve reputatie is iets heel anders’](https://weesmeer.nl/het-genereren-van-een-lead-is-een-ding-maar-het-bouwen-van-een-positieve-reputatie-is-iets-heel-anders/) _(wordpress)_
 - 2026-10-27 — **Wees Meer**: [Het verplaatsen van een icoon: hoe Museum Batavialand met een spectaculaire marketingoperatie records verbreekt](https://weesmeer.nl/het-verplaatsen-van-een-icoon-hoe-museum-batavialand-met-een-spectaculaire-marketingoperatie-records-verbreekt/) _(wordpress)_
 - 2026-10-07 — **Wees Meer**: [Wendel Schulp (Aegon): ‘Van groene letters naar ‘happy longevity’: hoe de marketingwereld fundamenteel veranderde’](https://weesmeer.nl/wendel-schulp-aegon-van-groene-letters-naar-happy-longevity-hoe-de-marketingwereld-fundamenteel-veranderde/) _(wordpress)_
