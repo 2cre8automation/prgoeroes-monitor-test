@@ -99,6 +99,17 @@ function robotsDisallows(robots: string, path: string) {
 }
 
 export async function detectSource(input: string) {
+  // Google Alert met bezorging als RSS-feed: één feed met vermeldingen uit alle media, ook achter betaalmuren
+  const ga = input.trim().match(/^https?:\/\/(?:www\.)?google\.[a-z.]+\/alerts\/feeds\/(\d+)\/(\d+)/);
+  if (ga) {
+    const feed = await fetchText(input.trim());
+    if (feed.status !== 200 || !/<feed[\s>]/.test(feed.text)) {
+      return { ok: false, reden: "Deze Google Alert-feed is niet bereikbaar. Staat 'Bezorgen bij' op 'RSS-feed'?" };
+    }
+    const name = (feed.text.match(/<title>Google (?:Alert|Melding) - ([^<]+)<\/title>/) || [])[1] || ga[2];
+    return { ok: true, type: "rss", url: input.trim(), domain: `google-alerts/${ga[2]}`, outlet: `Google Alerts: ${name}`,
+      reden: "Google Alert-feed: vermeldingen uit alle media, ook uit de tekst achter betaalmuren" };
+  }
   const domain = domainOf(input);
   if (!domain) return { ok: false, reden: "Ongeldige link of domein" };
   let base = `https://www.${domain}`;
@@ -248,7 +259,7 @@ export const tools: Tool[] = [
   },
   {
     name: "bron_toevoegen",
-    description: "Laat een nieuw medium (website) voortaan automatisch doorzoeken. Onderzoekt zelf de beste route: WordPress-zoekfunctie, RSS-feed of sitemap, en respecteert robots.txt.",
+    description: "Laat een nieuw medium (website) voortaan automatisch doorzoeken. Onderzoekt zelf de beste route: WordPress-zoekfunctie, RSS-feed of sitemap, en respecteert robots.txt. Werkt ook met de feedlink van een Google Alert (bezorging als RSS-feed).",
     inputSchema: { type: "object", required: ["url"], properties: { url: str("Link naar de site of een artikel erop"), naam: str("Optioneel: naam van het medium") } },
     async run(db, a) {
       const d = await detectSource(a.url);

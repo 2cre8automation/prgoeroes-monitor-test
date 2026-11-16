@@ -238,19 +238,84 @@ def search_google_news(client, since, log):
 _feed_cache = {}
 
 
+_ATOM = "{http://www.w3.org/2005/Atom}"
+DOMAIN_OUTLET = {}  # domein -> mediumnaam (uit bronnen en mediatabel), voor feeds die alleen een link geven
+
+
+def outlet_for(link):
+    host = (urllib.parse.urlparse(link).hostname or "").lower()
+    host = host[4:] if host.startswith("www.") else host
+    parts = host.split(".")
+    for i in range(len(parts) - 1):
+        d = ".".join(parts[i:])
+        if d in DOMAIN_OUTLET:
+            return DOMAIN_OUTLET[d]
+    return host
+
+
+def unwrap_google(link):
+    """Google Alerts verpakt links als google.com/url?...&url=ECHT; haal de echte link eruit."""
+    p = urllib.parse.urlparse(link)
+    if (p.hostname or "").endswith("google.com") and p.path == "/url":
+        real = urllib.parse.parse_qs(p.query).get("url", [""])[0]
+        if real:
+            return real
+    return link
+
+
+def search_atom(source, client, since, log, entries):
+    """Atom-feed, zoals een Google Alert met bezorging als RSS-feed. De tekstfragmenten
+    komen ook uit artikelen achter een betaalmuur, dus daar vinden we vermeldingen in de lopende tekst."""
+    hits = []
+    alerts = "google.com/alerts" in source["url"]
+    for e in entries:
+        title = strip_tags(e.findtext(f"{_ATOM}title", ""))
+        text = title + " " + strip_tags(e.findtext(f"{_ATOM}content", "") or e.findtext(f"{_ATOM}summary", ""))
+        matched = match_client(client, text)
+        if not matched:
+            continue
+        published = ""
+        raw = e.findtext(f"{_ATOM}published", "") or e.findtext(f"{_ATOM}updated", "")
+        if raw:
+            try:
+                pub = datetime.fromisoformat(raw.replace("Z", "+00:00"))
+                if pub < since:
+                    continue
+                published = pub.date().isoformat()
+            except ValueError:
+                published = norm_date(raw)
+        le = e.find(f"{_ATOM}link")
+        link = unwrap_google((le.get("href") if le is not None else "") or "")
+        if not link:
+            continue
+        hits.append({
+            "client": client["name"], "outlet": outlet_for(link) if alerts else source["outlet"],
+            "title": title, "url": link, "published": published,
+            "method": "google_alerts" if alerts else "rss",
+            "kind": source.get("kind", ""), "matched_on": matched,
+        })
+    log.append(f"{source['outlet']}: atom-feed met {len(entries)} items, {len(hits)} relevant ({client['name']})")
+    return hits
+
+
 def search_rss(source, client, since, log):
-    """Gewone RSS-feed van een site: titel + beschrijving doorzoeken."""
+    """RSS- of Atom-feed: titel + beschrijving doorzoeken."""
     hits = []
     url = source["url"]
     if url not in _feed_cache:
         try:
-            _feed_cache[url] = ET.fromstring(fetch(url)).findall(".//item")
+            root = ET.fromstring(fetch(url))
+            entries = root.findall(f".//{_ATOM}entry")
+            _feed_cache[url] = ("atom", entries) if entries or root.tag == f"{_ATOM}feed" else ("rss", root.findall(".//item"))
         except Exception as e:
             _feed_cache[url] = None
             log.append(f"{source['outlet']}: feed-fout ({type(e).__name__})")
-    items = _feed_cache[url]
-    if items is None:
+    cached = _feed_cache[url]
+    if cached is None:
         return hits
+    kind, items = cached
+    if kind == "atom":
+        return search_atom(source, client, since, log, items)
     for it in items:
         title = strip_tags(it.findtext("title", ""))
         title = re.sub(r"^Persbericht:\s*", "", title)
@@ -408,6 +473,12 @@ def load_from_db(cfg):
                           for s in sources if s["type"] == "rss"]
     cfg["sitemap_sources"] = [{"outlet": s["outlet"], "index": s["url"]}
                               for s in sources if s["type"] == "sitemap"]
+    for s_ in sources:
+        if s_.get("domain") and "/" not in s_["domain"]:
+            DOMAIN_OUTLET[s_["domain"].lower().removeprefix("www.")] = s_["outlet"]
+    for m_ in supa.select("media", select="outlet,domain"):
+        if m_.get("domain"):
+            DOMAIN_OUTLET[m_["domain"].lower().removeprefix("www.")] = m_["outlet"]
     names = {c["id"]: c["name"] for c in clients}
     existing = []
     for m in supa.select("mentions", select="id,client_id,outlet,title,url,published,method,kind,matched_on,found_at"):
