@@ -2,6 +2,65 @@
 
 Nieuwste sectie bovenaan. Tijden in Nederlandse tijd.
 
+## 16 november 2026
+
+**Agility-mails:** Daily PR Briefing - All Clients (16 nov 09:00:08) en Daily Agility Briefing, wekelijkse update eerdere samenwerkingen (16 nov 09:00:09).
+**Periode:** vaste, losse en eigen klanten 13 t/m 16 nov (standaard 3 dagen); eerdere samenwerkingen 9 t/m 16 nov (de weekmail dekt die periode).
+
+Stand: Agility meldt vandaag 7 vermeldingen, allemaal ruis. In de dagmail: 2 Turkse artikelen in Posta over Çağla Şıkel bij Verdi Fit ("fit görüntüsü" = fit uiterlijk). In de weekmail: 2 brassband-uitslagen op 4barsrest.com bij Novateq (een daarvan twee keer gemeld), een UKrant-column over de open dag van de RUG bij Hogeschool Utrecht, en 2 artikelen op Headliner.nl over een Turks fondsenschandaal bij INSIFR. Wij vonden 2 relevante publicaties die Agility niet meldt. De duidelijkste is **Equip in VVP online: "Penny van Equip wint PensioenWegwijzer 2026"** (13 nov). Wij vonden hem op 13 nov 15:26 via de WordPress-zoekfunctie; de weekmail van vandaag meldt Equip als "No Relevant Content". Er zijn geen gedeelde publicaties en in de periode geen publicaties met methode "handmatig". De laatste run vóór de mails (16 nov 07:46) leverde 0 nieuwe publicaties op.
+
+Buiten de periode, ter informatie: Jennifer voegde op 15 nov 13:29 handmatig De Telegraaf toe ("Wilfred Genee maakt een ware VI-show van ondernemersgala: 'U bent hartstikke goed'", 12 nov). Die publicatie meldde Agility niet, niet op 13 nov en niet vandaag. Onze monitor vond hem ook niet zelf; daarom staat hij als verbeterpunt in data/verbeteringen.md. Hij telt niet mee in de stand. Ook buiten de periode: h2owaternetwerk.nl, "Hogeschool Utrecht en KWR zetten samenwerking voort" (30 aug, google_news, pas gevonden 14 nov 22:52).
+
+Open verbeterpunten blijven open: Extra Curaçao, Words of Whisky, Fonk Magazine, PropertyNL en Dedoornenburger staan nog niet in de bronnen (run van 16 nov 07:46).
+
+Beperking: Agility-links lopen via een klikteller en zijn bewust niet aangeklikt. Beoordeling op titel, samenvatting en bron.
+
+### Verdi Fit
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Posta | Çağla Şıkel yeniden ringlere döndü! 'Podyumdan sonra en sevdiğim yer' | 16 nov | alleen Agility | ruis: Turks artikel over presentatrice Çağla Şıkel; "fit" is hier een bijvoeglijk naamwoord | n.v.t. | n.v.t. | 16 nov 09:00:08 | n.v.t. |
+| Posta | Ringlere hızlı döndü | 16 nov | alleen Agility | ruis: zelfde onderwerp | n.v.t. | n.v.t. | 16 nov 09:00:08 | n.v.t. |
+
+### Equip
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| VVP online | Penny van Equip wint PensioenWegwijzer 2026 | 13 nov | alleen wij | relevant: Penny is een product van Equip, de klantnaam staat in de titel | wordpress | 13 nov 15:26 | 16 nov 09:00:09 ("No Relevant Content") | Agility meldt hem niet |
+
+### Hogeschool Utrecht
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Drimble | Wereldwijde Microsoft-storing treft ook Hogeschool Utrecht | 13 nov | alleen wij | relevant: gaat over de HU zelf (aggregator; nieuws, geen PR-plaatsing) | google_news | 14 nov 07:02 | 16 nov 09:00:09 (niet gemeld) | Agility meldt hem niet |
+| UKrant | De Paus en Gerrit Breeuwsma kennen hun klassiekers | 11 nov | alleen Agility | ruis: column over de open dag van de RUG in Groningen; de HU staat niet in de samenvatting | n.v.t. | n.v.t. | 16 nov 09:00:09 | n.v.t. |
+| Hogeschool Utrecht (eigen kanaal) | 7 berichten: Begroting HU: bijna 10 miljoen euro meer over… (9 nov); Ik? Een cursist? (10 nov); HU, UU en UMCU maken samenwerken gemakkelijker (11 nov); Nieuwe cao hogescholen… (12 nov); Wereldwijde Microsoft-storing treft ook Hogeschool Utrecht, Hoe zorgen we ervoor dat die klas vol blijft?, Basisbeurs gaat met 50 euro omhoog… (13 nov) | 9–13 nov | alleen wij | ruis (7×): medium is de HU zelf, geen externe publicatie | google_news | 9 nov 15:27 t/m 13 nov 22:59 | n.v.t. | n.v.t. (ruis) |
+
+### Novateq
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| 4barsrest.com | Result: 2026 Youth Brass in Concert Championship | 15 nov | alleen Agility | ruis: brassband-uitslag (jurylid Erik Janssen), Novateq niet in de samenvatting | n.v.t. | n.v.t. | 16 nov 09:00:09 | n.v.t. |
+| 4barsrest.com | Result: 2026 Brass in Concert Championship | 14 nov | alleen Agility | ruis: idem | n.v.t. | n.v.t. | 16 nov 09:00:09 | n.v.t. |
+
+Agility meldt de Youth-titel twee keer; hier één keer geteld. Dit is de derde week op rij met 4barsrest-ruis bij Novateq.
+
+### INSIFR
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Headliner.nl | Turkse bankentoezichthouder biedt ontslag aan na uitbreiding fondsmanipulatieschandaal | 11 nov | alleen Agility | vermoedelijk ruis: Turks marktmanipulatieonderzoek, INSIFR niet in de samenvatting | n.v.t. | n.v.t. | 16 nov 09:00:09 | n.v.t. |
+| Headliner.nl | Turkije houdt voormalig Takasbank-topman aan te midden van breder onderzoek naar marktmanipulatie | 11 nov | alleen Agility | vermoedelijk ruis: zelfde onderwerp | n.v.t. | n.v.t. | 16 nov 09:00:09 | n.v.t. |
+
+### Totaal 16 november
+
+| | Agility | Wij |
+|---|---|---|
+| Relevante publicaties | 0 | 2 (Equip/VVP online, HU/Drimble) |
+| Ruis | 7 (Verdi Fit 2, Novateq 2, HU 1, INSIFR 2) | 7 (HU eigen kanaal) |
+| Gedeelde publicaties | 0 | 0, dus ook 0 eerder dan Agility |
+| Handmatig (van Jennifer) | n.v.t. | 0 in de periode (1 erbuiten: De Telegraaf, 12 nov) |
+
 ## 13 november 2026
 
 **Agility-mail:** Daily PR Briefing - All Clients (13 nov 09:00:18). Geen weekmail (vrijdag).

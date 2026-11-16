@@ -2,6 +2,16 @@
 
 Nieuwste punten bovenaan. Doorvoeren na beoordeling door Farrukh.
 
+## 2026-11-16
+
+Geen relevante publicaties die alleen Agility had (alle 7 Agility-vermeldingen zijn ruis). Eén punt uit een handmatige toevoeging van Jennifer, die Agility ook miste:
+
+### Jennifer Delano — De Telegraaf
+- **Titel:** Wilfred Genee maakt een ware VI-show van ondernemersgala: 'U bent hartstikke goed' (12 nov; door Jennifer handmatig toegevoegd op 15 nov; niet gemeld door Agility)
+- **Oorzaak:** (a) en (c). De Telegraaf staat niet in onze bronnen (0 keer in data/runs.log). Google News zoekt wel op "Jennifer Delano" (18-19 items per run, 0 relevant), maar bracht dit artikel niet mee. Vermoedelijk staat haar naam alleen in de tekst achter de betaalmuur, niet in titel of samenvatting.
+- **Voorgestelde oplossing:** de Telegraaf-RSS (https://www.telegraaf.nl/rss) als bron proberen. Die toont alleen titel en intro, dus dit soort vermeldingen in de tekst vindt hij waarschijnlijk niet. Werkt dat niet: alleen handmatig of via een betaalde bron mogelijk. Telegraaf-vermeldingen blijven dan via Jennifer binnenkomen (publicatie_toevoegen).
+- **Status:** open
+
 ## 2026-11-12
 
 ### Doors Open — Extra Curaçao
