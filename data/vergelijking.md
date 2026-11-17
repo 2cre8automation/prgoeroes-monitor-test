@@ -2,6 +2,41 @@
 
 Nieuwste sectie bovenaan. Tijden in Nederlandse tijd.
 
+## 17 november 2026
+
+**Agility-mail:** Daily PR Briefing - All Clients (17 nov 09:00:45). Geen weekmail vandaag (alleen op maandag).
+**Periode:** 14 t/m 17 nov (standaard 3 dagen). De dagmail dekt de vaste, losse en eigen klanten.
+
+Stand: Agility meldt vandaag bij alle 13 klanten in de mail "No Relevant Content": 0 publicaties, 0 ruis. Wij vonden in de periode 3 publicaties, alle drie zelf (wordpress) en geen ruis. Twee daarvan zijn van **Jennifer Delano op Wees Meer** (16 nov), gevonden op 16 nov 16:53, ruim 16 uur vóór de Agility-mail die voor Jennifer "No Relevant Content" meldt. Haar naam staat in de artikeltekst, niet in de titel; de artikelen waren vanuit deze run niet te openen, dus de beoordeling blijft "mogelijk relevant". De derde is Equip in VVP online (16 nov); Equip staat op de lijst eerdere samenwerkingen en zit niet in de dagmail, dus die zegt niets over Agility. Geen gedeelde publicaties en geen publicaties met methode "handmatig" in de periode.
+
+Let op: Aspyre staat in de database als vaste klant, maar heeft geen sectie in de Agility-dagmail. In de periode vonden wij voor Aspyre niets nieuws.
+
+Open verbeterpunten blijven open: De Telegraaf, Extra Curaçao, Words of Whisky, Fonk Magazine, PropertyNL en Dedoornenburger staan nog niet in de bronnen (run van 17 nov 07:16).
+
+Beperking: de Wees Meer- en VVP-artikelen zijn niet gelezen (geen toegang vanuit deze run); beoordeling op titel, bron en zoekmatch.
+
+### Jennifer Delano
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Wees Meer | Helen Brunemann (Smaile): ‘Met AI kan ik vier tot vijf keer zoveel werk verzetten’ | 16 nov | alleen wij | mogelijk relevant: WordPress-zoekfunctie matcht "Jennifer Delano" in de tekst, niet in de titel; artikel niet gelezen | wordpress | 16 nov 16:53 | 17 nov 09:00:45 ("No Relevant Content") | Ja, 16 uur vóór de mail; Agility meldt hem niet |
+| Wees Meer | De uitdaging van Alex Hartnack (NextEnergy): ‘Binnen een jaar het Coolblue-belletje laten rinkelen’ | 16 nov | alleen wij | mogelijk relevant: idem | wordpress | 16 nov 16:53 | 17 nov 09:00:45 ("No Relevant Content") | Ja, 16 uur vóór de mail; Agility meldt hem niet |
+
+### Equip (eerdere samenwerking, niet in de dagmail)
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| VVP online | Adviesalerts! innovatieve producten | 16 nov | alleen wij | mogelijk relevant: vakblad voor financieel adviseurs, Equip (o.a. Penny) valt in dit veld; "Equip" staat niet in de titel; artikel niet gelezen | wordpress | 17 nov 07:16 | n.v.t. (klant niet in de dagmail; volgende weekmail 23 nov) | n.v.t. |
+
+### Totaal 17 november
+
+| | Agility | Wij |
+|---|---|---|
+| Relevante publicaties | 0 | 3 mogelijk relevant (Jennifer Delano/Wees Meer 2, Equip/VVP online 1) |
+| Ruis | 0 | 0 |
+| Gedeelde publicaties, wij eerder | 0 van 0 | |
+| Handmatig (Jennifer) | | 0 |
+
 ## 16 november 2026
 
 **Agility-mails:** Daily PR Briefing - All Clients (16 nov 09:00:08) en Daily Agility Briefing, wekelijkse update eerdere samenwerkingen (16 nov 09:00:09).
