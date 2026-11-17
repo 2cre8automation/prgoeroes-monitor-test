@@ -1,18 +1,18 @@
 # Overzicht monitor
 
-Bijgewerkt: 2026-11-17 06:16 UTC
+Bijgewerkt: 2026-11-17 14:28 UTC
 
 | Klant | Lijst | Publicaties | Automatisch | Handmatig | Via Google News |
 |---|---|---|---|---|---|
-| Aspyre | vast | 18 | 16 | 2 | 5 |
+| Aspyre | vast | 19 | 17 | 2 | 6 |
 | Katapull | vast | 23 | 22 | 1 | 11 |
 | Drukwerkdeal | vast | 11 | 11 | 0 | 2 |
 | Straight Line Leadership | vast | 3 | 3 | 0 | 0 |
-| Machiel Hoek | vast | 0 | 0 | 0 | 0 |
+| Machiel Hoek | vast | 1 | 1 | 0 | 1 |
 | Verdi Fit | vast | 3 | 3 | 0 | 0 |
 | Doors Open | vast | 86 | 86 | 0 | 85 |
 | TAB | vast | 0 | 0 | 0 | 0 |
-| Robbers & van den Hoogen | los | 1 | 1 | 0 | 0 |
+| Robbers & van den Hoogen | los | 2 | 2 | 0 | 0 |
 | Multitint | los | 2 | 2 | 0 | 1 |
 | ECO NV | los | 0 | 0 | 0 | 0 |
 | PR Goeroes | eigen | 5 | 5 | 0 | 2 |
@@ -22,8 +22,8 @@ Bijgewerkt: 2026-11-17 06:16 UTC
 | Waarderen.nl | oud | 3 | 3 | 0 | 0 |
 | Novateq | oud | 0 | 0 | 0 | 0 |
 | FlowQI | oud | 0 | 0 | 0 | 0 |
-| Equip | oud | 62 | 62 | 0 | 54 |
-| Hogeschool Utrecht | oud | 63 | 63 | 0 | 57 |
+| Equip | oud | 63 | 63 | 0 | 55 |
+| Hogeschool Utrecht | oud | 64 | 64 | 0 | 58 |
 | RISE Labs | oud | 0 | 0 | 0 | 0 |
 | MediKIT | oud | 3 | 3 | 0 | 3 |
 | FloraNL | oud | 0 | 0 | 0 | 0 |
@@ -82,6 +82,10 @@ Bijgewerkt: 2026-11-17 06:16 UTC
 - 2026-11-03 — **Wees Meer**: [Straight-Line Leadership geeft 1 miljoen boeken weg aan ondernemers](https://weesmeer.nl/straight-line-leadership-geeft-1-miljoen-boeken-weg-aan-ondernemers/) _(wordpress)_
 - 2026-11-02 — **Mediacontent.nu**: [Straight-Line Leadership geeft 1 miljoen boeken weg aan ondernemers](https://mediacontent.nu/straight-line-leadership-geeft-1-miljoen-boeken-weg-aan-ondernemers/) _(wordpress)_
 
+## Machiel Hoek
+
+- 2026-11-17 — **Trouw**: [Machiel Hoek verbrandde al zijn schepen achter zich: ‘Een innerlijke stem zei: ga doen waar je van droomt’](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWmM5Y21uajRNMHBqMDJ6ZmZXRFI2WS1iVGZseUM1Q1I2Tm1tRG92SjFHVS1GMzE2cjhpZ2FiWE9hV2dtQ3hTNFdxUnZRd3JpcW85cjV4WXlEODYtMUNvU2xXUjNwNEh1T1RaZGliZGsybXF5cnp3ZUpNVUkxRkRpZ19CSUJsVVhMQVRaZl8tQVVBdXdfc1Rtc3hnYWI4X19pY25LbTRjTGcta1plRHlSQk1vS202cXdCR1g1YjA1cTZqZms0dS14OUFNUHhMOW1KNjVqeksyN3ZPTE0?oc=5) _(google_news)_
+
 ## Verdi Fit
 
 - 2026-09-29 — **Wees Meer**: [Verdi Groep lanceert Verdi Pro: van losse vitaliteitsinterventies naar samenhangende aanpak](https://weesmeer.nl/verdi-groep-lanceert-verdi-pro-van-losse-vitaliteitsinterventies-naar-samenhangende-aanpak/) _(wordpress)_
@@ -103,6 +107,7 @@ Bijgewerkt: 2026-11-17 06:16 UTC
 
 ## Robbers & van den Hoogen
 
+- 2026-11-17 — **Twinkle**: [Nieuw in de markt: Robbers & Van den Hoogen](https://twinklemagazine.nl/2026/11/nieuw-in-de-markt-robbers-van-den-hoogen/index.xml) _(rss)_
 - 2026-10-06 — **Wees Meer**: [Enthousiaste ontvangst van eerste whiskycollectie van Robbers en van den Hoogen](https://weesmeer.nl/enthousiaste-ontvangst-van-eerste-whiskycollectie-van-robbers-en-van-den-hoogen/) _(wordpress)_
 
 ## Multitint
@@ -144,6 +149,7 @@ Bijgewerkt: 2026-11-17 06:16 UTC
 
 ## Equip
 
+- 2026-11-17 — **Pensioen Pro**: [Equip wint Pensioenwegwijzer met AI-adviseur Penny — artikel bevat een betaalmuur](https://news.google.com/rss/articles/CBMif0FVX3lxTE16V1dwRm5zbTlta3RZSEhHSmRPYlNjWklmSDZ5WmZxRDlodjhfLXI5YmdMZmxmbnFWYjFhUzc5dEVMRUo3TEt4czFkQ2FyWnltb0IyT3hWb3d0NGl5TktkTVFWUW9FblZHWWhMaUdsUzNRYUFQdFVBbVFyZldCdlE?oc=5) _(google_news)_
 - 2026-11-16 — **VVP online**: [Adviesalerts! innovatieve producten](https://vvponline.nl/artikelen/adviesalerts-innovatieve-producten-2/) _(wordpress)_
 - 2026-11-13 — **VVP online**: [Penny van Equip wint PensioenWegwijzer 2026](https://vvponline.nl/nieuws/penny-van-equip-wint-pensioenwegwijzer-2026/) _(wordpress)_
 - 2026-11-03 — **TheBusinessDesk.com**: [£800,000 fund to equip people with AI and employment skills](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ3lHcnF5eWdyMXBoQTVDQU5XcmN3ZVBucmxfTW5NeUpVNmxFTE1oaHF6cmpnOVFnY293NUNsNV9WajNWZGdUZlR6RTMxbHhWUzVSaGVvNllGSVBIWWYxN1hkZmp5RzIwU21BcDZhZ0t2S2xwRGtKVGxKRGZwd185NEVlalhlYjdldTdhSmRSV01jZk44eDE1RktuUWVPOVNqc3NSMEtJblRQSTlreEFTQlhB?oc=5) _(google_news)_
@@ -153,10 +159,10 @@ Bijgewerkt: 2026-11-17 06:16 UTC
 - 2026-11-03 — **Durham Radio News**: [Help furnish and equip new hospice in Whitby](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JMmVDdWhqUW1mZWpYUzlUYkkyVE1UZmZqT3d0cmR6U1hwZEduWm12dU12UC1pMlp5RWJXSUtnWGpTSVBuVWxldU5RT05wNjdTWXdtYjZtWXRlSHc?oc=5) _(google_news)_
 - 2026-11-03 — **Vietnam.vn**: [Thanh Hoa: Ten competitions organized to equip students with skills to prevent school depression.](https://news.google.com/rss/articles/CBMiowFBVV95cUxQR2tCSWNuNU54T3hVSmkyaWJ1ZG1zNk82cVNCNmtjTzhndEIwVXg2Z01OQWNabDc3dklYSE1xVV9oc3NxcWR6ZUdQLTZZaWd0alo2dTItdmFLSU5ZZDBBUUlOSzF6QkFXLUd2WS0zbzBUVDIzczUwVlQ1V0NJQmxZT09rWTFHN0d1blBHMGdjUktCUjZTVkVGZVpOdWZLa0MwcjNF?oc=5) _(google_news)_
 - 2026-11-03 — **https://www.autohebdof1.com/**: [ECR becomes the first IndyCar team to publicly equip itself with a simulator](https://news.google.com/rss/articles/CBMixAFBVV95cUxQUnN1Wlc5UmgxaDlVRFB4UEtDLVJvaGI5UVFfNjJueFdwZVh0QzIxNVNLMWNRVzM0SHZuZ2xwWklFWnVOT0o5bmF5Q1NGUG1MbENtRlZua19aMktmUlRfQWdnWC15Q1NsQzAzc2l6a1JpbE0tMlpaazFZRW0yVV9fT05acGhKWWVvUlAtQklUQzlEMVllSGxFTlNHUTlobDk5SXNkR3hGcVRKTFJQcWtaSlk5bDIwM2RHSWJ4ZkVYeXlLUTJu?oc=5) _(google_news)_
-- 2026-11-03 — **TradingView**: [Air Tahiti Nui Announces Agreement With SpaceX To Equip Its Entire Fleet With Starlink's Wi-Fi](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQ2EwQ0Rkb0ppWUpRMmtqYTFZQ0xNSW9zbWJHTzRWT3RTY2g5VE1Ja1UyNzZwd1V4R3NMZVJXallRSjV5RGQ3Y0Nzc3h3REVESkhxdWYzclJRLWtZYU9UVUVWcUR0RDRWSkZ1SHF4YzBWVzF6QWlwRXhyUWR6djZiaFdVTmlHWlo4NmVRcV9XeTZjT0ttUGlhbWxrbHM2WFpQMjRiWE5zaWJPUTdkajl6SW5MclE4WTBRRFV1UjRWYnVMQV8tMVNMVVNhZXdUX3l2WEZCM3lyeTNaaGQ2X3J2ejRDMWFUM3gtVzdTY2ZRU0RwNGIydjBv?oc=5) _(google_news)_
 
 ## Hogeschool Utrecht
 
+- 2026-11-17 — **Hogeschool Utrecht**: [Koninkrijksbeurs trekt minder Caribische studenten naar Nederland dan gehoopt](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOTV4RE5FN1N2eGNxODMtUTFaZExsajBjNWFOV3JwV0FNU2xMRmhHVDFLNFhfQjg1cVpLNU14R2J3WDZDVWtaNGtxaEx5YURHNndPajMyVVQ1M2U0dDVmNFFEaTNUdlpkS2RMcFVaVU5mSkJXV3Fwd1NERjVCM2RwQnZpTF8yNVFwVnJTNFJ2MGtJYU9kemVmRm1RMGQ2MURSQWREdg?oc=5) _(google_news)_
 - 2026-11-13 — **Hogeschool Utrecht**: [Wereldwijde Microsoft-storing treft ook Hogeschool Utrecht](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNF9kcEV3Q254SDdHVUxNOVQxSkxHakR3WHJ1eVhhSXFpdjFjYldBTW9ySnFOVXNzRTh2aW1DQXNBelROUmFyWDZhempDOHcyaWcxTG9SckFldm1ITjNGVzBHamloNDhLYXBMaU5pbjUxb19aaUN6Z3RRZTlJZ0xZSklIcE14T3RNZl93?oc=5) _(google_news)_
 - 2026-11-13 — **Hogeschool Utrecht**: [Hoe zorgen we ervoor dat die klas vol blijft?](https://news.google.com/rss/articles/CBMieEFVX3lxTE50aGlFTm44RFozWDRBTDR0UGNsLTZvZXdiSEZ5NWtDTE9HQ05uQUd1RFF4cWhhMTlWMXp1WlFHTlRhdlQtMnJpb0JKVFdBdWZtVUZMVXlrUXhhdDZ4ZEkwc0QxMjJBbmRRZWdSbUpfSFRWTUNVY0VGVA?oc=5) _(google_news)_
 - 2026-11-13 — **Hogeschool Utrecht**: [Basisbeurs gaat met 50 euro omhoog, voor uitwonenden (en dat is niet voor de ouders!)](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb3U2cHA3QmNuV2lOVGxKc0ZwWkJUNkY4ME1aZTFxT3ZWNVFCYW5xQkJNMmdjNkdEcVlCamQtLW1ma0ZJTEZiOVhIWnZHQkI3ZDFhVnc4cXk1M2JNZHlxdmV1YWdvQkxQTVVTcHIyaVBhd2t0aktWQy12a2FOUHZ3UXN4V2dLMDduSEtQdWRxbzF1RHR2LXdrRF9HSXNQU0RWOWV2QnktZkd5dw?oc=5) _(google_news)_
@@ -166,7 +172,6 @@ Bijgewerkt: 2026-11-17 06:16 UTC
 - 2026-11-10 — **Hogeschool Utrecht**: [Ik? Een cursist?](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VTi11TldQRmRNUjBGT0dyWkJSd0I3b3lqWFlDTC1sbmI1bmk1Rm5EUHRhVFZ1UnhNSFA5S3lISUFramlsRXk2eHFRY0RvN3N1?oc=5) _(google_news)_
 - 2026-11-09 — **Hogeschool Utrecht**: [Begroting HU: bijna 10 miljoen euro meer over dan verwacht dit jaar](https://news.google.com/rss/articles/CBMilgFBVV95cUxQNERCeE5Sa2V0bDBpR0Q0Z3gtNGEtUG5IZlNRLVB1ME9kSWkwOGVrU2lUUWJtNm9lbmhTcWFBY3FZeVloQnVScTJaS1VHbEJqb3BCMXNwRl9DYVVWeEpJbzBIdVFlQTRMY0xSWFUzYk4yTlBYLXhkT2RMYmxLS0Itc1czNGp4NjgzMXZlNkljajJjcEswSmc?oc=5) _(google_news)_
 - 2026-11-06 — **Hogeschool Utrecht**: [Student kan straks baanbrekend idee pitchen bij Defensie](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR2twVDVKQ09oTl9CTTBycnMycElmQzB0NmYyYjFSU0VjcWthUzNYYWgxbmRyTEY0blJkLUJZS0JuX2xvVlRpWnJpaDBLampUTmZ6MmRpUnpsZTNIVXdUR2pmTW9XbTZWWnRjM1VZeXBvYkc0RmxDLVozcFVqVFNaaTlTbmI0N2ct?oc=5) _(google_news)_
-- 2026-11-06 — **Hogeschool Utrecht**: [Tweede Kamer wil wegbezuinigde ambtenaren voor de klas zetten](https://news.google.com/rss/articles/CBMijwFBVV95cUxNeTF1TW80X1BDeGtwQWZFS2tTOW1IVEx6SmxDaEk5dVRVMi1MYVJtSVdjZ2tHZ2w2anV5TjdqaXZyc1djRXZzcjZEcEdaX2M0QUpYckxhNndsNG1OY2tzb1d3MFc0ZUhnNGMwNzBLejlfc2puck1Wd0hHTGRBTkM3Nl82ZEZIeTM1Y0dSMjJNSQ?oc=5) _(google_news)_
 
 ## MediKIT
 
