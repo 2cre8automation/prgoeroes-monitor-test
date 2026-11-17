@@ -1,6 +1,6 @@
 # Overzicht monitor
 
-Bijgewerkt: 2026-11-16 22:03 UTC
+Bijgewerkt: 2026-11-17 06:16 UTC
 
 | Klant | Lijst | Publicaties | Automatisch | Handmatig | Via Google News |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@ Bijgewerkt: 2026-11-16 22:03 UTC
 | Waarderen.nl | oud | 3 | 3 | 0 | 0 |
 | Novateq | oud | 0 | 0 | 0 | 0 |
 | FlowQI | oud | 0 | 0 | 0 | 0 |
-| Equip | oud | 61 | 61 | 0 | 54 |
+| Equip | oud | 62 | 62 | 0 | 54 |
 | Hogeschool Utrecht | oud | 63 | 63 | 0 | 57 |
 | RISE Labs | oud | 0 | 0 | 0 | 0 |
 | MediKIT | oud | 3 | 3 | 0 | 3 |
@@ -144,6 +144,7 @@ Bijgewerkt: 2026-11-16 22:03 UTC
 
 ## Equip
 
+- 2026-11-16 — **VVP online**: [Adviesalerts! innovatieve producten](https://vvponline.nl/artikelen/adviesalerts-innovatieve-producten-2/) _(wordpress)_
 - 2026-11-13 — **VVP online**: [Penny van Equip wint PensioenWegwijzer 2026](https://vvponline.nl/nieuws/penny-van-equip-wint-pensioenwegwijzer-2026/) _(wordpress)_
 - 2026-11-03 — **TheBusinessDesk.com**: [£800,000 fund to equip people with AI and employment skills](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ3lHcnF5eWdyMXBoQTVDQU5XcmN3ZVBucmxfTW5NeUpVNmxFTE1oaHF6cmpnOVFnY293NUNsNV9WajNWZGdUZlR6RTMxbHhWUzVSaGVvNllGSVBIWWYxN1hkZmp5RzIwU21BcDZhZ0t2S2xwRGtKVGxKRGZwd185NEVlalhlYjdldTdhSmRSV01jZk44eDE1RktuUWVPOVNqc3NSMEtJblRQSTlreEFTQlhB?oc=5) _(google_news)_
 - 2026-11-03 — **Telecompaper**: [Go Telecom awards SAR 185 mln deal to equip Saudi data centre](https://news.google.com/rss/articles/CBMipwFBVV95cUxPM1pYcmRlMlFRcDA1cFB6bHV0dEV5VUdvdEJhZzhVTjd2TTdLZUFwWkM5cnRXWEhvVVo4blMyekdrWi1lX0JxWEMwNmJJdFZkWGNrYS0taWNTNVNvVWtTcXdkQTFWNTdjdElSU3hiOTE2Y1ZNVmxDNm5qc0M4MFAzOHRkeFRTY1lEb3lVT1NIcWJpdVNsR0g3c2p4Y1VYd1ItNHdLSFNXYw?oc=5) _(google_news)_
@@ -153,7 +154,6 @@ Bijgewerkt: 2026-11-16 22:03 UTC
 - 2026-11-03 — **Vietnam.vn**: [Thanh Hoa: Ten competitions organized to equip students with skills to prevent school depression.](https://news.google.com/rss/articles/CBMiowFBVV95cUxQR2tCSWNuNU54T3hVSmkyaWJ1ZG1zNk82cVNCNmtjTzhndEIwVXg2Z01OQWNabDc3dklYSE1xVV9oc3NxcWR6ZUdQLTZZaWd0alo2dTItdmFLSU5ZZDBBUUlOSzF6QkFXLUd2WS0zbzBUVDIzczUwVlQ1V0NJQmxZT09rWTFHN0d1blBHMGdjUktCUjZTVkVGZVpOdWZLa0MwcjNF?oc=5) _(google_news)_
 - 2026-11-03 — **https://www.autohebdof1.com/**: [ECR becomes the first IndyCar team to publicly equip itself with a simulator](https://news.google.com/rss/articles/CBMixAFBVV95cUxQUnN1Wlc5UmgxaDlVRFB4UEtDLVJvaGI5UVFfNjJueFdwZVh0QzIxNVNLMWNRVzM0SHZuZ2xwWklFWnVOT0o5bmF5Q1NGUG1MbENtRlZua19aMktmUlRfQWdnWC15Q1NsQzAzc2l6a1JpbE0tMlpaazFZRW0yVV9fT05acGhKWWVvUlAtQklUQzlEMVllSGxFTlNHUTlobDk5SXNkR3hGcVRKTFJQcWtaSlk5bDIwM2RHSWJ4ZkVYeXlLUTJu?oc=5) _(google_news)_
 - 2026-11-03 — **TradingView**: [Air Tahiti Nui Announces Agreement With SpaceX To Equip Its Entire Fleet With Starlink's Wi-Fi](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQ2EwQ0Rkb0ppWUpRMmtqYTFZQ0xNSW9zbWJHTzRWT3RTY2g5VE1Ja1UyNzZwd1V4R3NMZVJXallRSjV5RGQ3Y0Nzc3h3REVESkhxdWYzclJRLWtZYU9UVUVWcUR0RDRWSkZ1SHF4YzBWVzF6QWlwRXhyUWR6djZiaFdVTmlHWlo4NmVRcV9XeTZjT0ttUGlhbWxrbHM2WFpQMjRiWE5zaWJPUTdkajl6SW5MclE4WTBRRFV1UjRWYnVMQV8tMVNMVVNhZXdUX3l2WEZCM3lyeTNaaGQ2X3J2ejRDMWFUM3gtVzdTY2ZRU0RwNGIydjBv?oc=5) _(google_news)_
-- 2026-11-03 — **Emory News**: [Future Proof will equip Emory students for an AI-powered workplace](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYTFUV2dNVGdPbEN5MFNTcjR6cFllbWlVSjdfdmFjdmpFZ0VZem5ES01nOVI3SkE3YVlrVlpWUGVXM000MTFKSDFvVFNUdWNiNFpPaXlSNEduY1A3Q0tMRExHanAxbTBHWnp6UWVuVnBaOGVwcmZ5UXpoYnJYVDlrLWw2UmdISW5xZFdKVHVXekh3Z21tY3NLZjZMV3ZSNXM?oc=5) _(google_news)_
 
 ## Hogeschool Utrecht
 
