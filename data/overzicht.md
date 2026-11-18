@@ -1,6 +1,6 @@
 # Overzicht monitor
 
-Bijgewerkt: 2026-11-18 02:56 UTC
+Bijgewerkt: 2026-11-18 14:08 UTC
 
 | Klant | Lijst | Publicaties | Automatisch | Handmatig | Via Google News |
 |---|---|---|---|---|---|
@@ -10,7 +10,7 @@ Bijgewerkt: 2026-11-18 02:56 UTC
 | Straight Line Leadership | vast | 4 | 4 | 0 | 1 |
 | Machiel Hoek | vast | 1 | 1 | 0 | 1 |
 | Verdi Fit | vast | 3 | 3 | 0 | 0 |
-| Doors Open | vast | 86 | 86 | 0 | 85 |
+| Doors Open | vast | 87 | 87 | 0 | 86 |
 | TAB | vast | 0 | 0 | 0 | 0 |
 | Robbers & van den Hoogen | los | 3 | 3 | 0 | 1 |
 | Multitint | los | 2 | 2 | 0 | 1 |
@@ -23,7 +23,7 @@ Bijgewerkt: 2026-11-18 02:56 UTC
 | Novateq | oud | 0 | 0 | 0 | 0 |
 | FlowQI | oud | 0 | 0 | 0 | 0 |
 | Equip | oud | 63 | 63 | 0 | 55 |
-| Hogeschool Utrecht | oud | 65 | 65 | 0 | 59 |
+| Hogeschool Utrecht | oud | 67 | 67 | 0 | 61 |
 | RISE Labs | oud | 0 | 0 | 0 | 0 |
 | MediKIT | oud | 3 | 3 | 0 | 3 |
 | FloraNL | oud | 0 | 0 | 0 | 0 |
@@ -95,6 +95,7 @@ Bijgewerkt: 2026-11-18 02:56 UTC
 
 ## Doors Open
 
+- 2026-11-18 — **Curaçao Chronicle**: [Suzanne Mau-Asam's Curaçao Visit Sparks Strong Interest in Embodied Leadership Book](https://news.google.com/rss/articles/CBMixAFBVV95cUxObnY3a3U5VUtvdEdnWGRXejBkNVFJVDI3SVdXZWpzMFh1Y002dGlpVWp5cnVaNW53NnN1THJTM3J0VDZyYkVKWktHR3AxUVk0WkRuejQ4V0FWT21HSXctY05sTUVTVzlPTU51YjJzYVl1ejYySzVJbnVGNXkxVUswS3YxTjI4RUR6NWdRUHBnS0ZMT3l0Q3RHRm55MUNWd2UtcUo1bERQczh4eEtfMHUxS1phNkVwQVNUODdfSnpCT25iOHcx?oc=5) _(google_news)_
 - 2026-11-09 — **Mediacontent.nu**: [Suzanne Mau-Asam brengt boek over leiderschap en persoonlijke ontwikkeling naar Curaçao](https://mediacontent.nu/suzanne-mau-asam-brengt-boek-over-leiderschap-en-persoonlijke-ontwikkeling-naar-curacao/) _(wordpress)_
 - 2026-11-06 — **Curaçao Chronicle**: [Author Suzanne Mau-Asam Returns to Curaçao With New Book on Leadership, Identity and Personal Growth](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUXB5UnV2NEhfVzZlbW05NTBCNEVIRkZwYlB1dDU4NFdOblBZN3hnYkhjTjFndWUxYzVyQzlzSG9fMGl0WG14TDk0X3otMmZxYVdORWZvZl9oZmtobE1FczRLN1N1UTMyWkFDX0ZmXzlJc0ROZ0FlT3RRTzZxZDFMS2M1UGR3anQ2WTlsaFlDUEVLU0h1MTNyVkttekYweFJ2alRQSVNaRThITjBad3l2Tk5MbnVDSVpHeEEzOGZGLXg3ZXZ4WGxqQW42NXpnQWlvUThvSXdkMlY1MUt1WGc?oc=5) _(google_news)_
 - 2026-11-04 — **TAPinto**: [GoFundMe Started to Keep Kenilworth's Opa Grill's Doors Open](https://news.google.com/rss/articles/CBMizwFBVV95cUxNeUxWRkh4Y2xsR0NCcHV2UG5jYTlXWjhJakd2S002XzM1WGdLVUNVMEh2dHZ6X3I3THMwb3lrQmFRUGZVUi1zWlJtRmUyLVNfRWRBeTNsTjk4cjh3M0pZc3ZIay1ST0dKOVRqU3Jsbk9LU1N5bHhoLU1iZ29zMmJfUXJDZnVRWmxaR1JpMVY3bDVRZnJmUHdBZWlzSFZYZWUxcUdzOWY5emtQMmZhdlFzZF8yQ2FNNHUxcnpBUUJSRzRIS29mZ2lIc1dfVERka1E?oc=5) _(google_news)_
@@ -104,7 +105,6 @@ Bijgewerkt: 2026-11-18 02:56 UTC
 - 2026-11-03 — **VA.gov Home | Veterans Affairs**: [Doors Open, Doors Opened | VA Houston Health Care | Veterans Affairs](https://news.google.com/rss/articles/CBMie0FVX3lxTE5lT2R0VnhCaVBIeUZEaE9FV1ZtRUVOX254MEZPZjV6SkR0V0JYdF93cnlmX0I0cVVHZEZZT0hpSTdBZzZETHdIVlN0M2NtTTRwUmZaekxmek9Jb3pvellFVGxNamZnOFNZMDB5d2tEOHpGajB3dVdlSWF3WQ?oc=5) _(google_news)_
 - 2026-11-02 — **Church News**: [Doors open to tour sixth temple in Texas](https://news.google.com/rss/articles/CBMirwFBVV95cUxQUHdnR092dmlNWVV1Q2Nuc0ctSExLN05rbmlRVWdUSEJVaWFNNVIzYmI5cDItZnJJYmdGY2FpQUtVLUtKLUZVc3BCMWtBU3NrZDBhTjVwTXpUNW0yUjhKR2tESG1uSFZPaE84SENpOW9XQS1VM1N5QXo3Y3huN3lTYnVmTzdkaUJMazN5YlV3VG5iSVktQml1dlVOc2N3Tk5lOEVCel9wQlQ1VU1BT2Zj?oc=5) _(google_news)_
 - 2026-11-02 — **Fast Food Club**: [When Snow Hits, These 6 Northwest Ohio Diners Keep Their Doors Open For Regulars](https://news.google.com/rss/articles/CBMitwFBVV95cUxPb1IyYVBIWFNkWDhEXzNqRmR6U1JIYVdFMW9jRE5mdzZTS3d1cDh6RmZZVVZuU28tMGNYU0VhczBpY3pwMlJjWTkwOFlXeHBPaExaSDhDS3NwNlo5d05uS0NOVElKUXJHNG4tWHJOOXI1YjhxLVNsZXZnVU43UzBfTlJlVF9RQ1MyWlRtMU1UMVRyaU9KTFRndUVBYUdQTHlMbkNOb1dnaGFFTlNFRjVVRmNVNDZxNXM?oc=5) _(google_news)_
-- 2026-11-02 — **DeeperBlue.com**: [DEMA Show 2026: Everything Announced Before The Doors Open](https://news.google.com/rss/articles/CBMic0FVX3lxTE5jXzZ0MlZtUUJQLVpFLW90dmVDTXo5cXluWE4xVmh5NmpaN0lsMlJReTRQeG5GVHQ0UWt3VUEzWGpkeUNZVnRMcGN1RWJlRG9tYVlJR2EwbHJoTHhYdEZMMlJDVWpwY3JHc2FzTkoxaDRfQ3M?oc=5) _(google_news)_
 
 ## Robbers & van den Hoogen
 
@@ -164,16 +164,16 @@ Bijgewerkt: 2026-11-18 02:56 UTC
 
 ## Hogeschool Utrecht
 
+- 2026-11-18 — **Hogeschool Utrecht**: [Studenten lesgeven in geldzaken? Minister van Sociale Zaken ziet er wel iets in](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEZnbWpVc2YzZ3FQS1hPdFR3ZXVKbkRSbnJhem5BUEVYSWxLNllzNVRuaUNfRTFjMzh2Z204ZXQxaFdNMkFRd09rMGtvU1oxUFdkZDV6ZHRRQkFkczJWTDJaSUM1RlNZMVotNmwtNGZvYTk0NzVva0FwUGFnREVDX3Q2S0VHUTBkenNXZ1F3anpWbWdrOV9uOFM4eWlWcXVuTWswMlRB?oc=5) _(google_news)_
 - 2026-11-17 — **Hogeschool Utrecht**: [Koninkrijksbeurs trekt minder Caribische studenten naar Nederland dan gehoopt](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOTV4RE5FN1N2eGNxODMtUTFaZExsajBjNWFOV3JwV0FNU2xMRmhHVDFLNFhfQjg1cVpLNU14R2J3WDZDVWtaNGtxaEx5YURHNndPajMyVVQ1M2U0dDVmNFFEaTNUdlpkS2RMcFVaVU5mSkJXV3Fwd1NERjVCM2RwQnZpTF8yNVFwVnJTNFJ2MGtJYU9kemVmRm1RMGQ2MURSQWREdg?oc=5) _(google_news)_
 - 2026-11-17 — **Hogeschool Utrecht**: [Praten over diversiteit? Ongemakkelijk!](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XblFpSGVFUHdRNHEyU1dycC1zSEhvNm1keGVqVlFzT2haMUdxekF0NjN4bG1zckF5eWF1V1poYjJpM1NaR0t5QkVDQW45WlFreFZ3NE83VFdhcVU?oc=5) _(google_news)_
+- 2026-11-17 — **Hogeschool Utrecht**: [Vrouwen presteren beter in het onderwijs, maar krijgen minder vaak vwo-advies](https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHVlMEZhYjd4d3A1Z28zTE84eXhkOEtCVzJCcE9fOXFOV1E5Z0tKRUlGc0dEVDdILW1SbWtvU0gxeVh0TlQtV1V4VkVNeVhjR203LUxQRDZKSk5aTk14UEdvOGZmUUxJaGUxanFfOTA5Wnp4ekh0dmlURGRvXzUyWU4tX3J6bnlnbmJhWTFsUW90SE9aLWN4ai1MUTJlY2tRZ2tF?oc=5) _(google_news)_
 - 2026-11-13 — **Hogeschool Utrecht**: [Wereldwijde Microsoft-storing treft ook Hogeschool Utrecht](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNF9kcEV3Q254SDdHVUxNOVQxSkxHakR3WHJ1eVhhSXFpdjFjYldBTW9ySnFOVXNzRTh2aW1DQXNBelROUmFyWDZhempDOHcyaWcxTG9SckFldm1ITjNGVzBHamloNDhLYXBMaU5pbjUxb19aaUN6Z3RRZTlJZ0xZSklIcE14T3RNZl93?oc=5) _(google_news)_
 - 2026-11-13 — **Hogeschool Utrecht**: [Hoe zorgen we ervoor dat die klas vol blijft?](https://news.google.com/rss/articles/CBMieEFVX3lxTE50aGlFTm44RFozWDRBTDR0UGNsLTZvZXdiSEZ5NWtDTE9HQ05uQUd1RFF4cWhhMTlWMXp1WlFHTlRhdlQtMnJpb0JKVFdBdWZtVUZMVXlrUXhhdDZ4ZEkwc0QxMjJBbmRRZWdSbUpfSFRWTUNVY0VGVA?oc=5) _(google_news)_
 - 2026-11-13 — **Hogeschool Utrecht**: [Basisbeurs gaat met 50 euro omhoog, voor uitwonenden (en dat is niet voor de ouders!)](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb3U2cHA3QmNuV2lOVGxKc0ZwWkJUNkY4ME1aZTFxT3ZWNVFCYW5xQkJNMmdjNkdEcVlCamQtLW1ma0ZJTEZiOVhIWnZHQkI3ZDFhVnc4cXk1M2JNZHlxdmV1YWdvQkxQTVVTcHIyaVBhd2t0aktWQy12a2FOUHZ3UXN4V2dLMDduSEtQdWRxbzF1RHR2LXdrRF9HSXNQU0RWOWV2QnktZkd5dw?oc=5) _(google_news)_
 - 2026-11-13 — **Drimble**: [Wereldwijde Microsoft-storing treft ook Hogeschool Utrecht](https://news.google.com/rss/articles/CBMitAFBVV95cUxQRWF4bmtteFl3UF96WlFNQmdBZzFOd0dHVDBJUEdFNXNNRVNteVYtLXZpUjlOcERFeHF0eE02YzFrM0YwZzFkQ3hPam5RaGhyN25OR2xleHNiSVp0LURUSzB3NExOOUctcWhiaXc3eC1od3BtVVdmZFl0WWI3SjZRV29yTFJVTGFNUllqdjhPbE05RXVpcGR5WHh0Rlp2SlhRRGFfU2VadzVYYjFaeGcyeFJWX1I?oc=5) _(google_news)_
 - 2026-11-12 — **Hogeschool Utrecht**: [Nieuwe cao hogescholen: lonen stijgen met 3,5 procent](https://news.google.com/rss/articles/CBMiggFBVV95cUxQRER1Q055YkgwZkRjeVlMV2E3cGlUTThxUjBwTENGcEhvRFFpbS1OaWV4WGgtZDNRVVVYWEFYZ20wLVpvZV9ZNGRfUmdqZUVPOWhEWng3TmYybGduSTYwREp2a0V4RGs1Y3QzbVJKZm9BcHZGZS1lZThjSlZlV01QWlln?oc=5) _(google_news)_
 - 2026-11-11 — **Hogeschool Utrecht**: [HU, UU en UMCU maken samenwerken gemakkelijker](https://news.google.com/rss/articles/CBMiekFVX3lxTE1OaUtlM1hwZ01kNVNiT1lNajVGTTJjQW9JcWZTNjVlTWdZTFF4aG5HekpKMHczVElDa0YxTXNpRXlJNGw0WURuano2TnFRaGJKdk1NVEdCTnoxMFFXSFlTcmVMckhjNDNGYmx3MGdZZHVpSEg5V01xVjZ3?oc=5) _(google_news)_
-- 2026-11-10 — **Hogeschool Utrecht**: [Ik? Een cursist?](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VTi11TldQRmRNUjBGT0dyWkJSd0I3b3lqWFlDTC1sbmI1bmk1Rm5EUHRhVFZ1UnhNSFA5S3lISUFramlsRXk2eHFRY0RvN3N1?oc=5) _(google_news)_
-- 2026-11-09 — **Hogeschool Utrecht**: [Begroting HU: bijna 10 miljoen euro meer over dan verwacht dit jaar](https://news.google.com/rss/articles/CBMilgFBVV95cUxQNERCeE5Sa2V0bDBpR0Q0Z3gtNGEtUG5IZlNRLVB1ME9kSWkwOGVrU2lUUWJtNm9lbmhTcWFBY3FZeVloQnVScTJaS1VHbEJqb3BCMXNwRl9DYVVWeEpJbzBIdVFlQTRMY0xSWFUzYk4yTlBYLXhkT2RMYmxLS0Itc1czNGp4NjgzMXZlNkljajJjcEswSmc?oc=5) _(google_news)_
 
 ## MediKIT
 
