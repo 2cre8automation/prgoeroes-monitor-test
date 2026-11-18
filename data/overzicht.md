@@ -1,18 +1,18 @@
 # Overzicht monitor
 
-Bijgewerkt: 2026-11-17 14:28 UTC
+Bijgewerkt: 2026-11-18 02:56 UTC
 
 | Klant | Lijst | Publicaties | Automatisch | Handmatig | Via Google News |
 |---|---|---|---|---|---|
 | Aspyre | vast | 19 | 17 | 2 | 6 |
 | Katapull | vast | 23 | 22 | 1 | 11 |
 | Drukwerkdeal | vast | 11 | 11 | 0 | 2 |
-| Straight Line Leadership | vast | 3 | 3 | 0 | 0 |
+| Straight Line Leadership | vast | 4 | 4 | 0 | 1 |
 | Machiel Hoek | vast | 1 | 1 | 0 | 1 |
 | Verdi Fit | vast | 3 | 3 | 0 | 0 |
 | Doors Open | vast | 86 | 86 | 0 | 85 |
 | TAB | vast | 0 | 0 | 0 | 0 |
-| Robbers & van den Hoogen | los | 2 | 2 | 0 | 0 |
+| Robbers & van den Hoogen | los | 3 | 3 | 0 | 1 |
 | Multitint | los | 2 | 2 | 0 | 1 |
 | ECO NV | los | 0 | 0 | 0 | 0 |
 | PR Goeroes | eigen | 5 | 5 | 0 | 2 |
@@ -23,7 +23,7 @@ Bijgewerkt: 2026-11-17 14:28 UTC
 | Novateq | oud | 0 | 0 | 0 | 0 |
 | FlowQI | oud | 0 | 0 | 0 | 0 |
 | Equip | oud | 63 | 63 | 0 | 55 |
-| Hogeschool Utrecht | oud | 64 | 64 | 0 | 58 |
+| Hogeschool Utrecht | oud | 65 | 65 | 0 | 59 |
 | RISE Labs | oud | 0 | 0 | 0 | 0 |
 | MediKIT | oud | 3 | 3 | 0 | 3 |
 | FloraNL | oud | 0 | 0 | 0 | 0 |
@@ -78,6 +78,7 @@ Bijgewerkt: 2026-11-17 14:28 UTC
 
 ## Straight Line Leadership
 
+- 2026-11-17 — **Frankwatching**: [Straight-Line Leadership geeft 1 miljoen boeken weg aan ondernemers](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWkdsSzRQMjhaTzRMNE9yWEYwMTBpSzJwWVcySVRLazk2bU9zZ3lQdV9kNS1mdThKQ0tsUFAtZ3UxY1NkSldtZERXSlAwXzJ4bzctSDFQS1NNeEY2X2d0RmVTbHVCb0JsYTAyZHV2REh6QUgxYWxTVWlUeVBYM1lYWHFkODdNTjJpOWF3RlBRZGVHV2NTR01QemV4dm1JbFNiZk5hN2lsTS02Zw?oc=5) _(google_news)_
 - 2026-11-03 — **Wees Meer**: [Kristof Cuppens (Straight-Line Leadership): ‘Ondernemers krijgen dankzij ons meer mentale ruimte, lichtheid en overzicht’](https://weesmeer.nl/kristof-cuppens-straight-line-leadership-ondernemers-krijgen-dankzij-ons-meer-mentale-ruimte-lichtheid-en-overzicht/) _(wordpress)_
 - 2026-11-03 — **Wees Meer**: [Straight-Line Leadership geeft 1 miljoen boeken weg aan ondernemers](https://weesmeer.nl/straight-line-leadership-geeft-1-miljoen-boeken-weg-aan-ondernemers/) _(wordpress)_
 - 2026-11-02 — **Mediacontent.nu**: [Straight-Line Leadership geeft 1 miljoen boeken weg aan ondernemers](https://mediacontent.nu/straight-line-leadership-geeft-1-miljoen-boeken-weg-aan-ondernemers/) _(wordpress)_
@@ -108,6 +109,7 @@ Bijgewerkt: 2026-11-17 14:28 UTC
 ## Robbers & van den Hoogen
 
 - 2026-11-17 — **Twinkle**: [Nieuw in de markt: Robbers & Van den Hoogen](https://twinklemagazine.nl/2026/11/nieuw-in-de-markt-robbers-van-den-hoogen/index.xml) _(rss)_
+- 2026-11-17 — **Twinkle | Digital Commerce**: [Nieuw in de markt: Robbers & Van den Hoogen](https://news.google.com/rss/articles/CBMijgFBVV95cUxObl9COFo2Z3dQWTBmQU1kaTRpb3BmS3dKRnlXZVpaVnRLaW5rM3hOdHVfOXliNV9IM3pJbi1JRkdnVExSOGN3TXFPcHpJaHhWT21nclZZbkE2Y0ZJc3FabzNwYVpMSE5oU2lVakRUd3ltb0lYRXhCSmFNbVRzUzdhTGpiMjNjUlpsM3VjeW9n?oc=5) _(google_news)_
 - 2026-10-06 — **Wees Meer**: [Enthousiaste ontvangst van eerste whiskycollectie van Robbers en van den Hoogen](https://weesmeer.nl/enthousiaste-ontvangst-van-eerste-whiskycollectie-van-robbers-en-van-den-hoogen/) _(wordpress)_
 
 ## Multitint
@@ -163,6 +165,7 @@ Bijgewerkt: 2026-11-17 14:28 UTC
 ## Hogeschool Utrecht
 
 - 2026-11-17 — **Hogeschool Utrecht**: [Koninkrijksbeurs trekt minder Caribische studenten naar Nederland dan gehoopt](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOTV4RE5FN1N2eGNxODMtUTFaZExsajBjNWFOV3JwV0FNU2xMRmhHVDFLNFhfQjg1cVpLNU14R2J3WDZDVWtaNGtxaEx5YURHNndPajMyVVQ1M2U0dDVmNFFEaTNUdlpkS2RMcFVaVU5mSkJXV3Fwd1NERjVCM2RwQnZpTF8yNVFwVnJTNFJ2MGtJYU9kemVmRm1RMGQ2MURSQWREdg?oc=5) _(google_news)_
+- 2026-11-17 — **Hogeschool Utrecht**: [Praten over diversiteit? Ongemakkelijk!](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XblFpSGVFUHdRNHEyU1dycC1zSEhvNm1keGVqVlFzT2haMUdxekF0NjN4bG1zckF5eWF1V1poYjJpM1NaR0t5QkVDQW45WlFreFZ3NE83VFdhcVU?oc=5) _(google_news)_
 - 2026-11-13 — **Hogeschool Utrecht**: [Wereldwijde Microsoft-storing treft ook Hogeschool Utrecht](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNF9kcEV3Q254SDdHVUxNOVQxSkxHakR3WHJ1eVhhSXFpdjFjYldBTW9ySnFOVXNzRTh2aW1DQXNBelROUmFyWDZhempDOHcyaWcxTG9SckFldm1ITjNGVzBHamloNDhLYXBMaU5pbjUxb19aaUN6Z3RRZTlJZ0xZSklIcE14T3RNZl93?oc=5) _(google_news)_
 - 2026-11-13 — **Hogeschool Utrecht**: [Hoe zorgen we ervoor dat die klas vol blijft?](https://news.google.com/rss/articles/CBMieEFVX3lxTE50aGlFTm44RFozWDRBTDR0UGNsLTZvZXdiSEZ5NWtDTE9HQ05uQUd1RFF4cWhhMTlWMXp1WlFHTlRhdlQtMnJpb0JKVFdBdWZtVUZMVXlrUXhhdDZ4ZEkwc0QxMjJBbmRRZWdSbUpfSFRWTUNVY0VGVA?oc=5) _(google_news)_
 - 2026-11-13 — **Hogeschool Utrecht**: [Basisbeurs gaat met 50 euro omhoog, voor uitwonenden (en dat is niet voor de ouders!)](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb3U2cHA3QmNuV2lOVGxKc0ZwWkJUNkY4ME1aZTFxT3ZWNVFCYW5xQkJNMmdjNkdEcVlCamQtLW1ma0ZJTEZiOVhIWnZHQkI3ZDFhVnc4cXk1M2JNZHlxdmV1YWdvQkxQTVVTcHIyaVBhd2t0aktWQy12a2FOUHZ3UXN4V2dLMDduSEtQdWRxbzF1RHR2LXdrRF9HSXNQU0RWOWV2QnktZkd5dw?oc=5) _(google_news)_
@@ -171,7 +174,6 @@ Bijgewerkt: 2026-11-17 14:28 UTC
 - 2026-11-11 — **Hogeschool Utrecht**: [HU, UU en UMCU maken samenwerken gemakkelijker](https://news.google.com/rss/articles/CBMiekFVX3lxTE1OaUtlM1hwZ01kNVNiT1lNajVGTTJjQW9JcWZTNjVlTWdZTFF4aG5HekpKMHczVElDa0YxTXNpRXlJNGw0WURuano2TnFRaGJKdk1NVEdCTnoxMFFXSFlTcmVMckhjNDNGYmx3MGdZZHVpSEg5V01xVjZ3?oc=5) _(google_news)_
 - 2026-11-10 — **Hogeschool Utrecht**: [Ik? Een cursist?](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VTi11TldQRmRNUjBGT0dyWkJSd0I3b3lqWFlDTC1sbmI1bmk1Rm5EUHRhVFZ1UnhNSFA5S3lISUFramlsRXk2eHFRY0RvN3N1?oc=5) _(google_news)_
 - 2026-11-09 — **Hogeschool Utrecht**: [Begroting HU: bijna 10 miljoen euro meer over dan verwacht dit jaar](https://news.google.com/rss/articles/CBMilgFBVV95cUxQNERCeE5Sa2V0bDBpR0Q0Z3gtNGEtUG5IZlNRLVB1ME9kSWkwOGVrU2lUUWJtNm9lbmhTcWFBY3FZeVloQnVScTJaS1VHbEJqb3BCMXNwRl9DYVVWeEpJbzBIdVFlQTRMY0xSWFUzYk4yTlBYLXhkT2RMYmxLS0Itc1czNGp4NjgzMXZlNkljajJjcEswSmc?oc=5) _(google_news)_
-- 2026-11-06 — **Hogeschool Utrecht**: [Student kan straks baanbrekend idee pitchen bij Defensie](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR2twVDVKQ09oTl9CTTBycnMycElmQzB0NmYyYjFSU0VjcWthUzNYYWgxbmRyTEY0blJkLUJZS0JuX2xvVlRpWnJpaDBLampUTmZ6MmRpUnpsZTNIVXdUR2pmTW9XbTZWWnRjM1VZeXBvYkc0RmxDLVozcFVqVFNaaTlTbmI0N2ct?oc=5) _(google_news)_
 
 ## MediKIT
 
