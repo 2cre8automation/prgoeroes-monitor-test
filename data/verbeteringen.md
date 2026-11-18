@@ -2,6 +2,10 @@
 
 Nieuwste punten bovenaan. Doorvoeren na beoordeling door Farrukh.
 
+## 2026-11-18
+
+Geen gemiste publicaties: beide Agility-vermeldingen (Straight Line Leadership/Frankwatching, Machiel Hoek/Drimble) hadden wij al zelf, vóór de mail. Voor Machiel Hoek vonden wij het Trouw-origineel; de Drimble-overname matchte niet in de Drimble-sitemap, maar dat is geen gemis. Geen nieuwe punten; de bestaande punten blijven open.
+
 ## 2026-11-17
 
 Geen gemiste publicaties: Agility meldt vandaag bij alle klanten "No Relevant Content". Geen nieuwe punten; de bestaande punten blijven open.
