@@ -2,6 +2,76 @@
 
 Nieuwste sectie bovenaan. Tijden in Nederlandse tijd.
 
+## 19 november 2026
+
+**Agility-mail:** Daily PR Briefing - All Clients (19 nov 09:00:09). Geen weekmail vandaag (alleen op maandag).
+**Periode:** 16 t/m 19 nov (standaard 3 dagen). De dagmail dekt de vaste, losse en eigen klanten.
+
+Stand: Agility meldt vandaag 1 publicatie, relevant en geen ruis: **Doors Open in Curaçao Chronicle**, "Suzanne Mau-Asam's Curaçao Visit Sparks Strong Interest in Embodied Leadership Book" (18 nov). **Die hadden wij al vóór de Agility-mail**, zelf gevonden via Google News op woordvoerder Suzanne Mau-Asam, om 18 nov 15:08 (bijna 18 uur eerder). Bij alle andere klanten meldt Agility "No Relevant Content". De publicaties van 16-17 nov die wij hebben (Twinkle, Frankwatching, Trouw, Wees Meer) staan hieronder als "alleen wij" voor de volledigheid; Frankwatching en de Trouw/Drimble-publicatie meldde Agility gisteren wel (zie 18 nov), Twinkle en de twee Wees Meer-artikelen meldt Agility nog steeds niet. Geen publicaties met methode "handmatig" in de periode. De nachtrun van 19 nov 03:37 leverde 0 nieuwe vondsten op.
+
+Buiten de dagmail (eerdere samenwerkingen, volgende weekmail 23 nov): Equip in Pensioen Pro en VVP online (al gemeld); vier HU-berichten op de eigen website van de Hogeschool Utrecht tellen als ruis (waarvan twee nieuw sinds gisteren, gevonden 18 nov 15:08).
+
+Over Doors Open: het open verbeterpunt Extra Curaçao (12 nov) blijft open. Deze Engelstalige Curaçaose publicatie kwam via Google News binnen; Papiamentstalige media (Extra) nog niet.
+
+Beperking: Agility-links lopen via een klikteller en zijn bewust niet aangeklikt; artikelen niet gelezen. Beoordeling op titel, samenvatting en bron.
+
+### Doors Open
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Curaçao Chronicle | Suzanne Mau-Asam's Curaçao Visit Sparks Strong Interest in Embodied Leadership Book | 18 nov | beide | relevant: woordvoerder en haar boek in de titel, Curaçaose krant | google_news (match op "Suzanne Mau-Asam") | 18 nov 15:08 | 19 nov 09:00:09 | **Ja, bijna 18 uur eerder** |
+
+### Straight Line Leadership
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Frankwatching | Straight-Line Leadership geeft 1 miljoen boeken weg aan ondernemers | 17 nov | alleen wij (vandaag); Agility meldde hem op 18 nov | relevant | google_news | 18 nov 03:56 | 19 nov 09:00:09 ("No Relevant Content") | Ja (ook vóór de mail van 18 nov) |
+
+### Machiel Hoek
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Trouw | Machiel Hoek verbrandde al zijn schepen achter zich: 'Een innerlijke stem zei: ga doen waar je van droomt' | 17 nov | alleen wij (vandaag); Agility meldde de Drimble-overname op 18 nov | relevant | google_news | 17 nov 15:28 | 19 nov 09:00:09 ("No Relevant Content") | Ja (ook vóór de mail van 18 nov) |
+
+### Robbers & van den Hoogen
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Twinkle | Nieuw in de markt: Robbers & Van den Hoogen | 17 nov | alleen wij | relevant: klantnaam in de titel (ook via Google News op 18 nov 03:56) | rss | 17 nov 15:28 | 19 nov 09:00:09 ("No Relevant Content") | Ja; Agility meldt hem niet |
+
+### Jennifer Delano
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Wees Meer | Helen Brunemann (Smaile): 'Met AI kan ik vier tot vijf keer zoveel werk verzetten' | 16 nov | alleen wij | mogelijk relevant: naam in de tekst, niet in de titel; artikel niet gelezen | wordpress | 16 nov 16:53 | 19 nov 09:00:09 ("No Relevant Content") | Ja; Agility meldt hem niet |
+| Wees Meer | De uitdaging van Alex Hartnack (NextEnergy): 'Binnen een jaar het Coolblue-belletje laten rinkelen' | 16 nov | alleen wij | mogelijk relevant: idem | wordpress | 16 nov 16:53 | 19 nov 09:00:09 ("No Relevant Content") | Ja; Agility meldt hem niet |
+
+### Equip (eerdere samenwerking, niet in de dagmail)
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Pensioen Pro | Equip wint Pensioenwegwijzer met AI-adviseur Penny | 17 nov | alleen wij | relevant (betaalmuur) | google_news | 17 nov 15:28 | n.v.t. (volgende weekmail 23 nov) | n.v.t. |
+| VVP online | Adviesalerts! innovatieve producten | 16 nov | alleen wij | mogelijk relevant: "Equip" niet in de titel | wordpress | 17 nov 07:16 | n.v.t. | n.v.t. |
+
+### Hogeschool Utrecht (eerdere samenwerking, niet in de dagmail)
+
+| Medium | Titel | Datum | Vergelijking | Beoordeling | Onze route | Ons vondsttijdstip | Agility-mail | Vóór Agility? |
+|---|---|---|---|---|---|---|---|---|
+| Hogeschool Utrecht | Koninkrijksbeurs trekt minder Caribische studenten naar Nederland dan gehoopt | 17 nov | alleen wij | ruis: eigen website HU | google_news | 17 nov 15:28 | n.v.t. | n.v.t. |
+| Hogeschool Utrecht | Praten over diversiteit? Ongemakkelijk! | 17 nov | alleen wij | ruis: idem | google_news | 18 nov 03:56 | n.v.t. | n.v.t. |
+| Hogeschool Utrecht | Vrouwen presteren beter in het onderwijs, maar krijgen minder vaak vwo-advies | 17 nov | alleen wij | ruis: idem | google_news | 18 nov 15:08 | n.v.t. | n.v.t. |
+| Hogeschool Utrecht | Studenten lesgeven in geldzaken? Minister van Sociale Zaken ziet er wel iets in | 18 nov | alleen wij | ruis: idem | google_news | 18 nov 15:08 | n.v.t. | n.v.t. |
+
+### Totaal 19 november
+
+| | Agility | Wij |
+|---|---|---|
+| Relevante publicaties (dagmail-klanten) | 1 | 4 relevant + 2 mogelijk relevant (Curaçao Chronicle, Frankwatching, Trouw, Twinkle; Wees Meer 2) |
+| Relevante publicaties (eerdere samenwerkingen) | n.v.t. (geen weekmail) | 1 relevant + 1 mogelijk relevant (Equip) |
+| Ruis | 0 | 4 (HU eigen website) |
+| Gedeelde publicaties, wij eerder | 1 van 1 | |
+| Handmatig (Jennifer) | | 0 |
+
 ## 18 november 2026
 
 **Agility-mail:** Daily PR Briefing - All Clients (18 nov 09:00:17). Geen weekmail vandaag (alleen op maandag).
