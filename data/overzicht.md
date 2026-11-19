@@ -1,6 +1,6 @@
 # Overzicht monitor
 
-Bijgewerkt: 2026-11-19 02:37 UTC
+Bijgewerkt: 2026-11-19 14:28 UTC
 
 | Klant | Lijst | Publicaties | Automatisch | Handmatig | Via Google News |
 |---|---|---|---|---|---|
@@ -22,8 +22,8 @@ Bijgewerkt: 2026-11-19 02:37 UTC
 | Waarderen.nl | oud | 3 | 3 | 0 | 0 |
 | Novateq | oud | 0 | 0 | 0 | 0 |
 | FlowQI | oud | 0 | 0 | 0 | 0 |
-| Equip | oud | 63 | 63 | 0 | 55 |
-| Hogeschool Utrecht | oud | 67 | 67 | 0 | 61 |
+| Equip | oud | 65 | 65 | 0 | 56 |
+| Hogeschool Utrecht | oud | 69 | 69 | 0 | 63 |
 | RISE Labs | oud | 0 | 0 | 0 | 0 |
 | MediKIT | oud | 3 | 3 | 0 | 3 |
 | FloraNL | oud | 0 | 0 | 0 | 0 |
@@ -151,6 +151,8 @@ Bijgewerkt: 2026-11-19 02:37 UTC
 
 ## Equip
 
+- 2026-11-19 — **Banken.nl**: [Dubbel goud voor Equip bij PensioenWegwijzer 2026](https://www.banken.nl/nieuws/27599/dubbel-goud-voor-equip-bij-pensioenwegwijzer-2026) _(rss)_
+- 2026-11-19 — **Drimble**: [Dubbel goud voor Equip bij PensioenWegwijzer 2026](https://news.google.com/rss/articles/CBMilwFBVV95cUxPcWJDeDFNQUhlcUxZWjh0QUtjSnFJNy1OeFNFSURaU2NUM0dWWnlSLTY0NVVSUnVsbGtrOFJlWW5kLWdtczBxTHlWVDJSLVRzR1BXa3B5RmFVMElqdDIxbEJwbEhUb3BfRGlxME5BblpFbGZzQnJjZVRiVmFYTExiQWtrX0w1QkVtNnVmT0lGXy03MXdrd21j?oc=5) _(google_news)_
 - 2026-11-17 — **Pensioen Pro**: [Equip wint Pensioenwegwijzer met AI-adviseur Penny — artikel bevat een betaalmuur](https://news.google.com/rss/articles/CBMif0FVX3lxTE16V1dwRm5zbTlta3RZSEhHSmRPYlNjWklmSDZ5WmZxRDlodjhfLXI5YmdMZmxmbnFWYjFhUzc5dEVMRUo3TEt4czFkQ2FyWnltb0IyT3hWb3d0NGl5TktkTVFWUW9FblZHWWhMaUdsUzNRYUFQdFVBbVFyZldCdlE?oc=5) _(google_news)_
 - 2026-11-16 — **VVP online**: [Adviesalerts! innovatieve producten](https://vvponline.nl/artikelen/adviesalerts-innovatieve-producten-2/) _(wordpress)_
 - 2026-11-13 — **VVP online**: [Penny van Equip wint PensioenWegwijzer 2026](https://vvponline.nl/nieuws/penny-van-equip-wint-pensioenwegwijzer-2026/) _(wordpress)_
@@ -159,11 +161,11 @@ Bijgewerkt: 2026-11-19 02:37 UTC
 - 2026-11-03 — **The Peninsula Qatar**: [Universities urged to equip youth with future skills, promote critical thinking](https://news.google.com/rss/articles/CBMixgFBVV95cUxNLTl4cF9QM1JBWUFHdmtVVFlOZmY2d3ZOSDhkLUh3d1QwTm1UMHpNOU1VSWZ2ZE94UlFWeFJYMEZ4N3hfX2t6WkJnSTI3dzdXRmtJbGNsXzlueUZjR2RpZTdoQTB2QU5jTDNrVU5NTnZ2WXJaYmtyUUthdTgzRUZva1hYdHpHMXJCMXhyYlM0NV9pY19xa3dJM3VBUXFIX3FHalRaNTJnUXdZMFNDX3dscXBxMzg1Rkswdk5aY1A0d2ppaTFDa1E?oc=5) _(google_news)_
 - 2026-11-03 — **Fox News**: [Jewish leaders equip students to face antisemitism on campus](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xOXZmNWVNOElYa0tuWWFDYzQ4TDF6NU04bWtZNkc5LWlrOWZuN3RFaUU5Vjlva3Y3MHBzUWMtVFRsWVNMV2J0YzltNDNPTExoYWJuTkxR?oc=5) _(google_news)_
 - 2026-11-03 — **Durham Radio News**: [Help furnish and equip new hospice in Whitby](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JMmVDdWhqUW1mZWpYUzlUYkkyVE1UZmZqT3d0cmR6U1hwZEduWm12dU12UC1pMlp5RWJXSUtnWGpTSVBuVWxldU5RT05wNjdTWXdtYjZtWXRlSHc?oc=5) _(google_news)_
-- 2026-11-03 — **Vietnam.vn**: [Thanh Hoa: Ten competitions organized to equip students with skills to prevent school depression.](https://news.google.com/rss/articles/CBMiowFBVV95cUxQR2tCSWNuNU54T3hVSmkyaWJ1ZG1zNk82cVNCNmtjTzhndEIwVXg2Z01OQWNabDc3dklYSE1xVV9oc3NxcWR6ZUdQLTZZaWd0alo2dTItdmFLSU5ZZDBBUUlOSzF6QkFXLUd2WS0zbzBUVDIzczUwVlQ1V0NJQmxZT09rWTFHN0d1blBHMGdjUktCUjZTVkVGZVpOdWZLa0MwcjNF?oc=5) _(google_news)_
-- 2026-11-03 — **https://www.autohebdof1.com/**: [ECR becomes the first IndyCar team to publicly equip itself with a simulator](https://news.google.com/rss/articles/CBMixAFBVV95cUxQUnN1Wlc5UmgxaDlVRFB4UEtDLVJvaGI5UVFfNjJueFdwZVh0QzIxNVNLMWNRVzM0SHZuZ2xwWklFWnVOT0o5bmF5Q1NGUG1MbENtRlZua19aMktmUlRfQWdnWC15Q1NsQzAzc2l6a1JpbE0tMlpaazFZRW0yVV9fT05acGhKWWVvUlAtQklUQzlEMVllSGxFTlNHUTlobDk5SXNkR3hGcVRKTFJQcWtaSlk5bDIwM2RHSWJ4ZkVYeXlLUTJu?oc=5) _(google_news)_
 
 ## Hogeschool Utrecht
 
+- 2026-11-19 — **Hogeschool Utrecht**: [Een flink andere structuur: Dit vertelde het college van bestuur donderdag in haar webinar](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbjNVT2Z6MVN6SDZaVEpuZEtDOE9ZWW8wbHNvNjdIdEVKTlFkUnh3LW1SS1pNa2JpcVBfenpRNjRYZS1DNXJ6MnVTNnRGMnFUQjBXWmpvblE5ZFd4LTIxbGVwS1dRTnFXNXVWMDhEZlhFNk9XZWRUak5DQ0pncFQ0Q0QzNVRNb1pUWVZnWnRwdGVZT0Q5bllvREVpM1Q3bjQ2Q3RNNExKZWg0MzNyTUJZbXdqdTQ?oc=5) _(google_news)_
+- 2026-11-19 — **Hogeschool Utrecht**: [Maandag en dinsdag weer ov-stakingen. Lessen en toetsen gaan door](https://news.google.com/rss/articles/CBMikwFBVV95cUxOZFotNmRGdnE2cmVaODVUM1ZjZUVqNkROcHBrdlN4SEtxdC1pUGJLLU1xdVJmQkVDQnY0TFpfZWFZMG11V0lNWjM4N3daTTRoVUYzUGxCT1I2NDlteXhmQTVhWnNGdi1CWnhyNHVWYzUyM3pPai1RVTczRVBUc2haWnZScEdDQTRBbVFkREJYUzExb0k?oc=5) _(google_news)_
 - 2026-11-18 — **Hogeschool Utrecht**: [Studenten lesgeven in geldzaken? Minister van Sociale Zaken ziet er wel iets in](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEZnbWpVc2YzZ3FQS1hPdFR3ZXVKbkRSbnJhem5BUEVYSWxLNllzNVRuaUNfRTFjMzh2Z204ZXQxaFdNMkFRd09rMGtvU1oxUFdkZDV6ZHRRQkFkczJWTDJaSUM1RlNZMVotNmwtNGZvYTk0NzVva0FwUGFnREVDX3Q2S0VHUTBkenNXZ1F3anpWbWdrOV9uOFM4eWlWcXVuTWswMlRB?oc=5) _(google_news)_
 - 2026-11-17 — **Hogeschool Utrecht**: [Koninkrijksbeurs trekt minder Caribische studenten naar Nederland dan gehoopt](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOTV4RE5FN1N2eGNxODMtUTFaZExsajBjNWFOV3JwV0FNU2xMRmhHVDFLNFhfQjg1cVpLNU14R2J3WDZDVWtaNGtxaEx5YURHNndPajMyVVQ1M2U0dDVmNFFEaTNUdlpkS2RMcFVaVU5mSkJXV3Fwd1NERjVCM2RwQnZpTF8yNVFwVnJTNFJ2MGtJYU9kemVmRm1RMGQ2MURSQWREdg?oc=5) _(google_news)_
 - 2026-11-17 — **Hogeschool Utrecht**: [Praten over diversiteit? Ongemakkelijk!](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XblFpSGVFUHdRNHEyU1dycC1zSEhvNm1keGVqVlFzT2haMUdxekF0NjN4bG1zckF5eWF1V1poYjJpM1NaR0t5QkVDQW45WlFreFZ3NE83VFdhcVU?oc=5) _(google_news)_
@@ -172,8 +174,6 @@ Bijgewerkt: 2026-11-19 02:37 UTC
 - 2026-11-13 — **Hogeschool Utrecht**: [Hoe zorgen we ervoor dat die klas vol blijft?](https://news.google.com/rss/articles/CBMieEFVX3lxTE50aGlFTm44RFozWDRBTDR0UGNsLTZvZXdiSEZ5NWtDTE9HQ05uQUd1RFF4cWhhMTlWMXp1WlFHTlRhdlQtMnJpb0JKVFdBdWZtVUZMVXlrUXhhdDZ4ZEkwc0QxMjJBbmRRZWdSbUpfSFRWTUNVY0VGVA?oc=5) _(google_news)_
 - 2026-11-13 — **Hogeschool Utrecht**: [Basisbeurs gaat met 50 euro omhoog, voor uitwonenden (en dat is niet voor de ouders!)](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb3U2cHA3QmNuV2lOVGxKc0ZwWkJUNkY4ME1aZTFxT3ZWNVFCYW5xQkJNMmdjNkdEcVlCamQtLW1ma0ZJTEZiOVhIWnZHQkI3ZDFhVnc4cXk1M2JNZHlxdmV1YWdvQkxQTVVTcHIyaVBhd2t0aktWQy12a2FOUHZ3UXN4V2dLMDduSEtQdWRxbzF1RHR2LXdrRF9HSXNQU0RWOWV2QnktZkd5dw?oc=5) _(google_news)_
 - 2026-11-13 — **Drimble**: [Wereldwijde Microsoft-storing treft ook Hogeschool Utrecht](https://news.google.com/rss/articles/CBMitAFBVV95cUxQRWF4bmtteFl3UF96WlFNQmdBZzFOd0dHVDBJUEdFNXNNRVNteVYtLXZpUjlOcERFeHF0eE02YzFrM0YwZzFkQ3hPam5RaGhyN25OR2xleHNiSVp0LURUSzB3NExOOUctcWhiaXc3eC1od3BtVVdmZFl0WWI3SjZRV29yTFJVTGFNUllqdjhPbE05RXVpcGR5WHh0Rlp2SlhRRGFfU2VadzVYYjFaeGcyeFJWX1I?oc=5) _(google_news)_
-- 2026-11-12 — **Hogeschool Utrecht**: [Nieuwe cao hogescholen: lonen stijgen met 3,5 procent](https://news.google.com/rss/articles/CBMiggFBVV95cUxQRER1Q055YkgwZkRjeVlMV2E3cGlUTThxUjBwTENGcEhvRFFpbS1OaWV4WGgtZDNRVVVYWEFYZ20wLVpvZV9ZNGRfUmdqZUVPOWhEWng3TmYybGduSTYwREp2a0V4RGs1Y3QzbVJKZm9BcHZGZS1lZThjSlZlV01QWlln?oc=5) _(google_news)_
-- 2026-11-11 — **Hogeschool Utrecht**: [HU, UU en UMCU maken samenwerken gemakkelijker](https://news.google.com/rss/articles/CBMiekFVX3lxTE1OaUtlM1hwZ01kNVNiT1lNajVGTTJjQW9JcWZTNjVlTWdZTFF4aG5HekpKMHczVElDa0YxTXNpRXlJNGw0WURuano2TnFRaGJKdk1NVEdCTnoxMFFXSFlTcmVMckhjNDNGYmx3MGdZZHVpSEg5V01xVjZ3?oc=5) _(google_news)_
 
 ## MediKIT
 
