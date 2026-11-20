@@ -2,6 +2,10 @@
 
 Nieuwste punten bovenaan. Doorvoeren na beoordeling door Farrukh.
 
+## 2026-11-20
+
+Geen gemiste publicaties: Agility meldt vandaag bij alle klanten "No Relevant Content". Geen nieuwe punten; de bestaande punten blijven open.
+
 ## 2026-11-19
 
 Geen gemiste publicaties: de enige Agility-vermelding (Doors Open/Curaçao Chronicle, 18 nov) hadden wij al zelf via Google News, bijna 18 uur vóór de mail. Geen nieuwe punten; de bestaande punten blijven open.
