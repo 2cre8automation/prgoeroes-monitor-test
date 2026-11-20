@@ -1,6 +1,6 @@
 # Overzicht monitor
 
-Bijgewerkt: 2026-11-20 02:22 UTC
+Bijgewerkt: 2026-11-20 14:06 UTC
 
 | Klant | Lijst | Publicaties | Automatisch | Handmatig | Via Google News |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@ Bijgewerkt: 2026-11-20 02:22 UTC
 | Novateq | oud | 0 | 0 | 0 | 0 |
 | FlowQI | oud | 0 | 0 | 0 | 0 |
 | Equip | oud | 65 | 65 | 0 | 56 |
-| Hogeschool Utrecht | oud | 69 | 69 | 0 | 63 |
+| Hogeschool Utrecht | oud | 70 | 70 | 0 | 64 |
 | RISE Labs | oud | 0 | 0 | 0 | 0 |
 | MediKIT | oud | 3 | 3 | 0 | 3 |
 | FloraNL | oud | 0 | 0 | 0 | 0 |
@@ -164,6 +164,7 @@ Bijgewerkt: 2026-11-20 02:22 UTC
 
 ## Hogeschool Utrecht
 
+- 2026-11-20 — **Hogeschool Utrecht**: [Verhuurder SSH draait bij na kritiek: studentencomplex High Five krijgt goedkopere 'sleutels'](https://news.google.com/rss/articles/CBMitgFBVV95cUxNdGtfcjBkRTdJaEFHaGJxWDY4ajJ5OUhBbTlGSWlfbzJ5dmVac29kWmJmMXFiZkNtTWFjUVItdlc2QTdKaGlNV3FQcmh2V1pRdWFhdUJhYkdaRmRnUEt5bWJrX3FWZy05T1JDdEIxcXh5VXZlNFZSeWVxbGl4eGVDVF9ubG1TOVhZaXluR3FCeHJYcmltYW01LTl1OGhwd2FmVDJCM3Utb2FYYWwtVlQwQ0h4bmZKQQ?oc=5) _(google_news)_
 - 2026-11-19 — **Hogeschool Utrecht**: [Een flink andere structuur: Dit vertelde het college van bestuur donderdag in haar webinar](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbjNVT2Z6MVN6SDZaVEpuZEtDOE9ZWW8wbHNvNjdIdEVKTlFkUnh3LW1SS1pNa2JpcVBfenpRNjRYZS1DNXJ6MnVTNnRGMnFUQjBXWmpvblE5ZFd4LTIxbGVwS1dRTnFXNXVWMDhEZlhFNk9XZWRUak5DQ0pncFQ0Q0QzNVRNb1pUWVZnWnRwdGVZT0Q5bllvREVpM1Q3bjQ2Q3RNNExKZWg0MzNyTUJZbXdqdTQ?oc=5) _(google_news)_
 - 2026-11-19 — **Hogeschool Utrecht**: [Maandag en dinsdag weer ov-stakingen. Lessen en toetsen gaan door](https://news.google.com/rss/articles/CBMikwFBVV95cUxOZFotNmRGdnE2cmVaODVUM1ZjZUVqNkROcHBrdlN4SEtxdC1pUGJLLU1xdVJmQkVDQnY0TFpfZWFZMG11V0lNWjM4N3daTTRoVUYzUGxCT1I2NDlteXhmQTVhWnNGdi1CWnhyNHVWYzUyM3pPai1RVTczRVBUc2haWnZScEdDQTRBbVFkREJYUzExb0k?oc=5) _(google_news)_
 - 2026-11-18 — **Hogeschool Utrecht**: [Studenten lesgeven in geldzaken? Minister van Sociale Zaken ziet er wel iets in](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEZnbWpVc2YzZ3FQS1hPdFR3ZXVKbkRSbnJhem5BUEVYSWxLNllzNVRuaUNfRTFjMzh2Z204ZXQxaFdNMkFRd09rMGtvU1oxUFdkZDV6ZHRRQkFkczJWTDJaSUM1RlNZMVotNmwtNGZvYTk0NzVva0FwUGFnREVDX3Q2S0VHUTBkenNXZ1F3anpWbWdrOV9uOFM4eWlWcXVuTWswMlRB?oc=5) _(google_news)_
@@ -173,7 +174,6 @@ Bijgewerkt: 2026-11-20 02:22 UTC
 - 2026-11-13 — **Hogeschool Utrecht**: [Wereldwijde Microsoft-storing treft ook Hogeschool Utrecht](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNF9kcEV3Q254SDdHVUxNOVQxSkxHakR3WHJ1eVhhSXFpdjFjYldBTW9ySnFOVXNzRTh2aW1DQXNBelROUmFyWDZhempDOHcyaWcxTG9SckFldm1ITjNGVzBHamloNDhLYXBMaU5pbjUxb19aaUN6Z3RRZTlJZ0xZSklIcE14T3RNZl93?oc=5) _(google_news)_
 - 2026-11-13 — **Hogeschool Utrecht**: [Hoe zorgen we ervoor dat die klas vol blijft?](https://news.google.com/rss/articles/CBMieEFVX3lxTE50aGlFTm44RFozWDRBTDR0UGNsLTZvZXdiSEZ5NWtDTE9HQ05uQUd1RFF4cWhhMTlWMXp1WlFHTlRhdlQtMnJpb0JKVFdBdWZtVUZMVXlrUXhhdDZ4ZEkwc0QxMjJBbmRRZWdSbUpfSFRWTUNVY0VGVA?oc=5) _(google_news)_
 - 2026-11-13 — **Hogeschool Utrecht**: [Basisbeurs gaat met 50 euro omhoog, voor uitwonenden (en dat is niet voor de ouders!)](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb3U2cHA3QmNuV2lOVGxKc0ZwWkJUNkY4ME1aZTFxT3ZWNVFCYW5xQkJNMmdjNkdEcVlCamQtLW1ma0ZJTEZiOVhIWnZHQkI3ZDFhVnc4cXk1M2JNZHlxdmV1YWdvQkxQTVVTcHIyaVBhd2t0aktWQy12a2FOUHZ3UXN4V2dLMDduSEtQdWRxbzF1RHR2LXdrRF9HSXNQU0RWOWV2QnktZkd5dw?oc=5) _(google_news)_
-- 2026-11-13 — **Drimble**: [Wereldwijde Microsoft-storing treft ook Hogeschool Utrecht](https://news.google.com/rss/articles/CBMitAFBVV95cUxQRWF4bmtteFl3UF96WlFNQmdBZzFOd0dHVDBJUEdFNXNNRVNteVYtLXZpUjlOcERFeHF0eE02YzFrM0YwZzFkQ3hPam5RaGhyN25OR2xleHNiSVp0LURUSzB3NExOOUctcWhiaXc3eC1od3BtVVdmZFl0WWI3SjZRV29yTFJVTGFNUllqdjhPbE05RXVpcGR5WHh0Rlp2SlhRRGFfU2VadzVYYjFaeGcyeFJWX1I?oc=5) _(google_news)_
 
 ## MediKIT
 
